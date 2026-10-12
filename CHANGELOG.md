@@ -2,9 +2,29 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-11.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-10-10).
+**Last checked: 2026-10-12.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-12
+
+
+### Leaderboard
+
+- **New model: Vivix W1** enters at #5 with 4.82/5. [Clips and scores](https://sloptv.co/model/vivix-w1)
+- Seedance 2.5: down to #6 (4.82)
+- MiniMax H3: down to #7 (4.81)
+- OpenAI Sora 2: down to #8 (4.78)
+- Grok Video: down to #9 (4.67)
+- Google Veo 3.1: down to #10 (4.67)
+- Runway Gen-4.5: down to #11 (4.63)
+- PixVerse v5.5: down to #12 (4.58)
+- Kling 3.0: down to #13 (4.45)
+- MiniMax Hailuo 02: down to #14 (3.93)
+
+### Benchmark clips
+
+- 40 new scored clips for Vivix W1 (round v1-vivix-2026-10)
 
 ## 2026-10-10
 

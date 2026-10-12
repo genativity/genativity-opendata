@@ -517,3 +517,43 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Google Veo 3.1",veo-3-1,i2v-old-photo,img2video,v1-magnific-2026-09,5.00,5.00,5.00,,,,,8.00,1920x1080,1,2026-09-14,https://sloptv.co/test/i2v-old-photo
 "Google Veo 3.1",veo-3-1,i2v-portrait-animate,img2video,v1-magnific-2026-09,5.00,5.00,5.00,,,,,8.00,1920x1080,1,2026-09-14,https://sloptv.co/test/i2v-portrait-animate
 "Google Veo 3.1",veo-3-1,i2v-product-spin,img2video,v1-magnific-2026-09,5.00,5.00,5.00,,,,,8.00,1920x1080,1,2026-09-14,https://sloptv.co/test/i2v-product-spin
+"Vivix W1",vivix-w1,hands-chopping-vegetables,hands,v1-vivix-2026-10,3.50,3.50,4.50,2.50,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-chopping-vegetables
+"Vivix W1",vivix-w1,hands-counting-fingers,hands,v1-vivix-2026-10,4.00,3.50,4.00,4.50,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-counting-fingers
+"Vivix W1",vivix-w1,hands-playing-guitar,hands,v1-vivix-2026-10,4.83,5.00,5.00,4.50,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-playing-guitar
+"Vivix W1",vivix-w1,hands-tying-shoelaces,hands,v1-vivix-2026-10,4.83,4.50,5.00,5.00,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-tying-shoelaces
+"Vivix W1",vivix-w1,face-crowd-background,faces,v1-vivix-2026-10,4.83,5.00,5.00,,4.50,,1,7.89,1264x720,1,2026-10-12,https://sloptv.co/test/face-crowd-background
+"Vivix W1",vivix-w1,face-elderly-detail,faces,v1-vivix-2026-10,4.83,4.50,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/face-elderly-detail
+"Vivix W1",vivix-w1,face-glasses-reflection,faces,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/face-glasses-reflection
+"Vivix W1",vivix-w1,face-turn-smile,faces,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/face-turn-smile
+"Vivix W1",vivix-w1,liquid-coffee-pour,liquids,v1-vivix-2026-10,4.83,4.50,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/liquid-coffee-pour
+"Vivix W1",vivix-w1,liquid-honey-drizzle,liquids,v1-vivix-2026-10,5.00,5.00,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/liquid-honey-drizzle
+"Vivix W1",vivix-w1,liquid-ice-melt,liquids,v1-vivix-2026-10,3.67,3.50,5.00,2.50,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/liquid-ice-melt
+"Vivix W1",vivix-w1,liquid-wave-crash,liquids,v1-vivix-2026-10,4.83,4.50,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/liquid-wave-crash
+"Vivix W1",vivix-w1,text-book-page,text_render,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/text-book-page
+"Vivix W1",vivix-w1,text-neon-sign,text_render,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/text-neon-sign
+"Vivix W1",vivix-w1,text-shop-front,text_render,v1-vivix-2026-10,4.83,5.00,4.50,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/text-shop-front
+"Vivix W1",vivix-w1,text-tshirt,text_render,v1-vivix-2026-10,4.83,4.50,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/text-tshirt
+"Vivix W1",vivix-w1,multishot-cafe-conversation,multishot,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/multishot-cafe-conversation
+"Vivix W1",vivix-w1,multishot-day-night,multishot,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/multishot-day-night
+"Vivix W1",vivix-w1,multishot-product-reveal,multishot,v1-vivix-2026-10,4.83,5.00,4.50,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/multishot-product-reveal
+"Vivix W1",vivix-w1,multishot-street-follow,multishot,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/multishot-street-follow
+"Vivix W1",vivix-w1,lipsync-accent-phrase,lipsync,v1-vivix-2026-10,5.00,5.00,5.00,,,5.00,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/lipsync-accent-phrase
+"Vivix W1",vivix-w1,lipsync-direct-address,lipsync,v1-vivix-2026-10,5.00,5.00,5.00,,,5.00,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/lipsync-direct-address
+"Vivix W1",vivix-w1,lipsync-singing,lipsync,v1-vivix-2026-10,5.00,5.00,5.00,,,5.00,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/lipsync-singing
+"Vivix W1",vivix-w1,lipsync-two-speakers,lipsync,v1-vivix-2026-10,5.00,5.00,5.00,,,5.00,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/lipsync-two-speakers
+"Vivix W1",vivix-w1,camera-crane-up,camera,v1-vivix-2026-10,5.00,5.00,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/camera-crane-up
+"Vivix W1",vivix-w1,camera-dolly-in-door,camera,v1-vivix-2026-10,5.00,5.00,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/camera-dolly-in-door
+"Vivix W1",vivix-w1,camera-handheld-follow,camera,v1-vivix-2026-10,5.00,5.00,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/camera-handheld-follow
+"Vivix W1",vivix-w1,camera-orbit-subject,camera,v1-vivix-2026-10,4.50,4.00,5.00,4.50,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/camera-orbit-subject
+"Vivix W1",vivix-w1,animal-bird-takeoff,animals,v1-vivix-2026-10,5.00,5.00,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/animal-bird-takeoff
+"Vivix W1",vivix-w1,animal-cat-jump,animals,v1-vivix-2026-10,4.67,4.00,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/animal-cat-jump
+"Vivix W1",vivix-w1,animal-dog-shake,animals,v1-vivix-2026-10,4.83,4.50,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/animal-dog-shake
+"Vivix W1",vivix-w1,animal-horse-gallop,animals,v1-vivix-2026-10,4.83,4.50,5.00,5.00,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/animal-horse-gallop
+"Vivix W1",vivix-w1,style-anime-consistency,style,v1-vivix-2026-10,4.83,4.50,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/style-anime-consistency
+"Vivix W1",vivix-w1,style-claymation,style,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/style-claymation
+"Vivix W1",vivix-w1,style-film-grain,style,v1-vivix-2026-10,4.83,4.50,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/style-film-grain
+"Vivix W1",vivix-w1,style-product-rotate,style,v1-vivix-2026-10,5.00,5.00,5.00,,5.00,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/style-product-rotate
+"Vivix W1",vivix-w1,i2v-landscape-motion,img2video,v1-vivix-2026-10,5.00,5.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-landscape-motion
+"Vivix W1",vivix-w1,i2v-old-photo,img2video,v1-vivix-2026-10,5.00,5.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-old-photo
+"Vivix W1",vivix-w1,i2v-portrait-animate,img2video,v1-vivix-2026-10,5.00,5.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-portrait-animate
+"Vivix W1",vivix-w1,i2v-product-spin,img2video,v1-vivix-2026-10,4.50,4.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-product-spin
