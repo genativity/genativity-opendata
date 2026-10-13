@@ -2,9 +2,29 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-12.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-13.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-13
+
+### Prices
+
+**No longer listed:**
+- Google Veo 3.1 on fal.ai: 40 variants
+
+### Leaderboard
+
+- Seedance 2.0: up to #3, 4.83 → 4.87
+- FLUX 3: down to #4 (4.83)
+- Grok Video: #9, 4.67 → 4.74
+- Kling 3.0: #13, 4.45 → 4.49
+
+### Benchmark clips
+
+- Score corrected: Grok Video on [hands-counting-fingers](https://sloptv.co/test/hands-counting-fingers), 2.50 → 5.00
+- Score corrected: Kling 3.0 on [hands-counting-fingers](https://sloptv.co/test/hands-counting-fingers), 3.17 → 4.83
+- Score corrected: Seedance 2.0 on [hands-counting-fingers](https://sloptv.co/test/hands-counting-fingers), 3.17 → 4.67
 
 ## 2026-10-12
 
