@@ -2,9 +2,29 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-13.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-14.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-14
+
+### Prices
+
+- **fal.ai is now the cheapest place to run FLUX 3** at 720p and 1080p, after Black Forest Labs API stopped listing it. [Compare](https://sloptv.co/radar/flux-3)
+- **Runway is now the cheapest place to run Seedance 2.0** at 1080p ($0.32/s), after Higgsfield raised its price. [Compare](https://sloptv.co/radar/seedance-2-0)
+
+2 price changes (0 down, 2 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.5](https://sloptv.co/radar/seedance-2-5) | Higgsfield | 1080p | $0.36/s | $0.48/s | +33.3% (promo ended) |
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | Higgsfield | 1080p | $0.27/s | $0.36/s | +33.3% (promo ended) |
+
+**New offers:**
+- Seedance 2.5 on Higgsfield: 1 variant, from $0.78/s ([radar](https://sloptv.co/radar/seedance-2-5))
+
+**No longer listed:**
+- FLUX 3 on Black Forest Labs API: 4 variants
 
 ## 2026-10-13
 

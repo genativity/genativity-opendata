@@ -5,29 +5,29 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 16 platforms and APIs.
 
 - **14 models** benchmarked, **558 scored clips**
-- **10,529 prices** for 14 models, last read 2026-10-13
+- **10,565 prices** for 14 models, last read 2026-10-14
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-13)
+## Latest changes (2026-10-14)
 
 #### Prices
 
+- **fal.ai is now the cheapest place to run FLUX 3** at 720p and 1080p, after Black Forest Labs API stopped listing it. [Compare](https://sloptv.co/radar/flux-3)
+- **Runway is now the cheapest place to run Seedance 2.0** at 1080p ($0.32/s), after Higgsfield raised its price. [Compare](https://sloptv.co/radar/seedance-2-0)
+
+2 price changes (0 down, 2 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.5](https://sloptv.co/radar/seedance-2-5) | Higgsfield | 1080p | $0.36/s | $0.48/s | +33.3% (promo ended) |
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | Higgsfield | 1080p | $0.27/s | $0.36/s | +33.3% (promo ended) |
+
+**New offers:**
+- Seedance 2.5 on Higgsfield: 1 variant, from $0.78/s ([radar](https://sloptv.co/radar/seedance-2-5))
+
 **No longer listed:**
-- Google Veo 3.1 on fal.ai: 40 variants
-
-#### Leaderboard
-
-- Seedance 2.0: up to #3, 4.83 → 4.87
-- FLUX 3: down to #4 (4.83)
-- Grok Video: #9, 4.67 → 4.74
-- Kling 3.0: #13, 4.45 → 4.49
-
-#### Benchmark clips
-
-- Score corrected: Grok Video on [hands-counting-fingers](https://sloptv.co/test/hands-counting-fingers), 2.50 → 5.00
-- Score corrected: Kling 3.0 on [hands-counting-fingers](https://sloptv.co/test/hands-counting-fingers), 3.17 → 4.83
-- Score corrected: Seedance 2.0 on [hands-counting-fingers](https://sloptv.co/test/hands-counting-fingers), 3.17 → 4.67
+- FLUX 3 on Black Forest Labs API: 4 variants
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -60,7 +60,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 14 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 558 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 10,529 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 10,565 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
