@@ -2,9 +2,29 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-14.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-15.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-15
+
+### Prices
+
+- **Black Forest Labs API is now the cheapest place to run FLUX 3** at 720p and 1080p, ahead of fal.ai. [Compare](https://sloptv.co/radar/flux-3)
+- **Lumeta is now the cheapest place to run MiniMax H3** at 480p ($0.0165/s), ahead of fal.ai ($0.05/s). [Compare](https://sloptv.co/radar/hailuo-h3)
+- **Lumeta is now the cheapest place to run MiniMax H3** at 768p ($0.0264/s), ahead of Kie.ai ($0.04/s). [Compare](https://sloptv.co/radar/hailuo-h3)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 1080p ($0.243/s), ahead of Runway ($0.32/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 480p ($0.0487/s), ahead of BytePlus ModelArk ($0.0673/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 4k ($0.545/s), ahead of Higgsfield ($0.66/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 720p ($0.0974/s), ahead of OpenArt ($0.132/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.5** at 480p, 720p and 1080p, ahead of Higgsfield. [Compare](https://sloptv.co/radar/seedance-2-5)
+
+**New offers:**
+- FLUX 3 on Black Forest Labs API: 4 variants, from $0.15/s ([radar](https://sloptv.co/radar/flux-3))
+- MiniMax Hailuo 02 on Lumeta: 3 variants, from $0.011/s ([radar](https://sloptv.co/radar/hailuo-02))
+- MiniMax H3 on Lumeta: 3 variants, from $0.0165/s ([radar](https://sloptv.co/radar/hailuo-h3))
+- Seedance 2.0 on Lumeta: 8 variants, from $0.0256/s ([radar](https://sloptv.co/radar/seedance-2-0))
+- Seedance 2.5 on Lumeta: 5 variants, from $0.0677/s ([radar](https://sloptv.co/radar/seedance-2-5))
 
 ## 2026-10-14
 

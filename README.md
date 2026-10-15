@@ -2,32 +2,33 @@
 
 Open dataset behind [SlopTV](https://sloptv.co), an independent benchmark and price tracker for AI video generation.
 Every model runs the same 40 fixed prompts across 10 categories (hands, faces, liquids, text, lip-sync,
-camera moves and more), every clip is scored, and published prices are tracked twice a day across 16 platforms and APIs.
+camera moves and more), every clip is scored, and published prices are tracked twice a day across 17 platforms and APIs.
 
 - **14 models** benchmarked, **558 scored clips**
-- **10,565 prices** for 14 models, last read 2026-10-14
+- **11,541 prices** for 14 models, last read 2026-10-15
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-14)
+## Latest changes (2026-10-15)
 
 #### Prices
 
-- **fal.ai is now the cheapest place to run FLUX 3** at 720p and 1080p, after Black Forest Labs API stopped listing it. [Compare](https://sloptv.co/radar/flux-3)
-- **Runway is now the cheapest place to run Seedance 2.0** at 1080p ($0.32/s), after Higgsfield raised its price. [Compare](https://sloptv.co/radar/seedance-2-0)
-
-2 price changes (0 down, 2 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
-
-| Model | Platform | Variant | Before | Now | Change |
-|---|---|---|---:|---:|---:|
-| [Seedance 2.5](https://sloptv.co/radar/seedance-2-5) | Higgsfield | 1080p | $0.36/s | $0.48/s | +33.3% (promo ended) |
-| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | Higgsfield | 1080p | $0.27/s | $0.36/s | +33.3% (promo ended) |
+- **Black Forest Labs API is now the cheapest place to run FLUX 3** at 720p and 1080p, ahead of fal.ai. [Compare](https://sloptv.co/radar/flux-3)
+- **Lumeta is now the cheapest place to run MiniMax H3** at 480p ($0.0165/s), ahead of fal.ai ($0.05/s). [Compare](https://sloptv.co/radar/hailuo-h3)
+- **Lumeta is now the cheapest place to run MiniMax H3** at 768p ($0.0264/s), ahead of Kie.ai ($0.04/s). [Compare](https://sloptv.co/radar/hailuo-h3)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 1080p ($0.243/s), ahead of Runway ($0.32/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 480p ($0.0487/s), ahead of BytePlus ModelArk ($0.0673/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 4k ($0.545/s), ahead of Higgsfield ($0.66/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.0** at 720p ($0.0974/s), ahead of OpenArt ($0.132/s). [Compare](https://sloptv.co/radar/seedance-2-0)
+- **Lumeta is now the cheapest place to run Seedance 2.5** at 480p, 720p and 1080p, ahead of Higgsfield. [Compare](https://sloptv.co/radar/seedance-2-5)
 
 **New offers:**
-- Seedance 2.5 on Higgsfield: 1 variant, from $0.78/s ([radar](https://sloptv.co/radar/seedance-2-5))
+- FLUX 3 on Black Forest Labs API: 4 variants, from $0.15/s ([radar](https://sloptv.co/radar/flux-3))
+- MiniMax Hailuo 02 on Lumeta: 3 variants, from $0.011/s ([radar](https://sloptv.co/radar/hailuo-02))
+- MiniMax H3 on Lumeta: 3 variants, from $0.0165/s ([radar](https://sloptv.co/radar/hailuo-h3))
+- Seedance 2.0 on Lumeta: 8 variants, from $0.0256/s ([radar](https://sloptv.co/radar/seedance-2-0))
 
-**No longer listed:**
-- FLUX 3 on Black Forest Labs API: 4 variants
+[Full list of changes](CHANGELOG.md)
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -60,7 +61,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 14 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 558 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 10,565 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 11,541 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
@@ -137,7 +138,7 @@ round instead of rewriting old results. Details and known limits: [methodology](
 
 **Prices.** What each platform publishes for a US visitor, before tax, read twice a day (06:00 and 18:00 UTC). Credit and
 subscription prices are converted to dollars assuming the plan's credits are spent on that model. Moves larger than 25% are
-held for a manual check before they are published. Platforms tracked: Black Forest Labs API, BytePlus ModelArk, fal.ai, Google Gemini API, Higgsfield, Higgsfield API, Kie.ai, Kling API, Luma API, Magnific, MiniMax API, OpenArt, Replicate, Runway, Runway API, xAI API.
+held for a manual check before they are published. Platforms tracked: Black Forest Labs API, BytePlus ModelArk, fal.ai, Google Gemini API, Higgsfield, Higgsfield API, Kie.ai, Kling API, Luma API, Lumeta, Magnific, MiniMax API, OpenArt, Replicate, Runway, Runway API, xAI API.
 How the radar works: [sloptv.co/radar](https://sloptv.co/radar).
 
 Found an error? Open an issue or write to press@sloptv.co.
