@@ -260,11 +260,11 @@
                     },
                     {
                         "name": "is_entry_plan",
-                        "description": "1 for the cheapest plan that can run the model"
+                        "description": "1 for the cheapest monthly plan that can run the model"
                     },
                     {
                         "name": "is_best_plan",
-                        "description": "1 for the plan with the lowest cost per clip"
+                        "description": "1 for the price the radar compares: the pay-as-you-go price, or the lowest cost per clip on any monthly plan. Yearly plans are never compared (until 2026-10-16 this could be a yearly plan)"
                     },
                     {
                         "name": "exact",
@@ -273,6 +273,10 @@
                     {
                         "name": "promo",
                         "description": "1 if it is a time-limited promotional price"
+                    },
+                    {
+                        "name": "billing",
+                        "description": "monthly or yearly for subscription plans (plan_usd_month is the monthly equivalent); empty for pay-as-you-go"
                     }
                 ]
             }

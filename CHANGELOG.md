@@ -2,9 +2,15 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-15.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-16.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-16
+
+### Prices
+
+- **Method change:** each subscription platform is now compared at its lowest price on a **monthly** plan. Until today `is_best_plan` could be a yearly plan; yearly prices stay in the file, marked by the new `billing` column, but are no longer compared. Prices that look higher today on Higgsfield, Runway, Magnific, OpenArt and Lumeta come from this change, not from the platforms.
 
 ## 2026-10-15
 
