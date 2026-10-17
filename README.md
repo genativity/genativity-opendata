@@ -9,11 +9,11 @@ camera moves and more), every clip is scored, and published prices are tracked t
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-16)
+## Latest changes (2026-10-17)
 
-#### Prices
+#### Benchmark clips
 
-- **Method change:** each subscription platform is now compared at its lowest price on a **monthly** plan. Until today `is_best_plan` could be a yearly plan; yearly prices stay in the file, marked by the new `billing` column, but are no longer compared. Prices that look higher today on Higgsfield, Runway, Magnific, OpenArt and Lumeta come from this change, not from the platforms.
+- Round labels now use the v1-YYYY-MM format, and clip URLs follow them. No score changed.
 
 [All changes, day by day](CHANGELOG.md)
 

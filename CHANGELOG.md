@@ -2,9 +2,16 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-16.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-17.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-17
+
+
+### Benchmark clips
+
+- Round labels now use the v1-YYYY-MM format, and clip URLs follow them. No score changed.
 
 ## 2026-10-16
 
