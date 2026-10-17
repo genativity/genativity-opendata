@@ -5,15 +5,29 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 17 platforms and APIs.
 
 - **14 models** benchmarked, **558 scored clips**
-- **11,649 prices** for 14 models, last read 2026-10-16
+- **11,427 prices** for 14 models, last read 2026-10-17
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
 ## Latest changes (2026-10-17)
 
-#### Benchmark clips
+#### Prices
 
-- Round labels now use the v1-YYYY-MM format, and clip URLs follow them. No score changed.
+13 price changes (13 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | fal.ai | 2 variants (480p) | $0.173/s | $0.135/s | -22.3% |
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | fal.ai | 2 variants (720p) | $0.37/s | $0.303/s | -18.0% |
+| [Seedance 2.5](https://sloptv.co/radar/seedance-2-5) | fal.ai | 6 variants (480p and 720p) | $0.265/s | $0.221/s | -16.7% |
+| [Seedance 2.5](https://sloptv.co/radar/seedance-2-5) | fal.ai | 3 variants (1080p) | $1.396/s | $1.164/s | -16.6% |
+
+**New offers:**
+- Seedance 2.0 on fal.ai: 4 variants, from $0.682/s ([radar](https://sloptv.co/radar/seedance-2-0))
+
+**No longer listed:**
+- Seedance 2.0 on fal.ai: 12 variants
+- Seedance 2.5 on fal.ai: 9 variants
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -46,7 +60,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 14 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 558 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 11,649 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 11,427 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
