@@ -4,32 +4,31 @@ Open dataset behind [SlopTV](https://sloptv.co), an independent benchmark and pr
 Every model runs the same 40 fixed prompts across 10 categories (hands, faces, liquids, text, lip-sync,
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 17 platforms and APIs.
 
-- **14 models** benchmarked, **558 scored clips**
-- **11,817 prices** for 14 models, last read 2026-10-20
+- **15 models** benchmarked, **598 scored clips**
+- **11,809 prices** for 14 models, last read 2026-10-21
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-18)
+## Latest changes (2026-10-21)
 
 #### Prices
 
-**New offers:**
-- Seedance 2.0 on fal.ai: 12 variants, from $0.135/s ([radar](https://sloptv.co/radar/seedance-2-0))
-- Seedance 2.5 on fal.ai: 9 variants, from $0.221/s ([radar](https://sloptv.co/radar/seedance-2-5))
-- Google Veo 3.1 on fal.ai: 40 variants, from $0.03/s ([radar](https://sloptv.co/radar/veo-3-1))
+**No longer listed:**
+- Luma Dream Machine on Replicate: 4 variants
 
 #### Leaderboard
 
-- Kling 3.0 Turbo: up to #1, 4.89 → 4.84
-- FLUX 3: up to #2, 4.83 → 4.84
-- Seedance 2.0: #3, 4.87 → 4.84
-- Google Gemini Omni: down to #4, 4.91 → 4.82
-- MiniMax H3: up to #5, 4.81 → 4.79
-- Seedance 2.5: #6, 4.82 → 4.79
-- Vivix W1: down to #7, 4.82 → 4.77
-- OpenAI Sora 2: #8, 4.78 → 4.76
+- **New model: Wan 3.0** enters at #9 with 4.75/5. [Clips and scores](https://sloptv.co/model/wan-3-0)
+- Grok Video: down to #10 (4.72)
+- Google Veo 3.1: down to #11 (4.63)
+- Runway Gen-4.5: down to #12 (4.57)
+- PixVerse v5.5: down to #13 (4.52)
+- Kling 3.0: down to #14 (4.47)
+- MiniMax Hailuo 02: down to #15 (3.90)
 
-[Full list of changes](CHANGELOG.md)
+#### Benchmark clips
+
+- 40 new scored clips for Wan 3.0 (round v1-2026-10)
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -47,12 +46,13 @@ Browse it on the site: [leaderboard](https://sloptv.co/leaderboard) · [price ra
 | 6 | [Seedance 2.5](https://sloptv.co/model/seedance-2-5) | ByteDance | 4.79 | ±0.15 |
 | 7 | [Vivix W1](https://sloptv.co/model/vivix-w1) | Vivix | 4.77 | ±0.15 |
 | 8 | [OpenAI Sora 2](https://sloptv.co/model/sora-2) | OpenAI | 4.76 | ±0.17 |
-| 9 | [Grok Video](https://sloptv.co/model/grok-video) | xAI | 4.72 | ±0.16 |
-| 10 | [Google Veo 3.1](https://sloptv.co/model/veo-3-1) | Google | 4.63 | ±0.26 |
-| 11 | [Runway Gen-4.5](https://sloptv.co/model/runway-gen-4) | Runway | 4.57 | ±0.16 |
-| 12 | [PixVerse v5.5](https://sloptv.co/model/pixverse-v5-5) | PixVerse | 4.52 | ±0.18 |
-| 13 | [Kling 3.0](https://sloptv.co/model/kling-3-0) | Kuaishou | 4.47 | ±0.20 |
-| 14 | [MiniMax Hailuo 02](https://sloptv.co/model/hailuo-02) | MiniMax | 3.90 | ±0.47 |
+| 9 | [Wan 3.0](https://sloptv.co/model/wan-3-0) | Alibaba | 4.75 | ±0.12 |
+| 10 | [Grok Video](https://sloptv.co/model/grok-video) | xAI | 4.72 | ±0.16 |
+| 11 | [Google Veo 3.1](https://sloptv.co/model/veo-3-1) | Google | 4.63 | ±0.26 |
+| 12 | [Runway Gen-4.5](https://sloptv.co/model/runway-gen-4) | Runway | 4.57 | ±0.16 |
+| 13 | [PixVerse v5.5](https://sloptv.co/model/pixverse-v5-5) | PixVerse | 4.52 | ±0.18 |
+| 14 | [Kling 3.0](https://sloptv.co/model/kling-3-0) | Kuaishou | 4.47 | ±0.20 |
+| 15 | [MiniMax Hailuo 02](https://sloptv.co/model/hailuo-02) | MiniMax | 3.90 | ±0.47 |
 
 Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](data/leaderboard.csv). Live version: [sloptv.co/leaderboard](https://sloptv.co/leaderboard).
 
@@ -60,9 +60,9 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 
 | File | Rows | What it has |
 |---|---:|---|
-| [`data/leaderboard.csv`](data/leaderboard.csv) | 14 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
-| [`data/scores.csv`](data/scores.csv) | 558 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 11,817 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/leaderboard.csv`](data/leaderboard.csv) | 15 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
+| [`data/scores.csv`](data/scores.csv) | 598 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
+| [`data/prices.csv`](data/prices.csv) | 11,809 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 

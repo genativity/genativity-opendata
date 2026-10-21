@@ -2,9 +2,30 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-20.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-10-18).
+**Last checked: 2026-10-21.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-21
+
+### Prices
+
+**No longer listed:**
+- Luma Dream Machine on Replicate: 4 variants
+
+### Leaderboard
+
+- **New model: Wan 3.0** enters at #9 with 4.75/5. [Clips and scores](https://sloptv.co/model/wan-3-0)
+- Grok Video: down to #10 (4.72)
+- Google Veo 3.1: down to #11 (4.63)
+- Runway Gen-4.5: down to #12 (4.57)
+- PixVerse v5.5: down to #13 (4.52)
+- Kling 3.0: down to #14 (4.47)
+- MiniMax Hailuo 02: down to #15 (3.90)
+
+### Benchmark clips
+
+- 40 new scored clips for Wan 3.0 (round v1-2026-10)
 
 ## 2026-10-18
 
