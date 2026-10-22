@@ -5678,30 +5678,30 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.0",seedance-2-0,fal.ai,mini,i2v,720p,,13.0,,,2.0111,0.15470,1,1,0,0,
 "Seedance 2.0",seedance-2-0,fal.ai,mini,i2v,720p,,14.0,,,2.1658,0.15470,1,1,0,0,
 "Seedance 2.0",seedance-2-0,fal.ai,mini,i2v,720p,,15.0,,,2.3205,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,4.0,,,0.2884,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,5.0,,,0.3605,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,6.0,,,0.4326,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,7.0,,,0.5047,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,8.0,,,0.5768,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,9.0,,,0.6489,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,10.0,,,0.7210,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,11.0,,,0.7931,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,12.0,,,0.8652,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,13.0,,,0.9373,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,14.0,,,1.0094,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,15.0,,,1.0815,0.07210,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,4.0,,,0.6188,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,5.0,,,0.7735,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,6.0,,,0.9282,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,7.0,,,1.0829,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,8.0,,,1.2376,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,9.0,,,1.3923,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,10.0,,,1.5470,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,11.0,,,1.7017,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,12.0,,,1.8564,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,13.0,,,2.0111,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,14.0,,,2.1658,0.15470,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,15.0,,,2.3205,0.15470,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,4.0,,,0.2690,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,5.0,,,0.3363,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,6.0,,,0.4035,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,7.0,,,0.4708,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,8.0,,,0.5380,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,9.0,,,0.6053,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,10.0,,,0.6725,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,11.0,,,0.7398,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,12.0,,,0.8070,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,13.0,,,0.8743,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,14.0,,,0.9415,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,480p,,15.0,,,1.0088,0.06725,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,4.0,,,0.6048,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,5.0,,,0.7560,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,6.0,,,0.9072,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,7.0,,,1.0584,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,8.0,,,1.2096,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,9.0,,,1.3608,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,10.0,,,1.5120,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,11.0,,,1.6632,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,12.0,,,1.8144,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,13.0,,,1.9656,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,14.0,,,2.1168,0.15120,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,mini,ref2v,720p,,15.0,,,2.2680,0.15120,1,1,0,0,
 "Seedance 2.0",seedance-2-0,fal.ai,std,t2v,1080p,,4.0,,,2.7280,0.68200,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,std,t2v,1080p,,5.0,,,3.4100,0.68200,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,std,t2v,1080p,,6.0,,,4.0920,0.68200,1,1,1,0,
@@ -5798,54 +5798,6 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.0",seedance-2-0,fal.ai,std,i2v,720p,,13.0,,,3.9442,0.30340,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,std,i2v,720p,,14.0,,,4.2476,0.30340,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,std,i2v,720p,,15.0,,,4.5510,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,4.0,,,2.7280,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,5.0,,,3.4100,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,6.0,,,4.0920,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,7.0,,,4.7740,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,8.0,,,5.4560,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,9.0,,,6.1380,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,10.0,,,6.8200,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,11.0,,,7.5020,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,12.0,,,8.1840,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,13.0,,,8.8660,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,14.0,,,9.5480,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,1080p,,15.0,,,10.2300,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,4.0,,,0.5380,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,5.0,,,0.6725,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,6.0,,,0.8070,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,7.0,,,0.9415,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,8.0,,,1.0760,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,9.0,,,1.2105,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,10.0,,,1.3450,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,11.0,,,1.4796,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,12.0,,,1.6141,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,13.0,,,1.7486,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,14.0,,,1.8831,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,480p,,15.0,,,2.0176,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,4.0,,,6.2208,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,5.0,,,7.7760,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,6.0,,,9.3312,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,7.0,,,10.8864,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,8.0,,,12.4416,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,9.0,,,13.9968,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,10.0,,,15.5520,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,11.0,,,17.1072,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,12.0,,,18.6624,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,13.0,,,20.2176,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,14.0,,,21.7728,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,4k,,15.0,,,23.3280,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,4.0,,,1.2136,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,5.0,,,1.5170,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,6.0,,,1.8204,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,7.0,,,2.1238,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,8.0,,,2.4272,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,9.0,,,2.7306,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,10.0,,,3.0340,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,11.0,,,3.3374,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,12.0,,,3.6408,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,13.0,,,3.9442,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,14.0,,,4.2476,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,std,ref2v,720p,,15.0,,,4.5510,0.30340,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,us-hosted,t2v,480p,,4.0,,,0.6924,0.17310,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,us-hosted,t2v,480p,,5.0,,,0.8655,0.17310,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,us-hosted,t2v,480p,,6.0,,,1.0386,0.17310,1,1,1,0,
@@ -5918,54 +5870,30 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.0",seedance-2-0,fal.ai,us-hosted,i2v,720p,,13.0,,,3.9442,0.30340,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,us-hosted,i2v,720p,,14.0,,,4.2476,0.30340,1,1,1,0,
 "Seedance 2.0",seedance-2-0,fal.ai,us-hosted,i2v,720p,,15.0,,,4.5510,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,4.0,,,2.7280,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,5.0,,,3.4100,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,6.0,,,4.0920,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,7.0,,,4.7740,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,8.0,,,5.4560,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,9.0,,,6.1380,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,10.0,,,6.8200,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,11.0,,,7.5020,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,12.0,,,8.1840,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,13.0,,,8.8660,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,14.0,,,9.5480,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,1080p,,15.0,,,10.2300,0.68200,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,4.0,,,0.5380,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,5.0,,,0.6725,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,6.0,,,0.8070,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,7.0,,,0.9415,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,8.0,,,1.0760,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,9.0,,,1.2105,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,10.0,,,1.3450,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,11.0,,,1.4796,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,12.0,,,1.6141,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,13.0,,,1.7486,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,14.0,,,1.8831,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,15.0,,,2.0176,0.13451,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,4.0,,,6.2208,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,5.0,,,7.7760,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,6.0,,,9.3312,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,7.0,,,10.8864,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,8.0,,,12.4416,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,9.0,,,13.9968,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,10.0,,,15.5520,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,11.0,,,17.1072,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,12.0,,,18.6624,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,13.0,,,20.2176,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,14.0,,,21.7728,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,4k,,15.0,,,23.3280,1.55520,1,1,0,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,4.0,,,1.2136,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,5.0,,,1.5170,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,6.0,,,1.8204,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,7.0,,,2.1238,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,8.0,,,2.4272,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,9.0,,,2.7306,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,10.0,,,3.0340,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,11.0,,,3.3374,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,12.0,,,3.6408,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,13.0,,,3.9442,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,14.0,,,4.2476,0.30340,1,1,1,0,
-"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,15.0,,,4.5510,0.30340,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,4.0,,,0.6924,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,5.0,,,0.8655,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,6.0,,,1.0386,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,7.0,,,1.2117,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,8.0,,,1.3848,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,9.0,,,1.5579,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,10.0,,,1.7310,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,11.0,,,1.9041,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,12.0,,,2.0772,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,13.0,,,2.2503,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,14.0,,,2.4234,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,480p,,15.0,,,2.5965,0.17310,1,1,1,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,4.0,,,1.4800,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,5.0,,,1.8500,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,6.0,,,2.2200,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,7.0,,,2.5900,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,8.0,,,2.9600,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,9.0,,,3.3300,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,10.0,,,3.7000,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,11.0,,,4.0700,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,12.0,,,4.4400,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,13.0,,,4.8100,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,14.0,,,5.1800,0.37000,1,1,0,0,
+"Seedance 2.0",seedance-2-0,fal.ai,us-hosted,ref2v,720p,,15.0,,,5.5500,0.37000,1,1,0,0,
 "Seedance 2.0",seedance-2-0,Higgsfield,fast,,1080p,,4.0,ultra-9000,270.00,0.8400,0.21000,0,0,1,0,yearly
 "Seedance 2.0",seedance-2-0,Higgsfield,fast,,1080p,,4.0,ultra-6000,193.50,0.9030,0.22575,0,0,1,0,yearly
 "Seedance 2.0",seedance-2-0,Higgsfield,fast,,1080p,,4.0,ultra-3000,99.00,0.9240,0.23100,0,0,1,0,yearly
@@ -9270,132 +9198,132 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.5",seedance-2-5,fal.ai,std,ref2v,720p,,15.0,,,7.0950,0.47300,1,1,0,0,
 "Seedance 2.5",seedance-2-5,fal.ai,std,ref2v,720p,,20.0,,,9.4600,0.47300,1,1,0,0,
 "Seedance 2.5",seedance-2-5,fal.ai,std,ref2v,720p,,30.0,,,14.1900,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,4.0,,,4.6560,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,5.0,,,5.8200,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,6.0,,,6.9840,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,7.0,,,8.1480,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,8.0,,,9.3120,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,9.0,,,10.4760,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,10.0,,,11.6400,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,11.0,,,12.8040,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,12.0,,,13.9680,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,13.0,,,15.1320,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,14.0,,,16.2960,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,15.0,,,17.4600,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,20.0,,,23.2800,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,30.0,,,34.9200,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,4.0,,,0.8820,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,5.0,,,1.1025,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,6.0,,,1.3230,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,7.0,,,1.5435,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,8.0,,,1.7640,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,9.0,,,1.9845,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,10.0,,,2.2050,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,11.0,,,2.4255,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,12.0,,,2.6460,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,13.0,,,2.8665,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,14.0,,,3.0870,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,15.0,,,3.3075,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,20.0,,,4.4100,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,30.0,,,6.6150,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,4.0,,,1.8920,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,5.0,,,2.3650,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,6.0,,,2.8380,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,7.0,,,3.3110,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,8.0,,,3.7840,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,9.0,,,4.2570,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,10.0,,,4.7300,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,11.0,,,5.2030,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,12.0,,,5.6760,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,13.0,,,6.1490,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,14.0,,,6.6220,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,15.0,,,7.0950,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,20.0,,,9.4600,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,30.0,,,14.1900,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,4.0,,,4.6560,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,5.0,,,5.8200,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,6.0,,,6.9840,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,7.0,,,8.1480,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,8.0,,,9.3120,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,9.0,,,10.4760,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,10.0,,,11.6400,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,11.0,,,12.8040,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,12.0,,,13.9680,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,13.0,,,15.1320,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,14.0,,,16.2960,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,15.0,,,17.4600,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,20.0,,,23.2800,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,30.0,,,34.9200,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,4.0,,,0.8820,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,5.0,,,1.1025,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,6.0,,,1.3230,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,7.0,,,1.5435,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,8.0,,,1.7640,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,9.0,,,1.9845,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,10.0,,,2.2050,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,11.0,,,2.4255,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,12.0,,,2.6460,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,13.0,,,2.8665,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,14.0,,,3.0870,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,15.0,,,3.3075,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,20.0,,,4.4100,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,30.0,,,6.6150,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,4.0,,,1.8920,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,5.0,,,2.3650,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,6.0,,,2.8380,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,7.0,,,3.3110,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,8.0,,,3.7840,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,9.0,,,4.2570,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,10.0,,,4.7300,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,11.0,,,5.2030,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,12.0,,,5.6760,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,13.0,,,6.1490,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,14.0,,,6.6220,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,15.0,,,7.0950,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,20.0,,,9.4600,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,30.0,,,14.1900,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,4.0,,,4.6560,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,5.0,,,5.8200,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,6.0,,,6.9840,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,7.0,,,8.1480,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,8.0,,,9.3120,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,9.0,,,10.4760,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,10.0,,,11.6400,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,11.0,,,12.8040,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,12.0,,,13.9680,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,13.0,,,15.1320,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,14.0,,,16.2960,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,15.0,,,17.4600,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,20.0,,,23.2800,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,30.0,,,34.9200,1.16400,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,4.0,,,0.8820,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,5.0,,,1.1025,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,6.0,,,1.3230,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,7.0,,,1.5435,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,8.0,,,1.7640,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,9.0,,,1.9845,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,10.0,,,2.2050,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,11.0,,,2.4255,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,12.0,,,2.6460,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,13.0,,,2.8665,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,14.0,,,3.0870,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,15.0,,,3.3075,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,20.0,,,4.4100,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,30.0,,,6.6150,0.22050,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,4.0,,,1.8920,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,5.0,,,2.3650,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,6.0,,,2.8380,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,7.0,,,3.3110,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,8.0,,,3.7840,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,9.0,,,4.2570,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,10.0,,,4.7300,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,11.0,,,5.2030,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,12.0,,,5.6760,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,13.0,,,6.1490,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,14.0,,,6.6220,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,15.0,,,7.0950,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,20.0,,,9.4600,0.47300,1,1,0,0,
-"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,30.0,,,14.1900,0.47300,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,4.0,,,5.5851,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,5.0,,,6.9814,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,6.0,,,8.3777,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,7.0,,,9.7739,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,8.0,,,11.1702,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,9.0,,,12.5665,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,10.0,,,13.9628,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,11.0,,,15.3591,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,12.0,,,16.7553,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,13.0,,,18.1516,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,14.0,,,19.5479,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,15.0,,,20.9442,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,20.0,,,27.9256,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,1080p,,30.0,,,41.8883,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,4.0,,,1.0584,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,5.0,,,1.3230,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,6.0,,,1.5876,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,7.0,,,1.8522,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,8.0,,,2.1168,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,9.0,,,2.3814,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,10.0,,,2.6460,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,11.0,,,2.9106,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,12.0,,,3.1752,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,13.0,,,3.4398,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,14.0,,,3.7044,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,15.0,,,3.9690,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,20.0,,,5.2920,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,480p,,30.0,,,7.9380,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,4.0,,,2.2704,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,5.0,,,2.8380,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,6.0,,,3.4056,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,7.0,,,3.9732,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,8.0,,,4.5408,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,9.0,,,5.1084,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,10.0,,,5.6760,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,11.0,,,6.2436,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,12.0,,,6.8112,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,13.0,,,7.3788,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,14.0,,,7.9464,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,15.0,,,8.5140,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,20.0,,,11.3520,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,t2v,720p,,30.0,,,17.0280,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,4.0,,,5.5851,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,5.0,,,6.9814,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,6.0,,,8.3777,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,7.0,,,9.7739,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,8.0,,,11.1702,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,9.0,,,12.5665,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,10.0,,,13.9628,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,11.0,,,15.3591,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,12.0,,,16.7553,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,13.0,,,18.1516,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,14.0,,,19.5479,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,15.0,,,20.9442,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,20.0,,,27.9256,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,1080p,,30.0,,,41.8883,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,4.0,,,1.0584,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,5.0,,,1.3230,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,6.0,,,1.5876,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,7.0,,,1.8522,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,8.0,,,2.1168,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,9.0,,,2.3814,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,10.0,,,2.6460,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,11.0,,,2.9106,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,12.0,,,3.1752,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,13.0,,,3.4398,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,14.0,,,3.7044,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,15.0,,,3.9690,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,20.0,,,5.2920,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,480p,,30.0,,,7.9380,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,4.0,,,2.2704,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,5.0,,,2.8380,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,6.0,,,3.4056,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,7.0,,,3.9732,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,8.0,,,4.5408,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,9.0,,,5.1084,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,10.0,,,5.6760,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,11.0,,,6.2436,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,12.0,,,6.8112,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,13.0,,,7.3788,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,14.0,,,7.9464,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,15.0,,,8.5140,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,20.0,,,11.3520,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,i2v,720p,,30.0,,,17.0280,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,4.0,,,5.5851,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,5.0,,,6.9814,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,6.0,,,8.3777,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,7.0,,,9.7739,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,8.0,,,11.1702,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,9.0,,,12.5665,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,10.0,,,13.9628,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,11.0,,,15.3591,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,12.0,,,16.7553,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,13.0,,,18.1516,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,14.0,,,19.5479,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,15.0,,,20.9442,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,20.0,,,27.9256,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,1080p,,30.0,,,41.8883,1.39628,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,4.0,,,1.0584,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,5.0,,,1.3230,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,6.0,,,1.5876,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,7.0,,,1.8522,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,8.0,,,2.1168,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,9.0,,,2.3814,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,10.0,,,2.6460,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,11.0,,,2.9106,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,12.0,,,3.1752,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,13.0,,,3.4398,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,14.0,,,3.7044,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,15.0,,,3.9690,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,20.0,,,5.2920,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,480p,,30.0,,,7.9380,0.26460,1,1,1,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,4.0,,,2.2704,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,5.0,,,2.8380,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,6.0,,,3.4056,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,7.0,,,3.9732,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,8.0,,,4.5408,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,9.0,,,5.1084,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,10.0,,,5.6760,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,11.0,,,6.2436,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,12.0,,,6.8112,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,13.0,,,7.3788,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,14.0,,,7.9464,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,15.0,,,8.5140,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,20.0,,,11.3520,0.56760,1,1,0,0,
+"Seedance 2.5",seedance-2-5,fal.ai,us-hosted,ref2v,720p,,30.0,,,17.0280,0.56760,1,1,0,0,
 "Seedance 2.5",seedance-2-5,Higgsfield,std,,1080p,,4.0,ultra-9000,270.00,1.9200,0.48000,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,Higgsfield,std,,1080p,,4.0,ultra-6000,193.50,2.0640,0.51600,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,Higgsfield,std,,1080p,,4.0,ultra-3000,99.00,2.1120,0.52800,0,0,1,0,yearly
@@ -11808,3 +11736,1347 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Google Veo 3.1",veo-3-1,"Runway API",std,,,1,4.0,,,1.6000,0.40000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,"Runway API",std,,,1,6.0,,,2.4000,0.40000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,"Runway API",std,,,1,8.0,,,3.2000,0.40000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,2.0,,,0.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,3.0,,,0.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,4.0,,,0.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,5.0,,,1.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,6.0,,,1.2000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,7.0,,,1.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,8.0,,,1.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,9.0,,,1.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,10.0,,,2.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,11.0,,,2.2000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,12.0,,,2.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,13.0,,,2.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,14.0,,,2.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,15.0,,,3.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,20.0,,,4.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,1080p,,30.0,,,6.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,2.0,,,0.1000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,3.0,,,0.1500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,4.0,,,0.2000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,5.0,,,0.2500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,6.0,,,0.3000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,7.0,,,0.3500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,8.0,,,0.4000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,9.0,,,0.4500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,10.0,,,0.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,11.0,,,0.5500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,12.0,,,0.6000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,13.0,,,0.6500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,14.0,,,0.7000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,15.0,,,0.7500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,20.0,,,1.0000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,480p,,30.0,,,1.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,2.0,,,0.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,3.0,,,0.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,4.0,,,0.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,5.0,,,0.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,6.0,,,0.6000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,7.0,,,0.7000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,8.0,,,0.8000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,9.0,,,0.9000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,10.0,,,1.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,11.0,,,1.1000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,12.0,,,1.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,13.0,,,1.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,14.0,,,1.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,15.0,,,1.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,20.0,,,2.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,t2v,720p,,30.0,,,3.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,2.0,,,0.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,3.0,,,0.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,4.0,,,0.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,5.0,,,1.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,6.0,,,1.2000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,7.0,,,1.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,8.0,,,1.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,9.0,,,1.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,10.0,,,2.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,11.0,,,2.2000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,12.0,,,2.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,13.0,,,2.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,14.0,,,2.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,15.0,,,3.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,20.0,,,4.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,1080p,,30.0,,,6.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,2.0,,,0.1000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,3.0,,,0.1500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,4.0,,,0.2000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,5.0,,,0.2500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,6.0,,,0.3000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,7.0,,,0.3500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,8.0,,,0.4000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,9.0,,,0.4500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,10.0,,,0.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,11.0,,,0.5500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,12.0,,,0.6000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,13.0,,,0.6500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,14.0,,,0.7000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,15.0,,,0.7500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,20.0,,,1.0000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,480p,,30.0,,,1.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,2.0,,,0.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,3.0,,,0.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,4.0,,,0.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,5.0,,,0.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,6.0,,,0.6000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,7.0,,,0.7000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,8.0,,,0.8000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,9.0,,,0.9000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,10.0,,,1.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,11.0,,,1.1000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,12.0,,,1.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,13.0,,,1.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,14.0,,,1.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,15.0,,,1.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,20.0,,,2.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,fal.ai,std,i2v,720p,,30.0,,,3.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,ultra-9000,270.00,0.2100,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,ultra-6000,193.50,0.2258,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,ultra-3000,99.00,0.2310,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,ultra-9000,310.00,0.2411,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,ultra-6000,220.00,0.2567,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,plus-1200,47.00,0.2742,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,ultra-3000,129.00,0.3010,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,plus-1200,59.00,0.3442,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,scale-2500,150.01,0.4200,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,team-1000,65.00,0.4550,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,scale-2500,169.01,0.4732,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,team-1000,69.00,0.4830,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,starter-270,19.00,0.4926,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,2.0,starter-270,19.00,0.4926,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,ultra-9000,270.00,0.3150,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,ultra-6000,193.50,0.3386,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,ultra-3000,99.00,0.3465,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,ultra-9000,310.00,0.3617,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,ultra-6000,220.00,0.3850,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,plus-1200,47.00,0.4113,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,ultra-3000,129.00,0.4515,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,plus-1200,59.00,0.5163,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,scale-2500,150.01,0.6300,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,team-1000,65.00,0.6825,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,scale-2500,169.01,0.7098,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,team-1000,69.00,0.7245,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,starter-270,19.00,0.7389,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,3.0,starter-270,19.00,0.7389,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,ultra-9000,270.00,0.4200,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,ultra-6000,193.50,0.4515,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,ultra-3000,99.00,0.4620,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,ultra-9000,310.00,0.4822,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,ultra-6000,220.00,0.5133,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,plus-1200,47.00,0.5483,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,ultra-3000,129.00,0.6020,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,plus-1200,59.00,0.6883,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,scale-2500,150.01,0.8401,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,team-1000,65.00,0.9100,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,scale-2500,169.01,0.9465,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,team-1000,69.00,0.9660,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,starter-270,19.00,0.9852,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,4.0,starter-270,19.00,0.9852,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,ultra-9000,270.00,0.5250,0.10500,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,ultra-6000,193.50,0.5644,0.11288,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,ultra-3000,99.00,0.5775,0.11550,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,ultra-9000,310.00,0.6028,0.12056,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,ultra-6000,220.00,0.6417,0.12833,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,plus-1200,47.00,0.6854,0.13708,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,ultra-3000,129.00,0.7525,0.15050,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,plus-1200,59.00,0.8604,0.17208,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,scale-2500,150.01,1.0501,0.21001,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,team-1000,65.00,1.1375,0.22750,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,scale-2500,169.01,1.1831,0.23661,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,team-1000,69.00,1.2075,0.24150,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,starter-270,19.00,1.2315,0.24630,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,5.0,starter-270,19.00,1.2315,0.24630,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,ultra-9000,270.00,0.6300,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,ultra-6000,193.50,0.6773,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,ultra-3000,99.00,0.6930,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,ultra-9000,310.00,0.7233,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,ultra-6000,220.00,0.7700,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,plus-1200,47.00,0.8225,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,ultra-3000,129.00,0.9030,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,plus-1200,59.00,1.0325,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,scale-2500,150.01,1.2601,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,team-1000,65.00,1.3650,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,scale-2500,169.01,1.4197,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,team-1000,69.00,1.4490,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,starter-270,19.00,1.4778,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,6.0,starter-270,19.00,1.4778,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,ultra-9000,270.00,0.7350,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,ultra-6000,193.50,0.7901,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,ultra-3000,99.00,0.8085,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,ultra-9000,310.00,0.8439,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,ultra-6000,220.00,0.8983,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,plus-1200,47.00,0.9596,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,ultra-3000,129.00,1.0535,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,plus-1200,59.00,1.2046,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,scale-2500,150.01,1.4701,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,team-1000,65.00,1.5925,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,scale-2500,169.01,1.6563,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,team-1000,69.00,1.6905,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,starter-270,19.00,1.7241,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,7.0,starter-270,19.00,1.7241,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,ultra-9000,270.00,0.8400,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,ultra-6000,193.50,0.9030,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,ultra-3000,99.00,0.9240,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,ultra-9000,310.00,0.9644,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,ultra-6000,220.00,1.0267,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,plus-1200,47.00,1.0967,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,ultra-3000,129.00,1.2040,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,plus-1200,59.00,1.3767,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,scale-2500,150.01,1.6801,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,team-1000,65.00,1.8200,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,scale-2500,169.01,1.8929,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,team-1000,69.00,1.9320,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,starter-270,19.00,1.9704,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,8.0,starter-270,19.00,1.9704,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,ultra-9000,270.00,0.9450,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,ultra-6000,193.50,1.0159,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,ultra-3000,99.00,1.0395,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,ultra-9000,310.00,1.0850,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,ultra-6000,220.00,1.1550,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,plus-1200,47.00,1.2338,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,ultra-3000,129.00,1.3545,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,plus-1200,59.00,1.5487,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,scale-2500,150.01,1.8901,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,team-1000,65.00,2.0475,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,scale-2500,169.01,2.1295,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,team-1000,69.00,2.1735,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,starter-270,19.00,2.2167,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,9.0,starter-270,19.00,2.2167,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,ultra-9000,270.00,1.0500,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,ultra-6000,193.50,1.1288,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,ultra-3000,99.00,1.1550,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,ultra-9000,310.00,1.2056,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,ultra-6000,220.00,1.2833,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,plus-1200,47.00,1.3708,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,ultra-3000,129.00,1.5050,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,plus-1200,59.00,1.7208,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,scale-2500,150.01,2.1001,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,team-1000,65.00,2.2750,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,scale-2500,169.01,2.3661,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,team-1000,69.00,2.4150,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,starter-270,19.00,2.4630,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,10.0,starter-270,19.00,2.4630,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,ultra-9000,270.00,1.1550,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,ultra-6000,193.50,1.2416,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,ultra-3000,99.00,1.2705,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,ultra-9000,310.00,1.3261,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,ultra-6000,220.00,1.4117,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,plus-1200,47.00,1.5079,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,ultra-3000,129.00,1.6555,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,plus-1200,59.00,1.8929,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,scale-2500,150.01,2.3102,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,team-1000,65.00,2.5025,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,scale-2500,169.01,2.6028,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,team-1000,69.00,2.6565,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,starter-270,19.00,2.7093,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,11.0,starter-270,19.00,2.7093,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,ultra-9000,270.00,1.2600,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,ultra-6000,193.50,1.3545,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,ultra-3000,99.00,1.3860,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,ultra-9000,310.00,1.4467,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,ultra-6000,220.00,1.5400,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,plus-1200,47.00,1.6450,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,ultra-3000,129.00,1.8060,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,plus-1200,59.00,2.0650,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,scale-2500,150.01,2.5202,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,team-1000,65.00,2.7300,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,scale-2500,169.01,2.8394,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,team-1000,69.00,2.8980,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,starter-270,19.00,2.9556,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,12.0,starter-270,19.00,2.9556,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,ultra-9000,270.00,1.3650,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,ultra-6000,193.50,1.4674,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,ultra-3000,99.00,1.5015,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,ultra-9000,310.00,1.5672,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,ultra-6000,220.00,1.6683,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,plus-1200,47.00,1.7821,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,ultra-3000,129.00,1.9565,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,plus-1200,59.00,2.2371,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,scale-2500,150.01,2.7302,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,team-1000,65.00,2.9575,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,scale-2500,169.01,3.0760,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,team-1000,69.00,3.1395,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,starter-270,19.00,3.2019,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,13.0,starter-270,19.00,3.2019,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,ultra-9000,270.00,1.4700,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,ultra-6000,193.50,1.5803,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,ultra-3000,99.00,1.6170,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,ultra-9000,310.00,1.6878,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,ultra-6000,220.00,1.7967,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,plus-1200,47.00,1.9192,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,ultra-3000,129.00,2.1070,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,plus-1200,59.00,2.4092,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,scale-2500,150.01,2.9402,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,team-1000,65.00,3.1850,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,scale-2500,169.01,3.3126,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,team-1000,69.00,3.3810,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,starter-270,19.00,3.4481,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,14.0,starter-270,19.00,3.4481,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,ultra-9000,270.00,1.5750,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,ultra-6000,193.50,1.6931,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,ultra-3000,99.00,1.7325,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,ultra-9000,310.00,1.8083,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,ultra-6000,220.00,1.9250,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,plus-1200,47.00,2.0563,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,ultra-3000,129.00,2.2575,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,plus-1200,59.00,2.5813,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,scale-2500,150.01,3.1502,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,team-1000,65.00,3.4125,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,scale-2500,169.01,3.5492,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,team-1000,69.00,3.6225,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,starter-270,19.00,3.6944,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,15.0,starter-270,19.00,3.6944,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,ultra-9000,270.00,2.1000,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,ultra-6000,193.50,2.2575,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,ultra-3000,99.00,2.3100,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,ultra-9000,310.00,2.4111,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,ultra-6000,220.00,2.5667,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,plus-1200,47.00,2.7417,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,ultra-3000,129.00,3.0100,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,plus-1200,59.00,3.4417,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,scale-2500,150.01,4.2003,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,team-1000,65.00,4.5500,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,scale-2500,169.01,4.7323,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,team-1000,69.00,4.8300,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,starter-270,19.00,4.9259,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,20.0,starter-270,19.00,4.9259,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,ultra-9000,270.00,3.1500,0.10500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,ultra-6000,193.50,3.3863,0.11288,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,ultra-3000,99.00,3.4650,0.11550,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,ultra-9000,310.00,3.6167,0.12056,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,ultra-6000,220.00,3.8500,0.12833,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,plus-1200,47.00,4.1125,0.13708,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,ultra-3000,129.00,4.5150,0.15050,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,plus-1200,59.00,5.1625,0.17208,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,scale-2500,150.01,6.3004,0.21001,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,team-1000,65.00,6.8250,0.22750,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,scale-2500,169.01,7.0984,0.23661,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,team-1000,69.00,7.2450,0.24150,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,starter-270,19.00,7.3889,0.24630,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,1080p,,30.0,starter-270,19.00,7.3889,0.24630,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,ultra-9000,270.00,0.0600,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,ultra-6000,193.50,0.0645,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,ultra-3000,99.00,0.0660,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,ultra-9000,310.00,0.0689,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,ultra-6000,220.00,0.0733,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,plus-1200,47.00,0.0783,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,ultra-3000,129.00,0.0860,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,plus-1200,59.00,0.0983,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,scale-2500,150.01,0.1200,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,team-1000,65.00,0.1300,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,scale-2500,169.01,0.1352,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,team-1000,69.00,0.1380,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,starter-270,19.00,0.1407,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,2.0,starter-270,19.00,0.1407,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,ultra-9000,270.00,0.0900,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,ultra-6000,193.50,0.0968,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,ultra-3000,99.00,0.0990,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,ultra-9000,310.00,0.1033,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,ultra-6000,220.00,0.1100,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,plus-1200,47.00,0.1175,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,ultra-3000,129.00,0.1290,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,plus-1200,59.00,0.1475,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,scale-2500,150.01,0.1800,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,team-1000,65.00,0.1950,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,scale-2500,169.01,0.2028,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,team-1000,69.00,0.2070,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,starter-270,19.00,0.2111,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,3.0,starter-270,19.00,0.2111,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,ultra-9000,270.00,0.1200,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,ultra-6000,193.50,0.1290,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,ultra-3000,99.00,0.1320,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,ultra-9000,310.00,0.1378,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,ultra-6000,220.00,0.1467,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,plus-1200,47.00,0.1567,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,ultra-3000,129.00,0.1720,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,plus-1200,59.00,0.1967,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,scale-2500,150.01,0.2400,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,team-1000,65.00,0.2600,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,scale-2500,169.01,0.2704,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,team-1000,69.00,0.2760,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,starter-270,19.00,0.2815,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,4.0,starter-270,19.00,0.2815,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,ultra-9000,270.00,0.1500,0.03000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,ultra-6000,193.50,0.1613,0.03225,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,ultra-3000,99.00,0.1650,0.03300,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,ultra-9000,310.00,0.1722,0.03444,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,ultra-6000,220.00,0.1833,0.03667,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,plus-1200,47.00,0.1958,0.03917,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,ultra-3000,129.00,0.2150,0.04300,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,plus-1200,59.00,0.2458,0.04917,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,scale-2500,150.01,0.3000,0.06000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,team-1000,65.00,0.3250,0.06500,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,scale-2500,169.01,0.3380,0.06760,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,team-1000,69.00,0.3450,0.06900,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,starter-270,19.00,0.3519,0.07037,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,5.0,starter-270,19.00,0.3519,0.07037,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,ultra-9000,270.00,0.1800,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,ultra-6000,193.50,0.1935,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,ultra-3000,99.00,0.1980,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,ultra-9000,310.00,0.2067,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,ultra-6000,220.00,0.2200,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,plus-1200,47.00,0.2350,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,ultra-3000,129.00,0.2580,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,plus-1200,59.00,0.2950,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,scale-2500,150.01,0.3600,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,team-1000,65.00,0.3900,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,scale-2500,169.01,0.4056,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,team-1000,69.00,0.4140,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,starter-270,19.00,0.4222,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,6.0,starter-270,19.00,0.4222,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,ultra-9000,270.00,0.2100,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,ultra-6000,193.50,0.2258,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,ultra-3000,99.00,0.2310,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,ultra-9000,310.00,0.2411,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,ultra-6000,220.00,0.2567,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,plus-1200,47.00,0.2742,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,ultra-3000,129.00,0.3010,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,plus-1200,59.00,0.3442,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,scale-2500,150.01,0.4200,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,team-1000,65.00,0.4550,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,scale-2500,169.01,0.4732,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,team-1000,69.00,0.4830,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,starter-270,19.00,0.4926,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,7.0,starter-270,19.00,0.4926,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,ultra-9000,270.00,0.2400,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,ultra-6000,193.50,0.2580,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,ultra-3000,99.00,0.2640,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,ultra-9000,310.00,0.2756,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,ultra-6000,220.00,0.2933,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,plus-1200,47.00,0.3133,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,ultra-3000,129.00,0.3440,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,plus-1200,59.00,0.3933,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,scale-2500,150.01,0.4800,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,team-1000,65.00,0.5200,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,scale-2500,169.01,0.5408,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,team-1000,69.00,0.5520,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,starter-270,19.00,0.5630,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,8.0,starter-270,19.00,0.5630,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,ultra-9000,270.00,0.2700,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,ultra-6000,193.50,0.2903,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,ultra-3000,99.00,0.2970,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,ultra-9000,310.00,0.3100,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,ultra-6000,220.00,0.3300,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,plus-1200,47.00,0.3525,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,ultra-3000,129.00,0.3870,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,plus-1200,59.00,0.4425,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,scale-2500,150.01,0.5400,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,team-1000,65.00,0.5850,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,scale-2500,169.01,0.6084,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,team-1000,69.00,0.6210,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,starter-270,19.00,0.6333,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,9.0,starter-270,19.00,0.6333,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,ultra-9000,270.00,0.3000,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,ultra-6000,193.50,0.3225,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,ultra-3000,99.00,0.3300,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,ultra-9000,310.00,0.3444,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,ultra-6000,220.00,0.3667,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,plus-1200,47.00,0.3917,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,ultra-3000,129.00,0.4300,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,plus-1200,59.00,0.4917,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,scale-2500,150.01,0.6000,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,team-1000,65.00,0.6500,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,scale-2500,169.01,0.6760,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,team-1000,69.00,0.6900,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,starter-270,19.00,0.7037,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,10.0,starter-270,19.00,0.7037,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,ultra-9000,270.00,0.3300,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,ultra-6000,193.50,0.3548,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,ultra-3000,99.00,0.3630,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,ultra-9000,310.00,0.3789,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,ultra-6000,220.00,0.4033,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,plus-1200,47.00,0.4308,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,ultra-3000,129.00,0.4730,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,plus-1200,59.00,0.5408,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,scale-2500,150.01,0.6600,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,team-1000,65.00,0.7150,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,scale-2500,169.01,0.7436,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,team-1000,69.00,0.7590,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,starter-270,19.00,0.7741,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,11.0,starter-270,19.00,0.7741,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,ultra-9000,270.00,0.3600,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,ultra-6000,193.50,0.3870,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,ultra-3000,99.00,0.3960,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,ultra-9000,310.00,0.4133,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,ultra-6000,220.00,0.4400,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,plus-1200,47.00,0.4700,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,ultra-3000,129.00,0.5160,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,plus-1200,59.00,0.5900,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,scale-2500,150.01,0.7200,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,team-1000,65.00,0.7800,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,scale-2500,169.01,0.8112,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,team-1000,69.00,0.8280,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,starter-270,19.00,0.8444,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,12.0,starter-270,19.00,0.8444,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,ultra-9000,270.00,0.3900,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,ultra-6000,193.50,0.4193,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,ultra-3000,99.00,0.4290,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,ultra-9000,310.00,0.4478,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,ultra-6000,220.00,0.4767,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,plus-1200,47.00,0.5092,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,ultra-3000,129.00,0.5590,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,plus-1200,59.00,0.6392,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,scale-2500,150.01,0.7801,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,team-1000,65.00,0.8450,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,scale-2500,169.01,0.8789,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,team-1000,69.00,0.8970,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,starter-270,19.00,0.9148,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,13.0,starter-270,19.00,0.9148,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,ultra-9000,270.00,0.4200,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,ultra-6000,193.50,0.4515,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,ultra-3000,99.00,0.4620,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,ultra-9000,310.00,0.4822,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,ultra-6000,220.00,0.5133,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,plus-1200,47.00,0.5483,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,ultra-3000,129.00,0.6020,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,plus-1200,59.00,0.6883,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,scale-2500,150.01,0.8401,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,team-1000,65.00,0.9100,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,scale-2500,169.01,0.9465,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,team-1000,69.00,0.9660,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,starter-270,19.00,0.9852,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,14.0,starter-270,19.00,0.9852,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,ultra-9000,270.00,0.4500,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,ultra-6000,193.50,0.4838,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,ultra-3000,99.00,0.4950,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,ultra-9000,310.00,0.5167,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,ultra-6000,220.00,0.5500,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,plus-1200,47.00,0.5875,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,ultra-3000,129.00,0.6450,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,plus-1200,59.00,0.7375,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,scale-2500,150.01,0.9001,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,team-1000,65.00,0.9750,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,scale-2500,169.01,1.0141,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,team-1000,69.00,1.0350,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,starter-270,19.00,1.0556,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,15.0,starter-270,19.00,1.0556,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,ultra-9000,270.00,0.6000,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,ultra-6000,193.50,0.6450,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,ultra-3000,99.00,0.6600,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,ultra-9000,310.00,0.6889,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,ultra-6000,220.00,0.7333,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,plus-1200,47.00,0.7833,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,ultra-3000,129.00,0.8600,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,plus-1200,59.00,0.9833,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,scale-2500,150.01,1.2001,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,team-1000,65.00,1.3000,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,scale-2500,169.01,1.3521,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,team-1000,69.00,1.3800,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,starter-270,19.00,1.4074,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,20.0,starter-270,19.00,1.4074,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,ultra-9000,270.00,0.9000,0.03000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,ultra-6000,193.50,0.9675,0.03225,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,ultra-3000,99.00,0.9900,0.03300,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,ultra-9000,310.00,1.0333,0.03444,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,ultra-6000,220.00,1.1000,0.03667,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,plus-1200,47.00,1.1750,0.03917,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,ultra-3000,129.00,1.2900,0.04300,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,plus-1200,59.00,1.4750,0.04917,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,scale-2500,150.01,1.8001,0.06000,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,team-1000,65.00,1.9500,0.06500,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,scale-2500,169.01,2.0281,0.06760,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,team-1000,69.00,2.0700,0.06900,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,starter-270,19.00,2.1111,0.07037,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,480p,,30.0,starter-270,19.00,2.1111,0.07037,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,ultra-9000,270.00,0.1050,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,ultra-6000,193.50,0.1129,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,ultra-3000,99.00,0.1155,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,ultra-9000,310.00,0.1206,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,ultra-6000,220.00,0.1283,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,plus-1200,47.00,0.1371,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,ultra-3000,129.00,0.1505,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,plus-1200,59.00,0.1721,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,scale-2500,150.01,0.2100,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,team-1000,65.00,0.2275,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,scale-2500,169.01,0.2366,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,team-1000,69.00,0.2415,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,starter-270,19.00,0.2463,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,2.0,starter-270,19.00,0.2463,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,ultra-9000,270.00,0.1575,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,ultra-6000,193.50,0.1693,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,ultra-3000,99.00,0.1733,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,ultra-9000,310.00,0.1808,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,ultra-6000,220.00,0.1925,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,plus-1200,47.00,0.2056,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,ultra-3000,129.00,0.2257,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,plus-1200,59.00,0.2581,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,scale-2500,150.01,0.3150,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,team-1000,65.00,0.3413,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,scale-2500,169.01,0.3549,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,team-1000,69.00,0.3623,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,starter-270,19.00,0.3694,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,3.0,starter-270,19.00,0.3694,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,ultra-9000,270.00,0.2100,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,ultra-6000,193.50,0.2258,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,ultra-3000,99.00,0.2310,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,ultra-9000,310.00,0.2411,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,ultra-6000,220.00,0.2567,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,plus-1200,47.00,0.2742,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,ultra-3000,129.00,0.3010,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,plus-1200,59.00,0.3442,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,scale-2500,150.01,0.4200,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,team-1000,65.00,0.4550,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,scale-2500,169.01,0.4732,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,team-1000,69.00,0.4830,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,starter-270,19.00,0.4926,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,4.0,starter-270,19.00,0.4926,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,ultra-9000,270.00,0.2625,0.05250,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,ultra-6000,193.50,0.2822,0.05644,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,ultra-3000,99.00,0.2888,0.05775,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,ultra-9000,310.00,0.3014,0.06028,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,ultra-6000,220.00,0.3208,0.06417,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,plus-1200,47.00,0.3427,0.06854,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,ultra-3000,129.00,0.3763,0.07525,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,plus-1200,59.00,0.4302,0.08604,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,scale-2500,150.01,0.5250,0.10501,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,team-1000,65.00,0.5688,0.11375,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,scale-2500,169.01,0.5915,0.11831,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,team-1000,69.00,0.6038,0.12075,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,starter-270,19.00,0.6157,0.12315,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,5.0,starter-270,19.00,0.6157,0.12315,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,ultra-9000,270.00,0.3150,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,ultra-6000,193.50,0.3386,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,ultra-3000,99.00,0.3465,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,ultra-9000,310.00,0.3617,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,ultra-6000,220.00,0.3850,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,plus-1200,47.00,0.4113,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,ultra-3000,129.00,0.4515,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,plus-1200,59.00,0.5163,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,scale-2500,150.01,0.6300,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,team-1000,65.00,0.6825,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,scale-2500,169.01,0.7098,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,team-1000,69.00,0.7245,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,starter-270,19.00,0.7389,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,6.0,starter-270,19.00,0.7389,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,ultra-9000,270.00,0.3675,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,ultra-6000,193.50,0.3951,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,ultra-3000,99.00,0.4043,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,ultra-9000,310.00,0.4219,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,ultra-6000,220.00,0.4492,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,plus-1200,47.00,0.4798,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,ultra-3000,129.00,0.5267,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,plus-1200,59.00,0.6023,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,scale-2500,150.01,0.7350,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,team-1000,65.00,0.7963,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,scale-2500,169.01,0.8281,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,team-1000,69.00,0.8453,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,starter-270,19.00,0.8620,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,7.0,starter-270,19.00,0.8620,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,ultra-9000,270.00,0.4200,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,ultra-6000,193.50,0.4515,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,ultra-3000,99.00,0.4620,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,ultra-9000,310.00,0.4822,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,ultra-6000,220.00,0.5133,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,plus-1200,47.00,0.5483,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,ultra-3000,129.00,0.6020,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,plus-1200,59.00,0.6883,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,scale-2500,150.01,0.8401,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,team-1000,65.00,0.9100,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,scale-2500,169.01,0.9465,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,team-1000,69.00,0.9660,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,starter-270,19.00,0.9852,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,8.0,starter-270,19.00,0.9852,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,ultra-9000,270.00,0.4725,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,ultra-6000,193.50,0.5079,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,ultra-3000,99.00,0.5198,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,ultra-9000,310.00,0.5425,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,ultra-6000,220.00,0.5775,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,plus-1200,47.00,0.6169,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,ultra-3000,129.00,0.6772,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,plus-1200,59.00,0.7744,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,scale-2500,150.01,0.9451,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,team-1000,65.00,1.0238,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,scale-2500,169.01,1.0648,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,team-1000,69.00,1.0868,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,starter-270,19.00,1.1083,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,9.0,starter-270,19.00,1.1083,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,ultra-9000,270.00,0.5250,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,ultra-6000,193.50,0.5644,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,ultra-3000,99.00,0.5775,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,ultra-9000,310.00,0.6028,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,ultra-6000,220.00,0.6417,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,plus-1200,47.00,0.6854,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,ultra-3000,129.00,0.7525,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,plus-1200,59.00,0.8604,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,scale-2500,150.01,1.0501,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,team-1000,65.00,1.1375,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,scale-2500,169.01,1.1831,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,team-1000,69.00,1.2075,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,starter-270,19.00,1.2315,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,10.0,starter-270,19.00,1.2315,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,ultra-9000,270.00,0.5775,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,ultra-6000,193.50,0.6208,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,ultra-3000,99.00,0.6353,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,ultra-9000,310.00,0.6631,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,ultra-6000,220.00,0.7058,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,plus-1200,47.00,0.7540,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,ultra-3000,129.00,0.8278,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,plus-1200,59.00,0.9465,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,scale-2500,150.01,1.1551,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,team-1000,65.00,1.2513,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,scale-2500,169.01,1.3014,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,team-1000,69.00,1.3283,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,starter-270,19.00,1.3546,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,11.0,starter-270,19.00,1.3546,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,ultra-9000,270.00,0.6300,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,ultra-6000,193.50,0.6773,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,ultra-3000,99.00,0.6930,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,ultra-9000,310.00,0.7233,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,ultra-6000,220.00,0.7700,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,plus-1200,47.00,0.8225,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,ultra-3000,129.00,0.9030,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,plus-1200,59.00,1.0325,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,scale-2500,150.01,1.2601,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,team-1000,65.00,1.3650,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,scale-2500,169.01,1.4197,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,team-1000,69.00,1.4490,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,starter-270,19.00,1.4778,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,12.0,starter-270,19.00,1.4778,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,ultra-9000,270.00,0.6825,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,ultra-6000,193.50,0.7337,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,ultra-3000,99.00,0.7508,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,ultra-9000,310.00,0.7836,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,ultra-6000,220.00,0.8342,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,plus-1200,47.00,0.8910,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,ultra-3000,129.00,0.9783,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,plus-1200,59.00,1.1185,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,scale-2500,150.01,1.3651,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,team-1000,65.00,1.4788,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,scale-2500,169.01,1.5380,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,team-1000,69.00,1.5698,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,starter-270,19.00,1.6009,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,13.0,starter-270,19.00,1.6009,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,ultra-9000,270.00,0.7350,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,ultra-6000,193.50,0.7901,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,ultra-3000,99.00,0.8085,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,ultra-9000,310.00,0.8439,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,ultra-6000,220.00,0.8983,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,plus-1200,47.00,0.9596,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,ultra-3000,129.00,1.0535,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,plus-1200,59.00,1.2046,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,scale-2500,150.01,1.4701,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,team-1000,65.00,1.5925,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,scale-2500,169.01,1.6563,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,team-1000,69.00,1.6905,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,starter-270,19.00,1.7241,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,14.0,starter-270,19.00,1.7241,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,ultra-9000,270.00,0.7875,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,ultra-6000,193.50,0.8466,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,ultra-3000,99.00,0.8663,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,ultra-9000,310.00,0.9042,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,ultra-6000,220.00,0.9625,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,plus-1200,47.00,1.0281,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,ultra-3000,129.00,1.1288,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,plus-1200,59.00,1.2906,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,scale-2500,150.01,1.5751,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,team-1000,65.00,1.7063,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,scale-2500,169.01,1.7746,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,team-1000,69.00,1.8113,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,starter-270,19.00,1.8472,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,15.0,starter-270,19.00,1.8472,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,ultra-9000,270.00,1.0500,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,ultra-6000,193.50,1.1288,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,ultra-3000,99.00,1.1550,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,ultra-9000,310.00,1.2056,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,ultra-6000,220.00,1.2833,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,plus-1200,47.00,1.3708,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,ultra-3000,129.00,1.5050,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,plus-1200,59.00,1.7208,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,scale-2500,150.01,2.1001,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,team-1000,65.00,2.2750,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,scale-2500,169.01,2.3661,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,team-1000,69.00,2.4150,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,starter-270,19.00,2.4630,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,20.0,starter-270,19.00,2.4630,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,ultra-9000,270.00,1.5750,0.05250,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,ultra-6000,193.50,1.6931,0.05644,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,ultra-3000,99.00,1.7325,0.05775,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,ultra-9000,310.00,1.8083,0.06028,0,1,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,ultra-6000,220.00,1.9250,0.06417,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,plus-1200,47.00,2.0563,0.06854,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,ultra-3000,129.00,2.2575,0.07525,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,plus-1200,59.00,2.5813,0.08604,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,scale-2500,150.01,3.1502,0.10501,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,team-1000,65.00,3.4125,0.11375,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,scale-2500,169.01,3.5492,0.11831,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,team-1000,69.00,3.6225,0.12075,0,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,starter-270,19.00,3.6944,0.12315,1,0,0,0,monthly
+"Wan 3.0",wan-3-0,Higgsfield,std,,720p,,30.0,starter-270,19.00,3.6944,0.12315,0,0,0,0,yearly
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,2.0,,,0.1600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,3.0,,,0.2400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,4.0,,,0.3200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,5.0,,,0.4000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,6.0,,,0.4800,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,7.0,,,0.5600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,8.0,,,0.6400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,9.0,,,0.7200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,10.0,,,0.8000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,11.0,,,0.8800,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,12.0,,,0.9600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,13.0,,,1.0400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,14.0,,,1.1200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,15.0,,,1.2000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,20.0,,,1.6000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,1080p,,30.0,,,2.4000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,2.0,,,0.0400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,3.0,,,0.0600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,4.0,,,0.0800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,5.0,,,0.1000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,6.0,,,0.1200,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,7.0,,,0.1400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,8.0,,,0.1600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,9.0,,,0.1800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,10.0,,,0.2000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,11.0,,,0.2200,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,12.0,,,0.2400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,13.0,,,0.2600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,14.0,,,0.2800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,15.0,,,0.3000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,20.0,,,0.4000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,480p,,30.0,,,0.6000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,2.0,,,0.0800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,3.0,,,0.1200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,4.0,,,0.1600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,5.0,,,0.2000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,6.0,,,0.2400,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,7.0,,,0.2800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,8.0,,,0.3200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,9.0,,,0.3600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,10.0,,,0.4000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,11.0,,,0.4400,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,12.0,,,0.4800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,13.0,,,0.5200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,14.0,,,0.5600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,15.0,,,0.6000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,20.0,,,0.8000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,t2v,720p,,30.0,,,1.2000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,2.0,,,0.1600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,3.0,,,0.2400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,4.0,,,0.3200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,5.0,,,0.4000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,6.0,,,0.4800,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,7.0,,,0.5600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,8.0,,,0.6400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,9.0,,,0.7200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,10.0,,,0.8000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,11.0,,,0.8800,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,12.0,,,0.9600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,13.0,,,1.0400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,14.0,,,1.1200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,15.0,,,1.2000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,20.0,,,1.6000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,1080p,,30.0,,,2.4000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,2.0,,,0.0400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,3.0,,,0.0600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,4.0,,,0.0800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,5.0,,,0.1000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,6.0,,,0.1200,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,7.0,,,0.1400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,8.0,,,0.1600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,9.0,,,0.1800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,10.0,,,0.2000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,11.0,,,0.2200,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,12.0,,,0.2400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,13.0,,,0.2600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,14.0,,,0.2800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,15.0,,,0.3000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,20.0,,,0.4000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,480p,,30.0,,,0.6000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,2.0,,,0.0800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,3.0,,,0.1200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,4.0,,,0.1600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,5.0,,,0.2000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,6.0,,,0.2400,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,7.0,,,0.2800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,8.0,,,0.3200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,9.0,,,0.3600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,10.0,,,0.4000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,11.0,,,0.4400,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,12.0,,,0.4800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,13.0,,,0.5200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,14.0,,,0.5600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,15.0,,,0.6000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,20.0,,,0.8000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,i2v,720p,,30.0,,,1.2000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,2.0,,,0.1600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,3.0,,,0.2400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,4.0,,,0.3200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,5.0,,,0.4000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,6.0,,,0.4800,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,7.0,,,0.5600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,8.0,,,0.6400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,9.0,,,0.7200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,10.0,,,0.8000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,11.0,,,0.8800,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,12.0,,,0.9600,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,13.0,,,1.0400,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,14.0,,,1.1200,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,15.0,,,1.2000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,20.0,,,1.6000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,1080p,,30.0,,,2.4000,0.08000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,2.0,,,0.0400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,3.0,,,0.0600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,4.0,,,0.0800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,5.0,,,0.1000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,6.0,,,0.1200,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,7.0,,,0.1400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,8.0,,,0.1600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,9.0,,,0.1800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,10.0,,,0.2000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,11.0,,,0.2200,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,12.0,,,0.2400,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,13.0,,,0.2600,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,14.0,,,0.2800,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,15.0,,,0.3000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,20.0,,,0.4000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,480p,,30.0,,,0.6000,0.02000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,2.0,,,0.0800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,3.0,,,0.1200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,4.0,,,0.1600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,5.0,,,0.2000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,6.0,,,0.2400,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,7.0,,,0.2800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,8.0,,,0.3200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,9.0,,,0.3600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,10.0,,,0.4000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,11.0,,,0.4400,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,12.0,,,0.4800,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,13.0,,,0.5200,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,14.0,,,0.5600,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,15.0,,,0.6000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,20.0,,,0.8000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,"Higgsfield API",std,ref2v,720p,,30.0,,,1.2000,0.04000,1,1,1,1,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,2.0,,,0.3200,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,3.0,,,0.4800,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,4.0,,,0.6400,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,5.0,,,0.8000,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,6.0,,,0.9600,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,7.0,,,1.1200,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,8.0,,,1.2800,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,9.0,,,1.4400,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,10.0,,,1.6000,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,11.0,,,1.7600,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,12.0,,,1.9200,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,13.0,,,2.0800,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,14.0,,,2.2400,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,15.0,,,2.4000,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,20.0,,,3.2000,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,1080p,,30.0,,,4.8000,0.16000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,2.0,,,0.0800,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,3.0,,,0.1200,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,4.0,,,0.1600,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,5.0,,,0.2000,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,6.0,,,0.2400,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,7.0,,,0.2800,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,8.0,,,0.3200,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,9.0,,,0.3600,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,10.0,,,0.4000,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,11.0,,,0.4400,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,12.0,,,0.4800,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,13.0,,,0.5200,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,14.0,,,0.5600,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,15.0,,,0.6000,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,20.0,,,0.8000,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,480p,,30.0,,,1.2000,0.04000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,2.0,,,0.1600,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,3.0,,,0.2400,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,4.0,,,0.3200,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,5.0,,,0.4000,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,6.0,,,0.4800,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,7.0,,,0.5600,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,8.0,,,0.6400,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,9.0,,,0.7200,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,10.0,,,0.8000,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,11.0,,,0.8800,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,12.0,,,0.9600,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,13.0,,,1.0400,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,14.0,,,1.1200,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,15.0,,,1.2000,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,20.0,,,1.6000,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Kie.ai,std,,720p,,30.0,,,2.4000,0.08000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,2.0,,,0.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,3.0,,,0.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,4.0,,,0.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,5.0,,,0.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,6.0,,,0.6000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,7.0,,,0.7000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,8.0,,,0.8000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,9.0,,,0.9000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,10.0,,,1.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,11.0,,,1.1000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,12.0,,,1.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,13.0,,,1.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,14.0,,,1.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,15.0,,,1.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,20.0,,,2.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,1080p,,30.0,,,3.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,2.0,,,0.0500,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,3.0,,,0.0750,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,4.0,,,0.1000,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,5.0,,,0.1250,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,6.0,,,0.1500,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,7.0,,,0.1750,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,8.0,,,0.2000,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,9.0,,,0.2250,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,10.0,,,0.2500,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,11.0,,,0.2750,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,12.0,,,0.3000,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,13.0,,,0.3250,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,14.0,,,0.3500,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,15.0,,,0.3750,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,20.0,,,0.5000,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,480p,,30.0,,,0.7500,0.02500,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,2.0,,,0.1000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,3.0,,,0.1500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,4.0,,,0.2000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,5.0,,,0.2500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,6.0,,,0.3000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,7.0,,,0.3500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,8.0,,,0.4000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,9.0,,,0.4500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,10.0,,,0.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,11.0,,,0.5500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,12.0,,,0.6000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,13.0,,,0.6500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,14.0,,,0.7000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,15.0,,,0.7500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,20.0,,,1.0000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Replicate,std,,720p,,30.0,,,1.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,2.0,max-9500,76.00,0.3200,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,2.0,max-9500,95.00,0.4000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,2.0,pro-2250,28.00,0.4978,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,2.0,pro-2250,35.00,0.6222,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,2.0,standard-625,12.00,0.7680,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,2.0,standard-625,15.00,0.9600,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,3.0,max-9500,76.00,0.4800,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,3.0,max-9500,95.00,0.6000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,3.0,pro-2250,28.00,0.7467,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,3.0,pro-2250,35.00,0.9333,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,3.0,standard-625,12.00,1.1520,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,3.0,standard-625,15.00,1.4400,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,4.0,max-9500,76.00,0.6400,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,4.0,max-9500,95.00,0.8000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,4.0,pro-2250,28.00,0.9956,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,4.0,pro-2250,35.00,1.2444,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,4.0,standard-625,12.00,1.5360,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,4.0,standard-625,15.00,1.9200,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,5.0,max-9500,76.00,0.8000,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,5.0,max-9500,95.00,1.0000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,5.0,pro-2250,28.00,1.2444,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,5.0,pro-2250,35.00,1.5556,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,5.0,standard-625,12.00,1.9200,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,5.0,standard-625,15.00,2.4000,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,6.0,max-9500,76.00,0.9600,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,6.0,max-9500,95.00,1.2000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,6.0,pro-2250,28.00,1.4933,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,6.0,pro-2250,35.00,1.8667,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,6.0,standard-625,12.00,2.3040,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,6.0,standard-625,15.00,2.8800,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,7.0,max-9500,76.00,1.1200,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,7.0,max-9500,95.00,1.4000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,7.0,pro-2250,28.00,1.7422,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,7.0,pro-2250,35.00,2.1778,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,7.0,standard-625,12.00,2.6880,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,7.0,standard-625,15.00,3.3600,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,8.0,max-9500,76.00,1.2800,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,8.0,max-9500,95.00,1.6000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,8.0,pro-2250,28.00,1.9911,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,8.0,pro-2250,35.00,2.4889,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,8.0,standard-625,12.00,3.0720,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,8.0,standard-625,15.00,3.8400,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,9.0,max-9500,76.00,1.4400,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,9.0,max-9500,95.00,1.8000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,9.0,pro-2250,28.00,2.2400,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,9.0,pro-2250,35.00,2.8000,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,9.0,standard-625,12.00,3.4560,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,9.0,standard-625,15.00,4.3200,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,10.0,max-9500,76.00,1.6000,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,10.0,max-9500,95.00,2.0000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,10.0,pro-2250,28.00,2.4889,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,10.0,pro-2250,35.00,3.1111,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,10.0,standard-625,12.00,3.8400,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,10.0,standard-625,15.00,4.8000,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,11.0,max-9500,76.00,1.7600,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,11.0,max-9500,95.00,2.2000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,11.0,pro-2250,28.00,2.7378,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,11.0,pro-2250,35.00,3.4222,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,11.0,standard-625,12.00,4.2240,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,11.0,standard-625,15.00,5.2800,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,12.0,max-9500,76.00,1.9200,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,12.0,max-9500,95.00,2.4000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,12.0,pro-2250,28.00,2.9867,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,12.0,pro-2250,35.00,3.7333,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,12.0,standard-625,12.00,4.6080,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,12.0,standard-625,15.00,5.7600,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,13.0,max-9500,76.00,2.0800,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,13.0,max-9500,95.00,2.6000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,13.0,pro-2250,28.00,3.2356,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,13.0,pro-2250,35.00,4.0444,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,13.0,standard-625,12.00,4.9920,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,13.0,standard-625,15.00,6.2400,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,14.0,max-9500,76.00,2.2400,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,14.0,max-9500,95.00,2.8000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,14.0,pro-2250,28.00,3.4844,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,14.0,pro-2250,35.00,4.3556,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,14.0,standard-625,12.00,5.3760,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,14.0,standard-625,15.00,6.7200,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,15.0,max-9500,76.00,2.4000,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,15.0,max-9500,95.00,3.0000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,15.0,pro-2250,28.00,3.7333,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,15.0,pro-2250,35.00,4.6667,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,15.0,standard-625,12.00,5.7600,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,15.0,standard-625,15.00,7.2000,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,20.0,max-9500,76.00,3.2000,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,20.0,max-9500,95.00,4.0000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,20.0,pro-2250,28.00,4.9778,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,20.0,pro-2250,35.00,6.2222,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,20.0,standard-625,12.00,7.6800,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,20.0,standard-625,15.00,9.6000,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,30.0,max-9500,76.00,4.8000,0.16000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,30.0,max-9500,95.00,6.0000,0.20000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,30.0,pro-2250,28.00,7.4667,0.24889,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,30.0,pro-2250,35.00,9.3333,0.31111,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,30.0,standard-625,12.00,11.5200,0.38400,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,1080p,,30.0,standard-625,15.00,14.4000,0.48000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,2.0,max-9500,76.00,0.0800,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,2.0,max-9500,95.00,0.1000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,2.0,pro-2250,28.00,0.1244,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,2.0,pro-2250,35.00,0.1556,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,2.0,standard-625,12.00,0.1920,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,2.0,standard-625,15.00,0.2400,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,3.0,max-9500,76.00,0.1200,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,3.0,max-9500,95.00,0.1500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,3.0,pro-2250,28.00,0.1867,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,3.0,pro-2250,35.00,0.2333,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,3.0,standard-625,12.00,0.2880,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,3.0,standard-625,15.00,0.3600,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,4.0,max-9500,76.00,0.1600,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,4.0,max-9500,95.00,0.2000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,4.0,pro-2250,28.00,0.2489,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,4.0,pro-2250,35.00,0.3111,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,4.0,standard-625,12.00,0.3840,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,4.0,standard-625,15.00,0.4800,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,5.0,max-9500,76.00,0.2000,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,5.0,max-9500,95.00,0.2500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,5.0,pro-2250,28.00,0.3111,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,5.0,pro-2250,35.00,0.3889,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,5.0,standard-625,12.00,0.4800,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,5.0,standard-625,15.00,0.6000,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,6.0,max-9500,76.00,0.2400,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,6.0,max-9500,95.00,0.3000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,6.0,pro-2250,28.00,0.3733,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,6.0,pro-2250,35.00,0.4667,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,6.0,standard-625,12.00,0.5760,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,6.0,standard-625,15.00,0.7200,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,7.0,max-9500,76.00,0.2800,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,7.0,max-9500,95.00,0.3500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,7.0,pro-2250,28.00,0.4356,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,7.0,pro-2250,35.00,0.5444,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,7.0,standard-625,12.00,0.6720,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,7.0,standard-625,15.00,0.8400,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,8.0,max-9500,76.00,0.3200,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,8.0,max-9500,95.00,0.4000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,8.0,pro-2250,28.00,0.4978,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,8.0,pro-2250,35.00,0.6222,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,8.0,standard-625,12.00,0.7680,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,8.0,standard-625,15.00,0.9600,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,9.0,max-9500,76.00,0.3600,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,9.0,max-9500,95.00,0.4500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,9.0,pro-2250,28.00,0.5600,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,9.0,pro-2250,35.00,0.7000,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,9.0,standard-625,12.00,0.8640,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,9.0,standard-625,15.00,1.0800,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,10.0,max-9500,76.00,0.4000,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,10.0,max-9500,95.00,0.5000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,10.0,pro-2250,28.00,0.6222,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,10.0,pro-2250,35.00,0.7778,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,10.0,standard-625,12.00,0.9600,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,10.0,standard-625,15.00,1.2000,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,11.0,max-9500,76.00,0.4400,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,11.0,max-9500,95.00,0.5500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,11.0,pro-2250,28.00,0.6844,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,11.0,pro-2250,35.00,0.8556,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,11.0,standard-625,12.00,1.0560,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,11.0,standard-625,15.00,1.3200,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,12.0,max-9500,76.00,0.4800,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,12.0,max-9500,95.00,0.6000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,12.0,pro-2250,28.00,0.7467,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,12.0,pro-2250,35.00,0.9333,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,12.0,standard-625,12.00,1.1520,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,12.0,standard-625,15.00,1.4400,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,13.0,max-9500,76.00,0.5200,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,13.0,max-9500,95.00,0.6500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,13.0,pro-2250,28.00,0.8089,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,13.0,pro-2250,35.00,1.0111,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,13.0,standard-625,12.00,1.2480,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,13.0,standard-625,15.00,1.5600,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,14.0,max-9500,76.00,0.5600,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,14.0,max-9500,95.00,0.7000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,14.0,pro-2250,28.00,0.8711,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,14.0,pro-2250,35.00,1.0889,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,14.0,standard-625,12.00,1.3440,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,14.0,standard-625,15.00,1.6800,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,15.0,max-9500,76.00,0.6000,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,15.0,max-9500,95.00,0.7500,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,15.0,pro-2250,28.00,0.9333,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,15.0,pro-2250,35.00,1.1667,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,15.0,standard-625,12.00,1.4400,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,15.0,standard-625,15.00,1.8000,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,20.0,max-9500,76.00,0.8000,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,20.0,max-9500,95.00,1.0000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,20.0,pro-2250,28.00,1.2444,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,20.0,pro-2250,35.00,1.5556,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,20.0,standard-625,12.00,1.9200,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,20.0,standard-625,15.00,2.4000,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,30.0,max-9500,76.00,1.2000,0.04000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,30.0,max-9500,95.00,1.5000,0.05000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,30.0,pro-2250,28.00,1.8667,0.06222,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,30.0,pro-2250,35.00,2.3333,0.07778,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,30.0,standard-625,12.00,2.8800,0.09600,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,480p,,30.0,standard-625,15.00,3.6000,0.12000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,2.0,max-9500,76.00,0.1600,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,2.0,max-9500,95.00,0.2000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,2.0,pro-2250,28.00,0.2489,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,2.0,pro-2250,35.00,0.3111,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,2.0,standard-625,12.00,0.3840,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,2.0,standard-625,15.00,0.4800,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,3.0,max-9500,76.00,0.2400,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,3.0,max-9500,95.00,0.3000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,3.0,pro-2250,28.00,0.3733,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,3.0,pro-2250,35.00,0.4667,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,3.0,standard-625,12.00,0.5760,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,3.0,standard-625,15.00,0.7200,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,4.0,max-9500,76.00,0.3200,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,4.0,max-9500,95.00,0.4000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,4.0,pro-2250,28.00,0.4978,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,4.0,pro-2250,35.00,0.6222,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,4.0,standard-625,12.00,0.7680,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,4.0,standard-625,15.00,0.9600,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,5.0,max-9500,76.00,0.4000,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,5.0,max-9500,95.00,0.5000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,5.0,pro-2250,28.00,0.6222,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,5.0,pro-2250,35.00,0.7778,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,5.0,standard-625,12.00,0.9600,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,5.0,standard-625,15.00,1.2000,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,6.0,max-9500,76.00,0.4800,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,6.0,max-9500,95.00,0.6000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,6.0,pro-2250,28.00,0.7467,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,6.0,pro-2250,35.00,0.9333,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,6.0,standard-625,12.00,1.1520,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,6.0,standard-625,15.00,1.4400,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,7.0,max-9500,76.00,0.5600,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,7.0,max-9500,95.00,0.7000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,7.0,pro-2250,28.00,0.8711,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,7.0,pro-2250,35.00,1.0889,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,7.0,standard-625,12.00,1.3440,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,7.0,standard-625,15.00,1.6800,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,8.0,max-9500,76.00,0.6400,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,8.0,max-9500,95.00,0.8000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,8.0,pro-2250,28.00,0.9956,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,8.0,pro-2250,35.00,1.2444,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,8.0,standard-625,12.00,1.5360,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,8.0,standard-625,15.00,1.9200,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,9.0,max-9500,76.00,0.7200,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,9.0,max-9500,95.00,0.9000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,9.0,pro-2250,28.00,1.1200,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,9.0,pro-2250,35.00,1.4000,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,9.0,standard-625,12.00,1.7280,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,9.0,standard-625,15.00,2.1600,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,10.0,max-9500,76.00,0.8000,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,10.0,max-9500,95.00,1.0000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,10.0,pro-2250,28.00,1.2444,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,10.0,pro-2250,35.00,1.5556,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,10.0,standard-625,12.00,1.9200,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,10.0,standard-625,15.00,2.4000,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,11.0,max-9500,76.00,0.8800,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,11.0,max-9500,95.00,1.1000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,11.0,pro-2250,28.00,1.3689,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,11.0,pro-2250,35.00,1.7111,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,11.0,standard-625,12.00,2.1120,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,11.0,standard-625,15.00,2.6400,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,12.0,max-9500,76.00,0.9600,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,12.0,max-9500,95.00,1.2000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,12.0,pro-2250,28.00,1.4933,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,12.0,pro-2250,35.00,1.8667,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,12.0,standard-625,12.00,2.3040,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,12.0,standard-625,15.00,2.8800,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,13.0,max-9500,76.00,1.0400,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,13.0,max-9500,95.00,1.3000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,13.0,pro-2250,28.00,1.6178,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,13.0,pro-2250,35.00,2.0222,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,13.0,standard-625,12.00,2.4960,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,13.0,standard-625,15.00,3.1200,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,14.0,max-9500,76.00,1.1200,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,14.0,max-9500,95.00,1.4000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,14.0,pro-2250,28.00,1.7422,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,14.0,pro-2250,35.00,2.1778,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,14.0,standard-625,12.00,2.6880,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,14.0,standard-625,15.00,3.3600,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,15.0,max-9500,76.00,1.2000,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,15.0,max-9500,95.00,1.5000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,15.0,pro-2250,28.00,1.8667,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,15.0,pro-2250,35.00,2.3333,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,15.0,standard-625,12.00,2.8800,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,15.0,standard-625,15.00,3.6000,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,20.0,max-9500,76.00,1.6000,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,20.0,max-9500,95.00,2.0000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,20.0,pro-2250,28.00,2.4889,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,20.0,pro-2250,35.00,3.1111,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,20.0,standard-625,12.00,3.8400,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,20.0,standard-625,15.00,4.8000,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,30.0,max-9500,76.00,2.4000,0.08000,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,30.0,max-9500,95.00,3.0000,0.10000,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,30.0,pro-2250,28.00,3.7333,0.12444,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,30.0,pro-2250,35.00,4.6667,0.15556,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,30.0,standard-625,12.00,5.7600,0.19200,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Runway,std,,720p,,30.0,standard-625,15.00,7.2000,0.24000,1,0,1,0,monthly
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,2.0,,,0.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,3.0,,,0.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,4.0,,,0.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,5.0,,,1.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,6.0,,,1.2000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,7.0,,,1.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,8.0,,,1.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,9.0,,,1.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,10.0,,,2.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,11.0,,,2.2000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,12.0,,,2.4000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,13.0,,,2.6000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,14.0,,,2.8000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,15.0,,,3.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,20.0,,,4.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,1080p,,30.0,,,6.0000,0.20000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,2.0,,,0.1000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,3.0,,,0.1500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,4.0,,,0.2000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,5.0,,,0.2500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,6.0,,,0.3000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,7.0,,,0.3500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,8.0,,,0.4000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,9.0,,,0.4500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,10.0,,,0.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,11.0,,,0.5500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,12.0,,,0.6000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,13.0,,,0.6500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,14.0,,,0.7000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,15.0,,,0.7500,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,20.0,,,1.0000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,480p,,30.0,,,1.5000,0.05000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,2.0,,,0.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,3.0,,,0.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,4.0,,,0.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,5.0,,,0.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,6.0,,,0.6000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,7.0,,,0.7000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,8.0,,,0.8000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,9.0,,,0.9000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,10.0,,,1.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,11.0,,,1.1000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,12.0,,,1.2000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,13.0,,,1.3000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,14.0,,,1.4000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,15.0,,,1.5000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,20.0,,,2.0000,0.10000,1,1,1,0,
+"Wan 3.0",wan-3-0,"Runway API",std,,720p,,30.0,,,3.0000,0.10000,1,1,1,0,

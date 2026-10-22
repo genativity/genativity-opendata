@@ -39,6 +39,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "FLUX 3",flux-3,i2v-old-photo,img2video,v1-2026-10,5.00,5.00,5.00,,,,1,8.04,1088x800,1,2026-10-04,https://sloptv.co/test/i2v-old-photo
 "FLUX 3",flux-3,i2v-portrait-animate,img2video,v1-2026-10,5.00,5.00,5.00,,,,1,8.04,1280x704,1,2026-10-04,https://sloptv.co/test/i2v-portrait-animate
 "FLUX 3",flux-3,i2v-product-spin,img2video,v1-2026-10,5.00,5.00,5.00,,,,1,8.04,960x960,1,2026-10-04,https://sloptv.co/test/i2v-product-spin
+"FLUX 3",flux-3,anim-3d-feature,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.04,1920x1088,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"FLUX 3",flux-3,anim-anime-action,animation,anim1-2026-10,4.25,4.00,5.00,4.00,4.00,,,8.04,1920x1088,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"FLUX 3",flux-3,anim-cartoon-squash,animation,anim1-2026-10,4.63,4.50,4.50,4.50,5.00,,,8.04,1920x1088,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"FLUX 3",flux-3,anim-walk-cycle,animation,anim1-2026-10,4.63,4.50,5.00,4.00,5.00,,,8.04,1920x1088,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Google Gemini Omni",gemini-omni,hands-chopping-vegetables,hands,v1-2026-09,3.96,4.00,4.50,3.00,3.50,4.80,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/hands-chopping-vegetables
 "Google Gemini Omni",gemini-omni,hands-counting-fingers,hands,v1-2026-09,2.86,2.00,3.00,2.50,2.00,4.80,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/hands-counting-fingers
 "Google Gemini Omni",gemini-omni,hands-playing-guitar,hands,v1-2026-09,4.46,4.50,4.50,4.50,4.00,4.80,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/hands-playing-guitar
@@ -79,6 +83,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Google Gemini Omni",gemini-omni,i2v-old-photo,img2video,v1-2026-09,4.96,5.00,5.00,5.00,5.00,4.80,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/i2v-old-photo
 "Google Gemini Omni",gemini-omni,i2v-portrait-animate,img2video,v1-2026-09,4.96,5.00,5.00,5.00,5.00,4.80,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/i2v-portrait-animate
 "Google Gemini Omni",gemini-omni,i2v-product-spin,img2video,v1-2026-09,4.96,5.00,5.00,5.00,5.00,4.80,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/i2v-product-spin
+"Google Gemini Omni",gemini-omni,anim-3d-feature,animation,anim1-2026-10,4.88,5.00,5.00,5.00,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Google Gemini Omni",gemini-omni,anim-anime-action,animation,anim1-2026-10,4.63,4.50,5.00,4.50,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Google Gemini Omni",gemini-omni,anim-cartoon-squash,animation,anim1-2026-10,4.88,4.50,5.00,5.00,5.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Google Gemini Omni",gemini-omni,anim-walk-cycle,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Grok Video",grok-video,hands-chopping-vegetables,hands,v1-2026-09,2.50,2.50,3.00,2.00,,,1,8.04,1280x720,1,2026-09-12,https://sloptv.co/test/hands-chopping-vegetables
 "Grok Video",grok-video,hands-counting-fingers,hands,v1-2026-09,4.67,4.00,5.00,5.00,,,1,8.04,1280x720,1,2026-09-12,https://sloptv.co/test/hands-counting-fingers
 "Grok Video",grok-video,hands-playing-guitar,hands,v1-2026-09,4.17,4.00,4.50,4.00,,,1,8.04,1280x720,1,2026-09-12,https://sloptv.co/test/hands-playing-guitar
@@ -119,6 +127,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Grok Video",grok-video,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,1,8.04,1104x832,1,2026-09-12,https://sloptv.co/test/i2v-old-photo
 "Grok Video",grok-video,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,1,8.04,1280x720,1,2026-09-12,https://sloptv.co/test/i2v-portrait-animate
 "Grok Video",grok-video,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,1,8.04,960x960,1,2026-09-12,https://sloptv.co/test/i2v-product-spin
+"Grok Video",grok-video,anim-3d-feature,animation,anim1-2026-10,4.25,4.50,5.00,3.50,4.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Grok Video",grok-video,anim-anime-action,animation,anim1-2026-10,4.63,4.50,5.00,4.50,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Grok Video",grok-video,anim-cartoon-squash,animation,anim1-2026-10,4.63,4.50,5.00,4.50,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Grok Video",grok-video,anim-walk-cycle,animation,anim1-2026-10,4.75,4.50,5.00,4.50,5.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "MiniMax Hailuo 02",hailuo-02,hands-chopping-vegetables,hands,v1-2026-09,3.50,4.00,3.50,3.00,,,,5.88,1920x1080,0,2026-09-14,https://sloptv.co/test/hands-chopping-vegetables
 "MiniMax Hailuo 02",hailuo-02,hands-counting-fingers,hands,v1-2026-09,4.17,3.50,4.50,4.50,,,,5.88,1920x1080,0,2026-09-14,https://sloptv.co/test/hands-counting-fingers
 "MiniMax Hailuo 02",hailuo-02,hands-playing-guitar,hands,v1-2026-09,3.50,4.00,3.00,3.50,,,,5.88,1920x1080,0,2026-09-14,https://sloptv.co/test/hands-playing-guitar
@@ -159,6 +171,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "MiniMax Hailuo 02",hailuo-02,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,,5.88,1920x1080,0,2026-09-14,https://sloptv.co/test/i2v-old-photo
 "MiniMax Hailuo 02",hailuo-02,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,,5.88,1920x1080,0,2026-09-14,https://sloptv.co/test/i2v-portrait-animate
 "MiniMax Hailuo 02",hailuo-02,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,,5.88,1920x1080,0,2026-09-14,https://sloptv.co/test/i2v-product-spin
+"MiniMax Hailuo 02",hailuo-02,anim-3d-feature,animation,anim1-2026-10,4.50,4.50,4.50,4.50,4.50,,,5.88,1920x1080,0,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"MiniMax Hailuo 02",hailuo-02,anim-anime-action,animation,anim1-2026-10,4.13,4.50,4.50,3.50,4.00,,,5.88,1920x1080,0,2026-10-22,https://sloptv.co/test/anim-anime-action
+"MiniMax Hailuo 02",hailuo-02,anim-cartoon-squash,animation,anim1-2026-10,4.25,3.50,4.50,4.50,4.50,,,5.88,1920x1080,0,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"MiniMax Hailuo 02",hailuo-02,anim-walk-cycle,animation,anim1-2026-10,3.63,3.00,4.50,3.50,3.50,,,5.88,1920x1080,0,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "MiniMax H3",hailuo-h3,hands-chopping-vegetables,hands,v1-2026-09,5.00,5.00,5.00,5.00,,,,8.00,2560x1440,1,2026-09-14,https://sloptv.co/test/hands-chopping-vegetables
 "MiniMax H3",hailuo-h3,hands-counting-fingers,hands,v1-2026-09,4.33,3.50,5.00,4.50,,,,8.00,2560x1440,1,2026-09-14,https://sloptv.co/test/hands-counting-fingers
 "MiniMax H3",hailuo-h3,hands-playing-guitar,hands,v1-2026-09,5.00,5.00,5.00,5.00,,,,8.00,2560x1440,1,2026-09-14,https://sloptv.co/test/hands-playing-guitar
@@ -199,6 +215,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "MiniMax H3",hailuo-h3,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.00,2560x1440,1,2026-09-14,https://sloptv.co/test/i2v-old-photo
 "MiniMax H3",hailuo-h3,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.00,2560x1440,1,2026-09-14,https://sloptv.co/test/i2v-portrait-animate
 "MiniMax H3",hailuo-h3,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.00,2560x1440,1,2026-09-14,https://sloptv.co/test/i2v-product-spin
+"MiniMax H3",hailuo-h3,anim-3d-feature,animation,anim1-2026-10,4.88,5.00,5.00,4.50,5.00,,,8.00,2560x1440,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"MiniMax H3",hailuo-h3,anim-anime-action,animation,anim1-2026-10,4.88,5.00,5.00,4.50,5.00,,,8.00,2560x1440,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"MiniMax H3",hailuo-h3,anim-cartoon-squash,animation,anim1-2026-10,4.00,3.50,4.50,4.00,4.00,,,8.00,2560x1440,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"MiniMax H3",hailuo-h3,anim-walk-cycle,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.00,2560x1440,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Kling 3.0",kling-3-0,hands-chopping-vegetables,hands,v1-2026-09,2.83,3.00,3.50,2.00,,,1,8.04,1920x1080,0,2026-09-12,https://sloptv.co/test/hands-chopping-vegetables
 "Kling 3.0",kling-3-0,hands-counting-fingers,hands,v1-2026-09,3.83,3.00,4.50,4.00,,,1,8.04,1920x1080,0,2026-09-12,https://sloptv.co/test/hands-counting-fingers
 "Kling 3.0",kling-3-0,hands-playing-guitar,hands,v1-2026-09,5.00,5.00,5.00,5.00,,,1,8.04,1920x1080,0,2026-09-12,https://sloptv.co/test/hands-playing-guitar
@@ -239,6 +259,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Kling 3.0",kling-3-0,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,1,8.04,1656x1248,0,2026-09-12,https://sloptv.co/test/i2v-old-photo
 "Kling 3.0",kling-3-0,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,1,8.04,1920x1080,0,2026-09-12,https://sloptv.co/test/i2v-portrait-animate
 "Kling 3.0",kling-3-0,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,1,8.04,1440x1440,0,2026-09-12,https://sloptv.co/test/i2v-product-spin
+"Kling 3.0",kling-3-0,anim-3d-feature,animation,anim1-2026-10,4.63,4.00,5.00,4.50,5.00,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Kling 3.0",kling-3-0,anim-anime-action,animation,anim1-2026-10,4.25,3.50,5.00,4.00,4.50,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Kling 3.0",kling-3-0,anim-cartoon-squash,animation,anim1-2026-10,4.13,4.00,4.50,4.00,4.00,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Kling 3.0",kling-3-0,anim-walk-cycle,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Kling 3.0 Turbo",kling-3-0-turbo,hands-chopping-vegetables,hands,v1-2026-09,4.90,5.00,5.00,4.50,5.00,5.00,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/hands-chopping-vegetables
 "Kling 3.0 Turbo",kling-3-0-turbo,hands-counting-fingers,hands,v1-2026-09,3.20,2.00,3.00,3.00,3.00,5.00,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/hands-counting-fingers
 "Kling 3.0 Turbo",kling-3-0-turbo,hands-playing-guitar,hands,v1-2026-09,5.00,5.00,5.00,5.00,5.00,5.00,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/hands-playing-guitar
@@ -279,6 +303,54 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Kling 3.0 Turbo",kling-3-0-turbo,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,5.00,5.00,5.00,,8.04,1104x832,1,2026-09-23,https://sloptv.co/test/i2v-old-photo
 "Kling 3.0 Turbo",kling-3-0-turbo,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,5.00,5.00,5.00,,8.04,1280x720,1,2026-09-23,https://sloptv.co/test/i2v-portrait-animate
 "Kling 3.0 Turbo",kling-3-0-turbo,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,5.00,5.00,5.00,,8.04,960x960,1,2026-09-23,https://sloptv.co/test/i2v-product-spin
+"Kling 3.0 Turbo",kling-3-0-turbo,anim-3d-feature,animation,anim1-2026-10,4.63,4.50,5.00,4.50,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Kling 3.0 Turbo",kling-3-0-turbo,anim-anime-action,animation,anim1-2026-10,4.50,4.50,5.00,4.00,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Kling 3.0 Turbo",kling-3-0-turbo,anim-cartoon-squash,animation,anim1-2026-10,3.88,3.50,4.00,4.00,4.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Kling 3.0 Turbo",kling-3-0-turbo,anim-walk-cycle,animation,anim1-2026-10,4.63,4.50,4.50,4.50,5.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
+"Kling 4.0",kling-4-0,hands-chopping-vegetables,hands,v1-2026-10,4.83,4.50,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-chopping-vegetables
+"Kling 4.0",kling-4-0,hands-counting-fingers,hands,v1-2026-10,3.83,3.00,4.50,4.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-counting-fingers
+"Kling 4.0",kling-4-0,hands-playing-guitar,hands,v1-2026-10,4.83,4.50,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-playing-guitar
+"Kling 4.0",kling-4-0,hands-tying-shoelaces,hands,v1-2026-10,4.83,4.50,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-tying-shoelaces
+"Kling 4.0",kling-4-0,face-crowd-background,faces,v1-2026-10,4.67,4.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/face-crowd-background
+"Kling 4.0",kling-4-0,face-elderly-detail,faces,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/face-elderly-detail
+"Kling 4.0",kling-4-0,face-glasses-reflection,faces,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/face-glasses-reflection
+"Kling 4.0",kling-4-0,face-turn-smile,faces,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/face-turn-smile
+"Kling 4.0",kling-4-0,liquid-coffee-pour,liquids,v1-2026-10,4.50,4.50,4.50,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/liquid-coffee-pour
+"Kling 4.0",kling-4-0,liquid-honey-drizzle,liquids,v1-2026-10,4.50,4.50,4.50,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/liquid-honey-drizzle
+"Kling 4.0",kling-4-0,liquid-ice-melt,liquids,v1-2026-10,3.67,3.50,4.50,3.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/liquid-ice-melt
+"Kling 4.0",kling-4-0,liquid-wave-crash,liquids,v1-2026-10,4.50,4.50,4.50,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/liquid-wave-crash
+"Kling 4.0",kling-4-0,text-book-page,text_render,v1-2026-10,4.83,5.00,4.50,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/text-book-page
+"Kling 4.0",kling-4-0,text-neon-sign,text_render,v1-2026-10,4.83,4.50,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/text-neon-sign
+"Kling 4.0",kling-4-0,text-shop-front,text_render,v1-2026-10,4.83,4.50,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/text-shop-front
+"Kling 4.0",kling-4-0,text-tshirt,text_render,v1-2026-10,4.83,5.00,4.50,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/text-tshirt
+"Kling 4.0",kling-4-0,multishot-cafe-conversation,multishot,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/multishot-cafe-conversation
+"Kling 4.0",kling-4-0,multishot-day-night,multishot,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/multishot-day-night
+"Kling 4.0",kling-4-0,multishot-product-reveal,multishot,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/multishot-product-reveal
+"Kling 4.0",kling-4-0,multishot-street-follow,multishot,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/multishot-street-follow
+"Kling 4.0",kling-4-0,lipsync-accent-phrase,lipsync,v1-2026-10,5.00,5.00,5.00,,,5.00,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/lipsync-accent-phrase
+"Kling 4.0",kling-4-0,lipsync-direct-address,lipsync,v1-2026-10,4.17,3.50,5.00,,,4.00,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/lipsync-direct-address
+"Kling 4.0",kling-4-0,lipsync-singing,lipsync,v1-2026-10,4.83,4.50,5.00,,,5.00,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/lipsync-singing
+"Kling 4.0",kling-4-0,lipsync-two-speakers,lipsync,v1-2026-10,5.00,5.00,5.00,,,5.00,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/lipsync-two-speakers
+"Kling 4.0",kling-4-0,camera-crane-up,camera,v1-2026-10,4.33,3.50,5.00,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/camera-crane-up
+"Kling 4.0",kling-4-0,camera-dolly-in-door,camera,v1-2026-10,5.00,5.00,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/camera-dolly-in-door
+"Kling 4.0",kling-4-0,camera-handheld-follow,camera,v1-2026-10,4.67,5.00,4.50,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/camera-handheld-follow
+"Kling 4.0",kling-4-0,camera-orbit-subject,camera,v1-2026-10,5.00,5.00,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/camera-orbit-subject
+"Kling 4.0",kling-4-0,animal-bird-takeoff,animals,v1-2026-10,4.83,4.50,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/animal-bird-takeoff
+"Kling 4.0",kling-4-0,animal-cat-jump,animals,v1-2026-10,4.17,3.50,4.50,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/animal-cat-jump
+"Kling 4.0",kling-4-0,animal-dog-shake,animals,v1-2026-10,4.83,4.50,5.00,5.00,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/animal-dog-shake
+"Kling 4.0",kling-4-0,animal-horse-gallop,animals,v1-2026-10,4.50,4.50,4.50,4.50,,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/animal-horse-gallop
+"Kling 4.0",kling-4-0,style-anime-consistency,style,v1-2026-10,4.83,4.50,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/style-anime-consistency
+"Kling 4.0",kling-4-0,style-claymation,style,v1-2026-10,4.67,4.50,4.50,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/style-claymation
+"Kling 4.0",kling-4-0,style-film-grain,style,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/style-film-grain
+"Kling 4.0",kling-4-0,style-product-rotate,style,v1-2026-10,5.00,5.00,5.00,,5.00,,,8.04,1920x1080,1,2026-10-21,https://sloptv.co/test/style-product-rotate
+"Kling 4.0",kling-4-0,i2v-landscape-motion,img2video,v1-2026-10,5.00,5.00,5.00,,,,,8.04,1280x720,1,2026-10-21,https://sloptv.co/test/i2v-landscape-motion
+"Kling 4.0",kling-4-0,i2v-old-photo,img2video,v1-2026-10,5.00,5.00,5.00,,,,,8.04,1104x832,1,2026-10-21,https://sloptv.co/test/i2v-old-photo
+"Kling 4.0",kling-4-0,i2v-portrait-animate,img2video,v1-2026-10,5.00,5.00,5.00,,,,,8.04,1280x720,1,2026-10-21,https://sloptv.co/test/i2v-portrait-animate
+"Kling 4.0",kling-4-0,i2v-product-spin,img2video,v1-2026-10,5.00,5.00,5.00,,,,,8.04,940x940,1,2026-10-21,https://sloptv.co/test/i2v-product-spin
+"Kling 4.0",kling-4-0,anim-3d-feature,animation,anim1-2026-10,4.50,4.50,5.00,4.00,4.50,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Kling 4.0",kling-4-0,anim-anime-action,animation,anim1-2026-10,4.38,4.00,5.00,4.00,4.50,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Kling 4.0",kling-4-0,anim-cartoon-squash,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Kling 4.0",kling-4-0,anim-walk-cycle,animation,anim1-2026-10,4.25,4.50,4.50,3.50,4.50,,,8.04,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "PixVerse v5.5",pixverse-v5-5,hands-chopping-vegetables,hands,v1-2026-09,2.75,2.50,3.50,2.00,3.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/hands-chopping-vegetables
 "PixVerse v5.5",pixverse-v5-5,hands-counting-fingers,hands,v1-2026-09,4.12,3.00,4.50,4.50,4.50,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/hands-counting-fingers
 "PixVerse v5.5",pixverse-v5-5,hands-playing-guitar,hands,v1-2026-09,5.00,5.00,5.00,5.00,5.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/hands-playing-guitar
@@ -319,6 +391,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "PixVerse v5.5",pixverse-v5-5,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,5.00,5.00,,,8.04,1280x960,0,2026-09-23,https://sloptv.co/test/i2v-old-photo
 "PixVerse v5.5",pixverse-v5-5,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,5.00,5.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/i2v-portrait-animate
 "PixVerse v5.5",pixverse-v5-5,i2v-product-spin,img2video,v1-2026-09,4.73,4.50,4.80,4.80,4.80,,,8.04,1280x1280,0,2026-09-23,https://sloptv.co/test/i2v-product-spin
+"PixVerse v5.5",pixverse-v5-5,anim-3d-feature,animation,anim1-2026-10,4.13,4.00,4.50,3.50,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"PixVerse v5.5",pixverse-v5-5,anim-anime-action,animation,anim1-2026-10,3.50,3.00,4.50,3.00,3.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"PixVerse v5.5",pixverse-v5-5,anim-cartoon-squash,animation,anim1-2026-10,3.63,3.00,4.50,3.00,4.00,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"PixVerse v5.5",pixverse-v5-5,anim-walk-cycle,animation,anim1-2026-10,4.00,3.00,4.00,4.50,4.50,,,8.04,1280x720,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Runway Gen-4.5",runway-gen-4,hands-chopping-vegetables,hands,v1-2026-09,3.62,3.50,4.00,3.00,4.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/hands-chopping-vegetables
 "Runway Gen-4.5",runway-gen-4,hands-counting-fingers,hands,v1-2026-09,3.25,2.50,3.50,3.50,3.50,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/hands-counting-fingers
 "Runway Gen-4.5",runway-gen-4,hands-playing-guitar,hands,v1-2026-09,3.88,4.00,4.00,3.50,4.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/hands-playing-guitar
@@ -359,6 +435,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Runway Gen-4.5",runway-gen-4,i2v-old-photo,img2video,v1-2026-09,4.15,4.30,4.00,4.30,4.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/i2v-old-photo
 "Runway Gen-4.5",runway-gen-4,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,5.00,5.00,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/i2v-portrait-animate
 "Runway Gen-4.5",runway-gen-4,i2v-product-spin,img2video,v1-2026-09,4.20,4.50,4.00,4.00,4.30,,,8.04,1280x720,0,2026-09-23,https://sloptv.co/test/i2v-product-spin
+"Runway Gen-4.5",runway-gen-4,anim-3d-feature,animation,anim1-2026-10,4.25,4.50,4.50,3.50,4.50,,,8.04,1280x720,0,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Runway Gen-4.5",runway-gen-4,anim-anime-action,animation,anim1-2026-10,4.00,4.00,4.50,4.00,3.50,,,8.04,1280x720,0,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Runway Gen-4.5",runway-gen-4,anim-cartoon-squash,animation,anim1-2026-10,3.75,4.00,4.00,4.50,2.50,,,8.04,1280x720,0,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Runway Gen-4.5",runway-gen-4,anim-walk-cycle,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.04,1280x720,0,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Seedance 2.0",seedance-2-0,hands-chopping-vegetables,hands,v1-2026-09,3.00,3.00,3.50,2.50,,,,8.08,1920x1080,1,2026-09-13,https://sloptv.co/test/hands-chopping-vegetables
 "Seedance 2.0",seedance-2-0,hands-counting-fingers,hands,v1-2026-09,3.67,2.50,4.50,4.00,,,,8.08,1920x1080,1,2026-09-13,https://sloptv.co/test/hands-counting-fingers
 "Seedance 2.0",seedance-2-0,hands-playing-guitar,hands,v1-2026-09,4.67,4.50,4.50,5.00,,,,8.08,1920x1080,1,2026-09-13,https://sloptv.co/test/hands-playing-guitar
@@ -398,6 +478,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Seedance 2.0",seedance-2-0,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.08,1664x1248,1,2026-09-13,https://sloptv.co/test/i2v-old-photo
 "Seedance 2.0",seedance-2-0,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.08,1920x1080,1,2026-09-13,https://sloptv.co/test/i2v-portrait-animate
 "Seedance 2.0",seedance-2-0,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.08,1440x1440,1,2026-09-13,https://sloptv.co/test/i2v-product-spin
+"Seedance 2.0",seedance-2-0,anim-3d-feature,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,2,8.08,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Seedance 2.0",seedance-2-0,anim-anime-action,animation,anim1-2026-10,4.38,3.50,5.00,4.50,4.50,,,8.08,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Seedance 2.0",seedance-2-0,anim-cartoon-squash,animation,anim1-2026-10,4.63,3.50,5.00,5.00,5.00,,,8.08,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Seedance 2.0",seedance-2-0,anim-walk-cycle,animation,anim1-2026-10,4.88,4.50,5.00,5.00,5.00,,,8.08,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Seedance 2.5",seedance-2-5,hands-chopping-vegetables,hands,v1-2026-09,4.67,5.00,4.50,4.50,,,,8.06,1920x1080,1,2026-09-13,https://sloptv.co/test/hands-chopping-vegetables
 "Seedance 2.5",seedance-2-5,hands-counting-fingers,hands,v1-2026-09,4.00,3.00,4.50,4.50,,,,8.06,1920x1080,1,2026-09-13,https://sloptv.co/test/hands-counting-fingers
 "Seedance 2.5",seedance-2-5,hands-playing-guitar,hands,v1-2026-09,5.00,5.00,5.00,5.00,,,,8.06,1920x1080,1,2026-09-13,https://sloptv.co/test/hands-playing-guitar
@@ -437,6 +521,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Seedance 2.5",seedance-2-5,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.06,1430x1080,1,2026-09-13,https://sloptv.co/test/i2v-old-photo
 "Seedance 2.5",seedance-2-5,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.06,1920x1080,1,2026-09-13,https://sloptv.co/test/i2v-portrait-animate
 "Seedance 2.5",seedance-2-5,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.06,1080x1080,1,2026-09-13,https://sloptv.co/test/i2v-product-spin
+"Seedance 2.5",seedance-2-5,anim-3d-feature,animation,anim1-2026-10,4.63,4.00,5.00,4.50,5.00,,2,8.05,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Seedance 2.5",seedance-2-5,anim-anime-action,animation,anim1-2026-10,4.63,4.50,5.00,4.00,5.00,,2,8.05,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Seedance 2.5",seedance-2-5,anim-cartoon-squash,animation,anim1-2026-10,4.75,5.00,5.00,4.50,4.50,,,8.05,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Seedance 2.5",seedance-2-5,anim-walk-cycle,animation,anim1-2026-10,3.75,2.50,4.50,3.00,5.00,,,8.05,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "OpenAI Sora 2",sora-2,hands-chopping-vegetables,hands,v1-2026-09,5.00,5.00,5.00,5.00,,,1,8.00,1280x720,1,2026-09-12,https://sloptv.co/test/hands-chopping-vegetables
 "OpenAI Sora 2",sora-2,hands-counting-fingers,hands,v1-2026-09,4.50,4.00,4.50,5.00,,,1,8.00,1280x720,1,2026-09-12,https://sloptv.co/test/hands-counting-fingers
 "OpenAI Sora 2",sora-2,hands-playing-guitar,hands,v1-2026-09,4.50,4.50,4.00,5.00,,,1,8.00,1280x720,1,2026-09-12,https://sloptv.co/test/hands-playing-guitar
@@ -517,6 +605,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Google Veo 3.1",veo-3-1,i2v-old-photo,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.00,1920x1080,1,2026-09-14,https://sloptv.co/test/i2v-old-photo
 "Google Veo 3.1",veo-3-1,i2v-portrait-animate,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.00,1920x1080,1,2026-09-14,https://sloptv.co/test/i2v-portrait-animate
 "Google Veo 3.1",veo-3-1,i2v-product-spin,img2video,v1-2026-09,5.00,5.00,5.00,,,,,8.00,1920x1080,1,2026-09-14,https://sloptv.co/test/i2v-product-spin
+"Google Veo 3.1",veo-3-1,anim-3d-feature,animation,anim1-2026-10,5.00,5.00,5.00,5.00,5.00,,,8.00,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Google Veo 3.1",veo-3-1,anim-anime-action,animation,anim1-2026-10,4.88,5.00,5.00,4.50,5.00,,,8.00,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Google Veo 3.1",veo-3-1,anim-cartoon-squash,animation,anim1-2026-10,4.75,5.00,4.50,4.50,5.00,,,8.00,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Google Veo 3.1",veo-3-1,anim-walk-cycle,animation,anim1-2026-10,4.75,4.50,5.00,4.50,5.00,,,8.00,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Vivix W1",vivix-w1,hands-chopping-vegetables,hands,v1-vivix-2026-10,2.67,2.50,3.50,2.00,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-chopping-vegetables
 "Vivix W1",vivix-w1,hands-counting-fingers,hands,v1-vivix-2026-10,3.50,2.50,4.00,4.00,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-counting-fingers
 "Vivix W1",vivix-w1,hands-playing-guitar,hands,v1-vivix-2026-10,4.33,4.50,4.50,4.00,,,1,7.89,1264x720,1,2026-10-11,https://sloptv.co/test/hands-playing-guitar
@@ -557,6 +649,10 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Vivix W1",vivix-w1,i2v-old-photo,img2video,v1-vivix-2026-10,5.00,5.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-old-photo
 "Vivix W1",vivix-w1,i2v-portrait-animate,img2video,v1-vivix-2026-10,5.00,5.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-portrait-animate
 "Vivix W1",vivix-w1,i2v-product-spin,img2video,v1-vivix-2026-10,4.50,4.00,5.00,,,,1,7.88,1264x720,1,2026-10-12,https://sloptv.co/test/i2v-product-spin
+"Vivix W1",vivix-w1,anim-3d-feature,animation,anim1-2026-10,4.63,4.50,5.00,4.50,4.50,,1,8.04,1264x720,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Vivix W1",vivix-w1,anim-anime-action,animation,anim1-2026-10,4.63,4.50,5.00,4.50,4.50,,1,8.04,1264x720,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Vivix W1",vivix-w1,anim-cartoon-squash,animation,anim1-2026-10,4.13,3.00,4.50,4.50,4.50,,1,8.04,1264x720,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Vivix W1",vivix-w1,anim-walk-cycle,animation,anim1-2026-10,4.88,4.50,5.00,5.00,5.00,,1,8.04,1264x720,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle
 "Wan 3.0",wan-3-0,hands-chopping-vegetables,hands,v1-2026-10,4.00,4.00,4.50,3.50,,,,8.03,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-chopping-vegetables
 "Wan 3.0",wan-3-0,hands-counting-fingers,hands,v1-2026-10,3.83,3.00,4.50,4.00,,,,8.03,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-counting-fingers
 "Wan 3.0",wan-3-0,hands-playing-guitar,hands,v1-2026-10,4.83,5.00,5.00,4.50,,,,8.03,1920x1080,1,2026-10-21,https://sloptv.co/test/hands-playing-guitar
@@ -597,3 +693,7 @@ model,model_slug,prompt,category,round,score_overall,score_fidelity,score_visual
 "Wan 3.0",wan-3-0,i2v-old-photo,img2video,v1-2026-10,4.50,4.00,5.00,,,,,8.03,1656x1250,1,2026-10-21,https://sloptv.co/test/i2v-old-photo
 "Wan 3.0",wan-3-0,i2v-portrait-animate,img2video,v1-2026-10,5.00,5.00,5.00,,,,,8.03,1920x1080,1,2026-10-21,https://sloptv.co/test/i2v-portrait-animate
 "Wan 3.0",wan-3-0,i2v-product-spin,img2video,v1-2026-10,5.00,5.00,5.00,,,,,8.03,1440x1440,1,2026-10-21,https://sloptv.co/test/i2v-product-spin
+"Wan 3.0",wan-3-0,anim-3d-feature,animation,anim1-2026-10,4.50,4.50,5.00,4.50,4.00,,,8.03,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-3d-feature
+"Wan 3.0",wan-3-0,anim-anime-action,animation,anim1-2026-10,4.75,4.50,5.00,4.50,5.00,,,8.03,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-anime-action
+"Wan 3.0",wan-3-0,anim-cartoon-squash,animation,anim1-2026-10,4.00,3.50,5.00,3.00,4.50,,,8.03,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-cartoon-squash
+"Wan 3.0",wan-3-0,anim-walk-cycle,animation,anim1-2026-10,4.88,4.50,5.00,5.00,5.00,,,8.03,1920x1080,1,2026-10-22,https://sloptv.co/test/anim-walk-cycle

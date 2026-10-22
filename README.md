@@ -4,31 +4,32 @@ Open dataset behind [SlopTV](https://sloptv.co), an independent benchmark and pr
 Every model runs the same 40 fixed prompts across 10 categories (hands, faces, liquids, text, lip-sync,
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 17 platforms and APIs.
 
-- **15 models** benchmarked, **598 scored clips**
-- **11,809 prices** for 14 models, last read 2026-10-21
+- **16 models** benchmarked, **698 scored clips**
+- **13,081 prices** for 15 models, last read 2026-10-22
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-21)
+## Latest changes (2026-10-22)
 
 #### Prices
 
-**No longer listed:**
-- Luma Dream Machine on Replicate: 4 variants
+13 price changes (2 down, 11 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
 
-#### Leaderboard
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | fal.ai | us-hosted, ref2v, 480p | $0.135/s | $0.173/s | +28.7% |
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | fal.ai | us-hosted, ref2v, 720p | $0.303/s | $0.37/s | +22.0% |
+| [Seedance 2.5](https://sloptv.co/radar/seedance-2-5) | fal.ai | 9 variants (480p, 720p and 1080p) | $0.221/s | $0.265/s | +20.0% |
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | fal.ai | mini, ref2v, 480p | $0.0721/s | $0.0673/s | -6.7% |
+| [Seedance 2.0](https://sloptv.co/radar/seedance-2-0) | fal.ai | mini, ref2v, 720p | $0.155/s | $0.151/s | -2.3% |
 
-- **New model: Wan 3.0** enters at #9 with 4.75/5. [Clips and scores](https://sloptv.co/model/wan-3-0)
-- Grok Video: down to #10 (4.72)
-- Google Veo 3.1: down to #11 (4.63)
-- Runway Gen-4.5: down to #12 (4.57)
-- PixVerse v5.5: down to #13 (4.52)
-- Kling 3.0: down to #14 (4.47)
-- MiniMax Hailuo 02: down to #15 (3.90)
+**New offers:**
+- Wan 3.0 on fal.ai: 6 variants, from $0.05/s ([radar](https://sloptv.co/radar/wan-3-0))
+- Wan 3.0 on Higgsfield: 3 variants, from $0.0344/s ([radar](https://sloptv.co/radar/wan-3-0))
+- Wan 3.0 on Higgsfield API: 9 variants, from $0.02/s ([radar](https://sloptv.co/radar/wan-3-0))
+- Wan 3.0 on Kie.ai: 3 variants, from $0.04/s ([radar](https://sloptv.co/radar/wan-3-0))
 
-#### Benchmark clips
-
-- 40 new scored clips for Wan 3.0 (round v1-2026-10)
+[Full list of changes](CHANGELOG.md)
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -46,13 +47,14 @@ Browse it on the site: [leaderboard](https://sloptv.co/leaderboard) · [price ra
 | 6 | [Seedance 2.5](https://sloptv.co/model/seedance-2-5) | ByteDance | 4.79 | ±0.15 |
 | 7 | [Vivix W1](https://sloptv.co/model/vivix-w1) | Vivix | 4.77 | ±0.15 |
 | 8 | [OpenAI Sora 2](https://sloptv.co/model/sora-2) | OpenAI | 4.76 | ±0.17 |
-| 9 | [Wan 3.0](https://sloptv.co/model/wan-3-0) | Alibaba | 4.75 | ±0.12 |
-| 10 | [Grok Video](https://sloptv.co/model/grok-video) | xAI | 4.72 | ±0.16 |
-| 11 | [Google Veo 3.1](https://sloptv.co/model/veo-3-1) | Google | 4.63 | ±0.26 |
-| 12 | [Runway Gen-4.5](https://sloptv.co/model/runway-gen-4) | Runway | 4.57 | ±0.16 |
-| 13 | [PixVerse v5.5](https://sloptv.co/model/pixverse-v5-5) | PixVerse | 4.52 | ±0.18 |
-| 14 | [Kling 3.0](https://sloptv.co/model/kling-3-0) | Kuaishou | 4.47 | ±0.20 |
-| 15 | [MiniMax Hailuo 02](https://sloptv.co/model/hailuo-02) | MiniMax | 3.90 | ±0.47 |
+| 9 | [Kling 4.0](https://sloptv.co/model/kling-4-0) | Kuaishou | 4.76 | ±0.10 |
+| 10 | [Wan 3.0](https://sloptv.co/model/wan-3-0) | Alibaba | 4.75 | ±0.12 |
+| 11 | [Grok Video](https://sloptv.co/model/grok-video) | xAI | 4.72 | ±0.16 |
+| 12 | [Google Veo 3.1](https://sloptv.co/model/veo-3-1) | Google | 4.63 | ±0.26 |
+| 13 | [Runway Gen-4.5](https://sloptv.co/model/runway-gen-4) | Runway | 4.57 | ±0.16 |
+| 14 | [PixVerse v5.5](https://sloptv.co/model/pixverse-v5-5) | PixVerse | 4.52 | ±0.18 |
+| 15 | [Kling 3.0](https://sloptv.co/model/kling-3-0) | Kuaishou | 4.47 | ±0.20 |
+| 16 | [MiniMax Hailuo 02](https://sloptv.co/model/hailuo-02) | MiniMax | 3.90 | ±0.47 |
 
 Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](data/leaderboard.csv). Live version: [sloptv.co/leaderboard](https://sloptv.co/leaderboard).
 
@@ -60,9 +62,9 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 
 | File | Rows | What it has |
 |---|---:|---|
-| [`data/leaderboard.csv`](data/leaderboard.csv) | 15 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
-| [`data/scores.csv`](data/scores.csv) | 598 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 11,809 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/leaderboard.csv`](data/leaderboard.csv) | 16 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
+| [`data/scores.csv`](data/scores.csv) | 698 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
+| [`data/prices.csv`](data/prices.csv) | 13,081 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
@@ -85,7 +87,7 @@ All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json
 | `audio` | Audio quality and sync, 0 to 5 (empty when the model has no audio) |
 | `attempts_until_usable` | Mean generations needed for a usable clip (empty when not recorded) |
 | `runs` | Clips scored |
-| `{category}` | Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video) |
+| `{category}` | Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall) |
 
 ### scores.csv
 

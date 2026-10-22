@@ -80,43 +80,47 @@
                     },
                     {
                         "name": "hands",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "faces",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "liquids",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "text_render",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "multishot",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "lipsync",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "camera",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "animals",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "style",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     },
                     {
                         "name": "img2video",
-                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video)"
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
+                    },
+                    {
+                        "name": "animation",
+                        "description": "Overall score within that test category (hands, faces, liquids, text_render, multishot, lipsync, camera, animals, style, img2video, animation; animation is scored separately and not in overall)"
                     }
                 ]
             }
