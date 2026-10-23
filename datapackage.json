@@ -1,8 +1,8 @@
 {
-    "name": "sloptv-ai-video-benchmark",
-    "title": "SlopTV AI video benchmark scores and prices",
+    "name": "genativity-ai-video-benchmark",
+    "title": "Genativity AI video benchmark scores and prices",
     "description": "Independent benchmark scores and published prices for AI video generation models.",
-    "homepage": "https://sloptv.co/data",
+    "homepage": "https://genativity.com/data",
     "licenses": [
         {
             "name": "CC-BY-4.0",
@@ -12,8 +12,8 @@
     ],
     "sources": [
         {
-            "title": "SlopTV",
-            "path": "https://sloptv.co"
+            "title": "Genativity",
+            "path": "https://genativity.com"
         }
     ],
     "resources": [
@@ -36,7 +36,7 @@
                     },
                     {
                         "name": "slug",
-                        "description": "Model id, also used in https://sloptv.co/model/{slug}"
+                        "description": "Model id, also used in https://genativity.com/model/{slug}"
                     },
                     {
                         "name": "company",
@@ -144,7 +144,7 @@
                     },
                     {
                         "name": "prompt",
-                        "description": "Prompt id, also used in https://sloptv.co/test/{prompt}"
+                        "description": "Prompt id, also used in https://genativity.com/test/{prompt}"
                     },
                     {
                         "name": "category",
@@ -220,7 +220,7 @@
                     },
                     {
                         "name": "model_slug",
-                        "description": "Model id, also used in https://sloptv.co/radar/{model_slug}"
+                        "description": "Model id, also used in https://genativity.com/radar/{model_slug}"
                     },
                     {
                         "name": "platform",

@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this data, please cite it and link to https://sloptv.co"
+message: "If you use this data, please cite it and link to https://genativity.com"
 type: dataset
-title: "SlopTV AI video benchmark scores and prices"
+title: "Genativity AI video benchmark scores and prices"
 authors:
-  - name: "SlopTV"
-    website: "https://sloptv.co"
-url: "https://sloptv.co/data"
+  - name: "Genativity"
+    website: "https://genativity.com"
+url: "https://genativity.com/data"
 repository-code: "https://github.com/sloptv/sloptv-opendata"
 license: CC-BY-4.0
 keywords:

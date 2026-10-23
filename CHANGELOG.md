@@ -2,9 +2,16 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-22.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-23.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-23
+
+### Prices
+
+**No longer listed:**
+- Google Veo 3.1 on Google Gemini API: 8 variants
 
 ## 2026-10-22
 
