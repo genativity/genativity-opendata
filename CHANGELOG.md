@@ -2,9 +2,35 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-23.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-24.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-24
+
+### Prices
+
+- **BytePlus ModelArk is now the cheapest place to run Seedance 2.5** at draft 480p ($0.103/s), ahead of Magnific ($0.176/s). [Compare](https://genativity.com/radar/seedance-2-5)
+
+9 price changes (9 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 6 variants (480p and 720p) | $0.265/s | $0.221/s | -16.7% |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (1080p) | $1.396/s | $1.164/s | -16.6% |
+
+**New offers:**
+- MiniMax H3 on fal.ai: 1 variant, from $0.05/s ([radar](https://genativity.com/radar/hailuo-h3))
+- Seedance 2.0 on Replicate: 2 variants, from $0.04/s ([radar](https://genativity.com/radar/seedance-2-0))
+- Seedance 2.5 on BytePlus ModelArk: 1 variant, from $0.103/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on fal.ai: 3 variants, from $0.221/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Kie.ai: 1 variant, from $0.14/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Replicate: 2 variants, from $0.103/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Runway API: 1 variant, from $0.20/s ([radar](https://genativity.com/radar/seedance-2-5))
+
+**No longer listed:**
+- MiniMax H3 on fal.ai: 3 variants
+- OpenAI Sora 2 on Higgsfield: 7 variants
 
 ## 2026-10-23
 

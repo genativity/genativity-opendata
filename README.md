@@ -5,16 +5,32 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 17 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **13,057 prices** for 15 models, last read 2026-10-23
+- **12,919 prices** for 15 models, last read 2026-10-24
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-23)
+## Latest changes (2026-10-24)
 
 #### Prices
 
-**No longer listed:**
-- Google Veo 3.1 on Google Gemini API: 8 variants
+- **BytePlus ModelArk is now the cheapest place to run Seedance 2.5** at draft 480p ($0.103/s), ahead of Magnific ($0.176/s). [Compare](https://genativity.com/radar/seedance-2-5)
+
+9 price changes (9 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 6 variants (480p and 720p) | $0.265/s | $0.221/s | -16.7% |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (1080p) | $1.396/s | $1.164/s | -16.6% |
+
+**New offers:**
+- MiniMax H3 on fal.ai: 1 variant, from $0.05/s ([radar](https://genativity.com/radar/hailuo-h3))
+- Seedance 2.0 on Replicate: 2 variants, from $0.04/s ([radar](https://genativity.com/radar/seedance-2-0))
+- Seedance 2.5 on BytePlus ModelArk: 1 variant, from $0.103/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on fal.ai: 3 variants, from $0.221/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Kie.ai: 1 variant, from $0.14/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Replicate: 2 variants, from $0.103/s ([radar](https://genativity.com/radar/seedance-2-5))
+
+[Full list of changes](CHANGELOG.md)
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -49,7 +65,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 16 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 698 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 13,057 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 12,919 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
