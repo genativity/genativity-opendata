@@ -2,7 +2,7 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-24.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-10-25.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-10-24).
 
 By month: [2026-10](changelog/2026-10.md)
 
