@@ -2,9 +2,30 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-25.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-10-24).
+**Last checked: 2026-10-26.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-26
+
+### Prices
+
+12 price changes (12 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | fast, 480p | $0.29/s | $0.11/s | -62.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | fast, 480p | $0.29/s | $0.11/s | -62.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | 480p | $0.36/s | $0.14/s | -61.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | 480p | $0.36/s | $0.14/s | -61.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | mini, 480p | $0.16/s | $0.07/s | -56.3% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | mini, 480p | $0.16/s | $0.07/s | -56.3% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | fast, 720p | $0.29/s | $0.24/s | -17.2% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | fast, 720p | $0.29/s | $0.24/s | -17.2% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | 720p | $0.36/s | $0.30/s | -16.7% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | 720p | $0.36/s | $0.30/s | -16.7% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | mini, 720p | $0.16/s | $0.15/s | -6.3% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | mini, 720p | $0.16/s | $0.15/s | -6.3% |
 
 ## 2026-10-24
 

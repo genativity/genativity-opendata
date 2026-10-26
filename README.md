@@ -5,30 +5,28 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 17 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **12,919 prices** for 15 models, last read 2026-10-25
+- **12,919 prices** for 15 models, last read 2026-10-26
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-24)
+## Latest changes (2026-10-26)
 
 #### Prices
 
-- **BytePlus ModelArk is now the cheapest place to run Seedance 2.5** at draft 480p ($0.103/s), ahead of Magnific ($0.176/s). [Compare](https://genativity.com/radar/seedance-2-5)
-
-9 price changes (9 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+12 price changes (12 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
 
 | Model | Platform | Variant | Before | Now | Change |
 |---|---|---|---:|---:|---:|
-| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 6 variants (480p and 720p) | $0.265/s | $0.221/s | -16.7% |
-| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (1080p) | $1.396/s | $1.164/s | -16.6% |
-
-**New offers:**
-- MiniMax H3 on fal.ai: 1 variant, from $0.05/s ([radar](https://genativity.com/radar/hailuo-h3))
-- Seedance 2.0 on Replicate: 2 variants, from $0.04/s ([radar](https://genativity.com/radar/seedance-2-0))
-- Seedance 2.5 on BytePlus ModelArk: 1 variant, from $0.103/s ([radar](https://genativity.com/radar/seedance-2-5))
-- Seedance 2.5 on fal.ai: 3 variants, from $0.221/s ([radar](https://genativity.com/radar/seedance-2-5))
-- Seedance 2.5 on Kie.ai: 1 variant, from $0.14/s ([radar](https://genativity.com/radar/seedance-2-5))
-- Seedance 2.5 on Replicate: 2 variants, from $0.103/s ([radar](https://genativity.com/radar/seedance-2-5))
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | fast, 480p | $0.29/s | $0.11/s | -62.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | fast, 480p | $0.29/s | $0.11/s | -62.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | 480p | $0.36/s | $0.14/s | -61.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | 480p | $0.36/s | $0.14/s | -61.1% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | mini, 480p | $0.16/s | $0.07/s | -56.3% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | mini, 480p | $0.16/s | $0.07/s | -56.3% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | fast, 720p | $0.29/s | $0.24/s | -17.2% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | fast, 720p | $0.29/s | $0.24/s | -17.2% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway | 720p | $0.36/s | $0.30/s | -16.7% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Runway API | 720p | $0.36/s | $0.30/s | -16.7% |
 
 [Full list of changes](CHANGELOG.md)
 
