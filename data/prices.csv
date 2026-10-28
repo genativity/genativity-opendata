@@ -515,54 +515,54 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Google Gemini Omni",gemini-omni,Kie.ai,std,,720p,,6.0,,,0.4200,0.07000,1,1,1,0,
 "Google Gemini Omni",gemini-omni,Kie.ai,std,,720p,,8.0,,,0.5250,0.06563,1,1,1,0,
 "Google Gemini Omni",gemini-omni,Kie.ai,std,,720p,,10.0,,,0.6300,0.06300,1,1,1,0,
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,pro-starter-1500000y,82.50,0.4752,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium+-600000y,33.75,0.4860,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium-240000y,14.50,0.5220,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,pro-starter-1500000y,110.00,0.6336,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium+-600000y,45.00,0.6480,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium-240000y,20.00,0.7200,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,pro-starter-1500000y,82.50,0.6336,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium+-600000y,33.75,0.6480,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium-240000y,14.50,0.6960,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,pro-starter-1500000y,110.00,0.8448,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium+-600000y,45.00,0.8640,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium-240000y,20.00,0.9600,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,pro-starter-1500000y,82.50,0.7920,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium+-600000y,33.75,0.8100,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium-240000y,14.50,0.8700,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,pro-starter-1500000y,110.00,1.0560,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium+-600000y,45.00,1.0800,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium-240000y,20.00,1.2000,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,pro-starter-1500000y,82.50,0.9504,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium+-600000y,33.75,0.9720,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium-240000y,14.50,1.0440,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,pro-starter-1500000y,110.00,1.2672,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium+-600000y,45.00,1.2960,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium-240000y,20.00,1.4400,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,pro-starter-1500000y,82.50,1.1088,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium+-600000y,33.75,1.1340,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium-240000y,14.50,1.2180,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,pro-starter-1500000y,110.00,1.4784,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium+-600000y,45.00,1.5120,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium-240000y,20.00,1.6800,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,pro-starter-1500000y,82.50,1.2672,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium+-600000y,33.75,1.2960,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium-240000y,14.50,1.3920,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,pro-starter-1500000y,110.00,1.6896,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium+-600000y,45.00,1.7280,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium-240000y,20.00,1.9200,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,pro-starter-1500000y,82.50,1.4256,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium+-600000y,33.75,1.4580,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium-240000y,14.50,1.5660,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,pro-starter-1500000y,110.00,1.9008,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium+-600000y,45.00,1.9440,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium-240000y,20.00,2.1600,0.24000,1,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,pro-starter-1500000y,82.50,1.5840,0.15840,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium+-600000y,33.75,1.6200,0.16200,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium-240000y,14.50,1.7400,0.17400,0,0,0,0,yearly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,pro-starter-1500000y,110.00,2.1120,0.21120,0,1,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium+-600000y,45.00,2.1600,0.21600,0,0,0,0,monthly
-"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium-240000y,20.00,2.4000,0.24000,1,0,0,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,pro-starter-1500000y,82.50,0.4752,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium+-600000y,33.75,0.4860,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium-240000y,14.50,0.5220,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,pro-starter-1500000y,110.00,0.6336,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium+-600000y,45.00,0.6480,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,3.0,premium-240000y,20.00,0.7200,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,pro-starter-1500000y,82.50,0.6336,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium+-600000y,33.75,0.6480,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium-240000y,14.50,0.6960,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,pro-starter-1500000y,110.00,0.8448,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium+-600000y,45.00,0.8640,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,4.0,premium-240000y,20.00,0.9600,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,pro-starter-1500000y,82.50,0.7920,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium+-600000y,33.75,0.8100,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium-240000y,14.50,0.8700,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,pro-starter-1500000y,110.00,1.0560,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium+-600000y,45.00,1.0800,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,5.0,premium-240000y,20.00,1.2000,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,pro-starter-1500000y,82.50,0.9504,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium+-600000y,33.75,0.9720,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium-240000y,14.50,1.0440,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,pro-starter-1500000y,110.00,1.2672,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium+-600000y,45.00,1.2960,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,6.0,premium-240000y,20.00,1.4400,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,pro-starter-1500000y,82.50,1.1088,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium+-600000y,33.75,1.1340,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium-240000y,14.50,1.2180,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,pro-starter-1500000y,110.00,1.4784,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium+-600000y,45.00,1.5120,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,7.0,premium-240000y,20.00,1.6800,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,pro-starter-1500000y,82.50,1.2672,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium+-600000y,33.75,1.2960,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium-240000y,14.50,1.3920,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,pro-starter-1500000y,110.00,1.6896,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium+-600000y,45.00,1.7280,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,8.0,premium-240000y,20.00,1.9200,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,pro-starter-1500000y,82.50,1.4256,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium+-600000y,33.75,1.4580,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium-240000y,14.50,1.5660,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,pro-starter-1500000y,110.00,1.9008,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium+-600000y,45.00,1.9440,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,9.0,premium-240000y,20.00,2.1600,0.24000,1,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,pro-starter-1500000y,82.50,1.5840,0.15840,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium+-600000y,33.75,1.6200,0.16200,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium-240000y,14.50,1.7400,0.17400,0,0,1,0,yearly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,pro-starter-1500000y,110.00,2.1120,0.21120,0,1,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium+-600000y,45.00,2.1600,0.21600,0,0,1,0,monthly
+"Google Gemini Omni",gemini-omni,Magnific,std,,,,10.0,premium-240000y,20.00,2.4000,0.24000,1,0,1,0,monthly
 "Google Gemini Omni",gemini-omni,OpenArt,std,,720p,,5.0,wonder-106000,175.00,0.4127,0.08255,0,0,1,0,yearly
 "Google Gemini Omni",gemini-omni,OpenArt,std,,720p,,5.0,pro-24000,44.00,0.4583,0.09167,0,0,1,0,yearly
 "Google Gemini Omni",gemini-omni,OpenArt,std,,720p,,5.0,plus-12000,27.00,0.5625,0.11250,0,0,1,0,yearly
@@ -2935,72 +2935,72 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "MiniMax H3",hailuo-h3,Lumeta,std,,768p,,15.0,pro-6000,29.00,0.5800,0.03867,0,0,1,0,yearly
 "MiniMax H3",hailuo-h3,Lumeta,std,,768p,,15.0,max-30000,149.00,0.5960,0.03973,0,1,1,0,monthly
 "MiniMax H3",hailuo-h3,Lumeta,std,,768p,,15.0,pro-6000,39.00,0.7800,0.05200,1,0,1,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,pro-starter-1500000y,82.50,0.1320,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium+-600000y,33.75,0.1350,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium-240000y,14.50,0.1450,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,pro-starter-1500000y,110.00,0.1760,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium+-600000y,45.00,0.1800,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium-240000y,20.00,0.2000,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,pro-starter-1500000y,82.50,0.1584,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium+-600000y,33.75,0.1620,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium-240000y,14.50,0.1740,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,pro-starter-1500000y,110.00,0.2112,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium+-600000y,45.00,0.2160,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium-240000y,20.00,0.2400,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,pro-starter-1500000y,82.50,0.1848,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium+-600000y,33.75,0.1890,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium-240000y,14.50,0.2030,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,pro-starter-1500000y,110.00,0.2464,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium+-600000y,45.00,0.2520,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium-240000y,20.00,0.2800,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,pro-starter-1500000y,82.50,0.2112,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium+-600000y,33.75,0.2160,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium-240000y,14.50,0.2320,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,pro-starter-1500000y,110.00,0.2816,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium+-600000y,45.00,0.2880,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium-240000y,20.00,0.3200,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,pro-starter-1500000y,82.50,0.2376,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium+-600000y,33.75,0.2430,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium-240000y,14.50,0.2610,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,pro-starter-1500000y,110.00,0.3168,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium+-600000y,45.00,0.3240,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium-240000y,20.00,0.3600,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,pro-starter-1500000y,82.50,0.2640,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium+-600000y,33.75,0.2700,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium-240000y,14.50,0.2900,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,pro-starter-1500000y,110.00,0.3520,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium+-600000y,45.00,0.3600,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium-240000y,20.00,0.4000,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,pro-starter-1500000y,82.50,0.2904,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium+-600000y,33.75,0.2970,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium-240000y,14.50,0.3190,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,pro-starter-1500000y,110.00,0.3872,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium+-600000y,45.00,0.3960,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium-240000y,20.00,0.4400,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,pro-starter-1500000y,82.50,0.3168,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium+-600000y,33.75,0.3240,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium-240000y,14.50,0.3480,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,pro-starter-1500000y,110.00,0.4224,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium+-600000y,45.00,0.4320,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium-240000y,20.00,0.4800,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,pro-starter-1500000y,82.50,0.3432,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium+-600000y,33.75,0.3510,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium-240000y,14.50,0.3770,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,pro-starter-1500000y,110.00,0.4576,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium+-600000y,45.00,0.4680,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium-240000y,20.00,0.5200,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,pro-starter-1500000y,82.50,0.3696,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium+-600000y,33.75,0.3780,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium-240000y,14.50,0.4060,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,pro-starter-1500000y,110.00,0.4928,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium+-600000y,45.00,0.5040,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium-240000y,20.00,0.5600,0.04000,1,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,pro-starter-1500000y,82.50,0.3960,0.02640,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium+-600000y,33.75,0.4050,0.02700,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium-240000y,14.50,0.4350,0.02900,0,0,0,0,yearly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,pro-starter-1500000y,110.00,0.5280,0.03520,0,1,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium+-600000y,45.00,0.5400,0.03600,0,0,0,0,monthly
-"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium-240000y,20.00,0.6000,0.04000,1,0,0,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,pro-starter-1500000y,82.50,0.1320,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium+-600000y,33.75,0.1350,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium-240000y,14.50,0.1450,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,pro-starter-1500000y,110.00,0.1760,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium+-600000y,45.00,0.1800,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,5.0,premium-240000y,20.00,0.2000,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,pro-starter-1500000y,82.50,0.1584,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium+-600000y,33.75,0.1620,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium-240000y,14.50,0.1740,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,pro-starter-1500000y,110.00,0.2112,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium+-600000y,45.00,0.2160,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,6.0,premium-240000y,20.00,0.2400,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,pro-starter-1500000y,82.50,0.1848,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium+-600000y,33.75,0.1890,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium-240000y,14.50,0.2030,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,pro-starter-1500000y,110.00,0.2464,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium+-600000y,45.00,0.2520,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,7.0,premium-240000y,20.00,0.2800,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,pro-starter-1500000y,82.50,0.2112,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium+-600000y,33.75,0.2160,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium-240000y,14.50,0.2320,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,pro-starter-1500000y,110.00,0.2816,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium+-600000y,45.00,0.2880,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,8.0,premium-240000y,20.00,0.3200,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,pro-starter-1500000y,82.50,0.2376,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium+-600000y,33.75,0.2430,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium-240000y,14.50,0.2610,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,pro-starter-1500000y,110.00,0.3168,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium+-600000y,45.00,0.3240,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,9.0,premium-240000y,20.00,0.3600,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,pro-starter-1500000y,82.50,0.2640,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium+-600000y,33.75,0.2700,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium-240000y,14.50,0.2900,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,pro-starter-1500000y,110.00,0.3520,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium+-600000y,45.00,0.3600,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,10.0,premium-240000y,20.00,0.4000,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,pro-starter-1500000y,82.50,0.2904,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium+-600000y,33.75,0.2970,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium-240000y,14.50,0.3190,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,pro-starter-1500000y,110.00,0.3872,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium+-600000y,45.00,0.3960,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,11.0,premium-240000y,20.00,0.4400,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,pro-starter-1500000y,82.50,0.3168,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium+-600000y,33.75,0.3240,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium-240000y,14.50,0.3480,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,pro-starter-1500000y,110.00,0.4224,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium+-600000y,45.00,0.4320,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,12.0,premium-240000y,20.00,0.4800,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,pro-starter-1500000y,82.50,0.3432,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium+-600000y,33.75,0.3510,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium-240000y,14.50,0.3770,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,pro-starter-1500000y,110.00,0.4576,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium+-600000y,45.00,0.4680,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,13.0,premium-240000y,20.00,0.5200,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,pro-starter-1500000y,82.50,0.3696,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium+-600000y,33.75,0.3780,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium-240000y,14.50,0.4060,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,pro-starter-1500000y,110.00,0.4928,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium+-600000y,45.00,0.5040,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,14.0,premium-240000y,20.00,0.5600,0.04000,1,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,pro-starter-1500000y,82.50,0.3960,0.02640,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium+-600000y,33.75,0.4050,0.02700,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium-240000y,14.50,0.4350,0.02900,0,0,1,0,yearly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,pro-starter-1500000y,110.00,0.5280,0.03520,0,1,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium+-600000y,45.00,0.5400,0.03600,0,0,1,0,monthly
+"MiniMax H3",hailuo-h3,Magnific,"max turbo",,768p,,15.0,premium-240000y,20.00,0.6000,0.04000,1,0,1,0,monthly
 "MiniMax H3",hailuo-h3,"MiniMax API",max,,480p,,5.0,,,0.2500,0.05000,1,1,1,0,
 "MiniMax H3",hailuo-h3,"MiniMax API",max,,480p,,6.0,,,0.3000,0.05000,1,1,1,0,
 "MiniMax H3",hailuo-h3,"MiniMax API",max,,480p,,7.0,,,0.3500,0.05000,1,1,1,0,
@@ -4729,84 +4729,84 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Kling 3.0",kling-3-0,"Kling API",std,,720p,1,13.0,,,1.6380,0.12600,1,1,1,0,
 "Kling 3.0",kling-3-0,"Kling API",std,,720p,1,14.0,,,1.7640,0.12600,1,1,1,0,
 "Kling 3.0",kling-3-0,"Kling API",std,,720p,1,15.0,,,1.8900,0.12600,1,1,1,0,
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,pro-starter-1500000y,82.50,0.1782,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium+-600000y,33.75,0.1823,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium-240000y,14.50,0.1957,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,pro-starter-1500000y,110.00,0.2376,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium+-600000y,45.00,0.2430,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium-240000y,20.00,0.2700,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,pro-starter-1500000y,82.50,0.2376,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium+-600000y,33.75,0.2430,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium-240000y,14.50,0.2610,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,pro-starter-1500000y,110.00,0.3168,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium+-600000y,45.00,0.3240,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium-240000y,20.00,0.3600,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,pro-starter-1500000y,82.50,0.2970,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium+-600000y,33.75,0.3038,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium-240000y,14.50,0.3263,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,pro-starter-1500000y,110.00,0.3960,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium+-600000y,45.00,0.4050,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium-240000y,20.00,0.4500,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,pro-starter-1500000y,82.50,0.3564,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium+-600000y,33.75,0.3645,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium-240000y,14.50,0.3915,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,pro-starter-1500000y,110.00,0.4752,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium+-600000y,45.00,0.4860,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium-240000y,20.00,0.5400,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,pro-starter-1500000y,82.50,0.4158,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium+-600000y,33.75,0.4253,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium-240000y,14.50,0.4568,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,pro-starter-1500000y,110.00,0.5544,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium+-600000y,45.00,0.5670,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium-240000y,20.00,0.6300,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,pro-starter-1500000y,82.50,0.4752,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium+-600000y,33.75,0.4860,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium-240000y,14.50,0.5220,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,pro-starter-1500000y,110.00,0.6336,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium+-600000y,45.00,0.6480,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium-240000y,20.00,0.7200,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,pro-starter-1500000y,82.50,0.5346,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium+-600000y,33.75,0.5468,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium-240000y,14.50,0.5872,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,pro-starter-1500000y,110.00,0.7128,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium+-600000y,45.00,0.7290,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium-240000y,20.00,0.8100,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,pro-starter-1500000y,82.50,0.5940,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium+-600000y,33.75,0.6075,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium-240000y,14.50,0.6525,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,pro-starter-1500000y,110.00,0.7920,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium+-600000y,45.00,0.8100,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium-240000y,20.00,0.9000,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,pro-starter-1500000y,82.50,0.6534,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium+-600000y,33.75,0.6683,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium-240000y,14.50,0.7178,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,pro-starter-1500000y,110.00,0.8712,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium+-600000y,45.00,0.8910,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium-240000y,20.00,0.9900,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,pro-starter-1500000y,82.50,0.7128,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium+-600000y,33.75,0.7290,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium-240000y,14.50,0.7830,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,pro-starter-1500000y,110.00,0.9504,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium+-600000y,45.00,0.9720,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium-240000y,20.00,1.0800,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,pro-starter-1500000y,82.50,0.7722,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium+-600000y,33.75,0.7898,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium-240000y,14.50,0.8483,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,pro-starter-1500000y,110.00,1.0296,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium+-600000y,45.00,1.0530,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium-240000y,20.00,1.1700,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,pro-starter-1500000y,82.50,0.8316,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium+-600000y,33.75,0.8505,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium-240000y,14.50,0.9135,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,pro-starter-1500000y,110.00,1.1088,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium+-600000y,45.00,1.1340,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium-240000y,20.00,1.2600,0.09000,1,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,pro-starter-1500000y,82.50,0.8910,0.05940,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium+-600000y,33.75,0.9113,0.06075,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium-240000y,14.50,0.9787,0.06525,0,0,0,0,yearly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,pro-starter-1500000y,110.00,1.1880,0.07920,0,1,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium+-600000y,45.00,1.2150,0.08100,0,0,0,0,monthly
-"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium-240000y,20.00,1.3500,0.09000,1,0,0,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,pro-starter-1500000y,82.50,0.1782,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium+-600000y,33.75,0.1823,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium-240000y,14.50,0.1957,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,pro-starter-1500000y,110.00,0.2376,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium+-600000y,45.00,0.2430,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,3.0,premium-240000y,20.00,0.2700,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,pro-starter-1500000y,82.50,0.2376,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium+-600000y,33.75,0.2430,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium-240000y,14.50,0.2610,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,pro-starter-1500000y,110.00,0.3168,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium+-600000y,45.00,0.3240,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,4.0,premium-240000y,20.00,0.3600,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,pro-starter-1500000y,82.50,0.2970,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium+-600000y,33.75,0.3038,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium-240000y,14.50,0.3263,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,pro-starter-1500000y,110.00,0.3960,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium+-600000y,45.00,0.4050,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,5.0,premium-240000y,20.00,0.4500,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,pro-starter-1500000y,82.50,0.3564,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium+-600000y,33.75,0.3645,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium-240000y,14.50,0.3915,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,pro-starter-1500000y,110.00,0.4752,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium+-600000y,45.00,0.4860,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,6.0,premium-240000y,20.00,0.5400,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,pro-starter-1500000y,82.50,0.4158,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium+-600000y,33.75,0.4253,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium-240000y,14.50,0.4568,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,pro-starter-1500000y,110.00,0.5544,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium+-600000y,45.00,0.5670,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,7.0,premium-240000y,20.00,0.6300,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,pro-starter-1500000y,82.50,0.4752,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium+-600000y,33.75,0.4860,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium-240000y,14.50,0.5220,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,pro-starter-1500000y,110.00,0.6336,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium+-600000y,45.00,0.6480,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,8.0,premium-240000y,20.00,0.7200,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,pro-starter-1500000y,82.50,0.5346,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium+-600000y,33.75,0.5468,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium-240000y,14.50,0.5872,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,pro-starter-1500000y,110.00,0.7128,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium+-600000y,45.00,0.7290,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,9.0,premium-240000y,20.00,0.8100,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,pro-starter-1500000y,82.50,0.5940,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium+-600000y,33.75,0.6075,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium-240000y,14.50,0.6525,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,pro-starter-1500000y,110.00,0.7920,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium+-600000y,45.00,0.8100,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,10.0,premium-240000y,20.00,0.9000,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,pro-starter-1500000y,82.50,0.6534,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium+-600000y,33.75,0.6683,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium-240000y,14.50,0.7178,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,pro-starter-1500000y,110.00,0.8712,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium+-600000y,45.00,0.8910,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,11.0,premium-240000y,20.00,0.9900,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,pro-starter-1500000y,82.50,0.7128,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium+-600000y,33.75,0.7290,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium-240000y,14.50,0.7830,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,pro-starter-1500000y,110.00,0.9504,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium+-600000y,45.00,0.9720,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,12.0,premium-240000y,20.00,1.0800,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,pro-starter-1500000y,82.50,0.7722,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium+-600000y,33.75,0.7898,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium-240000y,14.50,0.8483,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,pro-starter-1500000y,110.00,1.0296,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium+-600000y,45.00,1.0530,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,13.0,premium-240000y,20.00,1.1700,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,pro-starter-1500000y,82.50,0.8316,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium+-600000y,33.75,0.8505,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium-240000y,14.50,0.9135,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,pro-starter-1500000y,110.00,1.1088,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium+-600000y,45.00,1.1340,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium-240000y,20.00,1.2600,0.09000,1,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,pro-starter-1500000y,82.50,0.8910,0.05940,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium+-600000y,33.75,0.9113,0.06075,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium-240000y,14.50,0.9787,0.06525,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,pro-starter-1500000y,110.00,1.1880,0.07920,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium+-600000y,45.00,1.2150,0.08100,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium-240000y,20.00,1.3500,0.09000,1,0,1,0,monthly
 "Kling 3.0",kling-3-0,Replicate,4k,,4k,0,3.0,,,1.2600,0.42000,1,1,1,0,
 "Kling 3.0",kling-3-0,Replicate,4k,,4k,0,4.0,,,1.6800,0.42000,1,1,1,0,
 "Kling 3.0",kling-3-0,Replicate,4k,,4k,0,5.0,,,2.1000,0.42000,1,1,1,0,
@@ -8104,150 +8104,150 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.0",seedance-2-0,Lumeta,std,,720p,,15.0,pro-6000,29.00,2.1388,0.14258,0,0,1,0,yearly
 "Seedance 2.0",seedance-2-0,Lumeta,std,,720p,,15.0,max-30000,149.00,2.1978,0.14652,0,1,1,0,monthly
 "Seedance 2.0",seedance-2-0,Lumeta,std,,720p,,15.0,pro-6000,39.00,2.8762,0.19175,1,0,1,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,pro-starter-1500000y,82.50,0.6204,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium+-600000y,33.75,0.6345,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium-240000y,14.50,0.6815,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,pro-starter-1500000y,110.00,0.8272,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium+-600000y,45.00,0.8460,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium-240000y,20.00,0.9400,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,pro-starter-1500000y,82.50,0.7755,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium+-600000y,33.75,0.7931,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium-240000y,14.50,0.8519,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,pro-starter-1500000y,110.00,1.0340,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium+-600000y,45.00,1.0575,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium-240000y,20.00,1.1750,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,pro-starter-1500000y,82.50,0.9306,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium+-600000y,33.75,0.9518,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium-240000y,14.50,1.0222,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,pro-starter-1500000y,110.00,1.2408,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium+-600000y,45.00,1.2690,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium-240000y,20.00,1.4100,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,pro-starter-1500000y,82.50,1.0857,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium+-600000y,33.75,1.1104,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium-240000y,14.50,1.1926,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,pro-starter-1500000y,110.00,1.4476,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium+-600000y,45.00,1.4805,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium-240000y,20.00,1.6450,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,pro-starter-1500000y,82.50,1.2408,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium+-600000y,33.75,1.2690,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium-240000y,14.50,1.3630,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,pro-starter-1500000y,110.00,1.6544,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium+-600000y,45.00,1.6920,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium-240000y,20.00,1.8800,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,pro-starter-1500000y,82.50,1.3959,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium+-600000y,33.75,1.4276,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium-240000y,14.50,1.5334,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,pro-starter-1500000y,110.00,1.8612,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium+-600000y,45.00,1.9035,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium-240000y,20.00,2.1150,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,pro-starter-1500000y,82.50,1.5510,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium+-600000y,33.75,1.5863,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium-240000y,14.50,1.7037,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,pro-starter-1500000y,110.00,2.0680,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium+-600000y,45.00,2.1150,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium-240000y,20.00,2.3500,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,pro-starter-1500000y,82.50,1.7061,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium+-600000y,33.75,1.7449,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium-240000y,14.50,1.8741,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,pro-starter-1500000y,110.00,2.2748,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium+-600000y,45.00,2.3265,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium-240000y,20.00,2.5850,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,pro-starter-1500000y,82.50,1.8612,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium+-600000y,33.75,1.9035,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium-240000y,14.50,2.0445,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,pro-starter-1500000y,110.00,2.4816,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium+-600000y,45.00,2.5380,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium-240000y,20.00,2.8200,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,pro-starter-1500000y,82.50,2.0163,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium+-600000y,33.75,2.0621,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium-240000y,14.50,2.2149,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,pro-starter-1500000y,110.00,2.6884,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium+-600000y,45.00,2.7495,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium-240000y,20.00,3.0550,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,pro-starter-1500000y,82.50,2.1714,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium+-600000y,33.75,2.2208,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium-240000y,14.50,2.3852,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,pro-starter-1500000y,110.00,2.8952,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium+-600000y,45.00,2.9610,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium-240000y,20.00,3.2900,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,pro-starter-1500000y,82.50,2.3265,0.15510,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium+-600000y,33.75,2.3794,0.15863,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium-240000y,14.50,2.5556,0.17038,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,pro-starter-1500000y,110.00,3.1020,0.20680,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium+-600000y,45.00,3.1725,0.21150,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium-240000y,20.00,3.5250,0.23500,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,pro-starter-1500000y,82.50,0.7392,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium+-600000y,33.75,0.7560,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium-240000y,14.50,0.8120,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,pro-starter-1500000y,110.00,0.9856,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium+-600000y,45.00,1.0080,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium-240000y,20.00,1.1200,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,pro-starter-1500000y,82.50,0.9240,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium+-600000y,33.75,0.9450,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium-240000y,14.50,1.0150,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,pro-starter-1500000y,110.00,1.2320,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium+-600000y,45.00,1.2600,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium-240000y,20.00,1.4000,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,pro-starter-1500000y,82.50,1.1088,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium+-600000y,33.75,1.1340,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium-240000y,14.50,1.2180,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,pro-starter-1500000y,110.00,1.4784,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium+-600000y,45.00,1.5120,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium-240000y,20.00,1.6800,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,pro-starter-1500000y,82.50,1.2936,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium+-600000y,33.75,1.3230,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium-240000y,14.50,1.4210,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,pro-starter-1500000y,110.00,1.7248,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium+-600000y,45.00,1.7640,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium-240000y,20.00,1.9600,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,pro-starter-1500000y,82.50,1.4784,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium+-600000y,33.75,1.5120,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium-240000y,14.50,1.6240,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,pro-starter-1500000y,110.00,1.9712,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium+-600000y,45.00,2.0160,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium-240000y,20.00,2.2400,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,pro-starter-1500000y,82.50,1.6632,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium+-600000y,33.75,1.7010,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium-240000y,14.50,1.8270,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,pro-starter-1500000y,110.00,2.2176,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium+-600000y,45.00,2.2680,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium-240000y,20.00,2.5200,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,pro-starter-1500000y,82.50,1.8480,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium+-600000y,33.75,1.8900,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium-240000y,14.50,2.0300,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,pro-starter-1500000y,110.00,2.4640,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium+-600000y,45.00,2.5200,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium-240000y,20.00,2.8000,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,pro-starter-1500000y,82.50,2.0328,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium+-600000y,33.75,2.0790,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium-240000y,14.50,2.2330,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,pro-starter-1500000y,110.00,2.7104,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium+-600000y,45.00,2.7720,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium-240000y,20.00,3.0800,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,pro-starter-1500000y,82.50,2.2176,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium+-600000y,33.75,2.2680,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium-240000y,14.50,2.4360,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,pro-starter-1500000y,110.00,2.9568,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium+-600000y,45.00,3.0240,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium-240000y,20.00,3.3600,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,pro-starter-1500000y,82.50,2.4024,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium+-600000y,33.75,2.4570,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium-240000y,14.50,2.6390,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,pro-starter-1500000y,110.00,3.2032,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium+-600000y,45.00,3.2760,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium-240000y,20.00,3.6400,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,pro-starter-1500000y,82.50,2.5872,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium+-600000y,33.75,2.6460,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium-240000y,14.50,2.8420,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,pro-starter-1500000y,110.00,3.4496,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium+-600000y,45.00,3.5280,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium-240000y,20.00,3.9200,0.28000,1,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,pro-starter-1500000y,82.50,2.7720,0.18480,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium+-600000y,33.75,2.8350,0.18900,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium-240000y,14.50,3.0450,0.20300,0,0,0,0,yearly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,pro-starter-1500000y,110.00,3.6960,0.24640,0,1,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium+-600000y,45.00,3.7800,0.25200,0,0,0,0,monthly
-"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium-240000y,20.00,4.2000,0.28000,1,0,0,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,pro-starter-1500000y,82.50,0.6204,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium+-600000y,33.75,0.6345,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium-240000y,14.50,0.6815,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,pro-starter-1500000y,110.00,0.8272,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium+-600000y,45.00,0.8460,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,4.0,premium-240000y,20.00,0.9400,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,pro-starter-1500000y,82.50,0.7755,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium+-600000y,33.75,0.7931,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium-240000y,14.50,0.8519,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,pro-starter-1500000y,110.00,1.0340,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium+-600000y,45.00,1.0575,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,5.0,premium-240000y,20.00,1.1750,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,pro-starter-1500000y,82.50,0.9306,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium+-600000y,33.75,0.9518,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium-240000y,14.50,1.0222,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,pro-starter-1500000y,110.00,1.2408,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium+-600000y,45.00,1.2690,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,6.0,premium-240000y,20.00,1.4100,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,pro-starter-1500000y,82.50,1.0857,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium+-600000y,33.75,1.1104,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium-240000y,14.50,1.1926,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,pro-starter-1500000y,110.00,1.4476,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium+-600000y,45.00,1.4805,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,7.0,premium-240000y,20.00,1.6450,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,pro-starter-1500000y,82.50,1.2408,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium+-600000y,33.75,1.2690,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium-240000y,14.50,1.3630,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,pro-starter-1500000y,110.00,1.6544,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium+-600000y,45.00,1.6920,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,8.0,premium-240000y,20.00,1.8800,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,pro-starter-1500000y,82.50,1.3959,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium+-600000y,33.75,1.4276,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium-240000y,14.50,1.5334,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,pro-starter-1500000y,110.00,1.8612,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium+-600000y,45.00,1.9035,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,9.0,premium-240000y,20.00,2.1150,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,pro-starter-1500000y,82.50,1.5510,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium+-600000y,33.75,1.5863,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium-240000y,14.50,1.7037,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,pro-starter-1500000y,110.00,2.0680,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium+-600000y,45.00,2.1150,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,10.0,premium-240000y,20.00,2.3500,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,pro-starter-1500000y,82.50,1.7061,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium+-600000y,33.75,1.7449,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium-240000y,14.50,1.8741,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,pro-starter-1500000y,110.00,2.2748,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium+-600000y,45.00,2.3265,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,11.0,premium-240000y,20.00,2.5850,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,pro-starter-1500000y,82.50,1.8612,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium+-600000y,33.75,1.9035,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium-240000y,14.50,2.0445,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,pro-starter-1500000y,110.00,2.4816,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium+-600000y,45.00,2.5380,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,12.0,premium-240000y,20.00,2.8200,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,pro-starter-1500000y,82.50,2.0163,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium+-600000y,33.75,2.0621,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium-240000y,14.50,2.2149,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,pro-starter-1500000y,110.00,2.6884,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium+-600000y,45.00,2.7495,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,13.0,premium-240000y,20.00,3.0550,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,pro-starter-1500000y,82.50,2.1714,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium+-600000y,33.75,2.2208,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium-240000y,14.50,2.3852,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,pro-starter-1500000y,110.00,2.8952,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium+-600000y,45.00,2.9610,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,14.0,premium-240000y,20.00,3.2900,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,pro-starter-1500000y,82.50,2.3265,0.15510,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium+-600000y,33.75,2.3794,0.15863,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium-240000y,14.50,2.5556,0.17038,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,pro-starter-1500000y,110.00,3.1020,0.20680,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium+-600000y,45.00,3.1725,0.21150,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,fast,,720p,,15.0,premium-240000y,20.00,3.5250,0.23500,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,pro-starter-1500000y,82.50,0.7392,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium+-600000y,33.75,0.7560,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium-240000y,14.50,0.8120,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,pro-starter-1500000y,110.00,0.9856,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium+-600000y,45.00,1.0080,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,4.0,premium-240000y,20.00,1.1200,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,pro-starter-1500000y,82.50,0.9240,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium+-600000y,33.75,0.9450,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium-240000y,14.50,1.0150,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,pro-starter-1500000y,110.00,1.2320,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium+-600000y,45.00,1.2600,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,5.0,premium-240000y,20.00,1.4000,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,pro-starter-1500000y,82.50,1.1088,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium+-600000y,33.75,1.1340,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium-240000y,14.50,1.2180,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,pro-starter-1500000y,110.00,1.4784,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium+-600000y,45.00,1.5120,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,6.0,premium-240000y,20.00,1.6800,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,pro-starter-1500000y,82.50,1.2936,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium+-600000y,33.75,1.3230,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium-240000y,14.50,1.4210,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,pro-starter-1500000y,110.00,1.7248,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium+-600000y,45.00,1.7640,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,7.0,premium-240000y,20.00,1.9600,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,pro-starter-1500000y,82.50,1.4784,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium+-600000y,33.75,1.5120,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium-240000y,14.50,1.6240,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,pro-starter-1500000y,110.00,1.9712,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium+-600000y,45.00,2.0160,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,8.0,premium-240000y,20.00,2.2400,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,pro-starter-1500000y,82.50,1.6632,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium+-600000y,33.75,1.7010,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium-240000y,14.50,1.8270,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,pro-starter-1500000y,110.00,2.2176,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium+-600000y,45.00,2.2680,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,9.0,premium-240000y,20.00,2.5200,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,pro-starter-1500000y,82.50,1.8480,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium+-600000y,33.75,1.8900,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium-240000y,14.50,2.0300,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,pro-starter-1500000y,110.00,2.4640,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium+-600000y,45.00,2.5200,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,10.0,premium-240000y,20.00,2.8000,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,pro-starter-1500000y,82.50,2.0328,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium+-600000y,33.75,2.0790,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium-240000y,14.50,2.2330,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,pro-starter-1500000y,110.00,2.7104,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium+-600000y,45.00,2.7720,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,11.0,premium-240000y,20.00,3.0800,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,pro-starter-1500000y,82.50,2.2176,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium+-600000y,33.75,2.2680,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium-240000y,14.50,2.4360,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,pro-starter-1500000y,110.00,2.9568,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium+-600000y,45.00,3.0240,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,12.0,premium-240000y,20.00,3.3600,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,pro-starter-1500000y,82.50,2.4024,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium+-600000y,33.75,2.4570,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium-240000y,14.50,2.6390,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,pro-starter-1500000y,110.00,3.2032,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium+-600000y,45.00,3.2760,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,13.0,premium-240000y,20.00,3.6400,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,pro-starter-1500000y,82.50,2.5872,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium+-600000y,33.75,2.6460,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium-240000y,14.50,2.8420,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,pro-starter-1500000y,110.00,3.4496,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium+-600000y,45.00,3.5280,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,14.0,premium-240000y,20.00,3.9200,0.28000,1,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,pro-starter-1500000y,82.50,2.7720,0.18480,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium+-600000y,33.75,2.8350,0.18900,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium-240000y,14.50,3.0450,0.20300,0,0,1,0,yearly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,pro-starter-1500000y,110.00,3.6960,0.24640,0,1,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium+-600000y,45.00,3.7800,0.25200,0,0,1,0,monthly
+"Seedance 2.0",seedance-2-0,Magnific,std,,720p,,15.0,premium-240000y,20.00,4.2000,0.28000,1,0,1,0,monthly
 "Seedance 2.0",seedance-2-0,OpenArt,mini,,720p,,5.0,wonder-106000,175.00,0.3302,0.06604,0,0,1,0,yearly
 "Seedance 2.0",seedance-2-0,OpenArt,mini,,720p,,5.0,pro-24000,44.00,0.3667,0.07333,0,0,1,0,yearly
 "Seedance 2.0",seedance-2-0,OpenArt,mini,,720p,,5.0,plus-12000,27.00,0.4500,0.09000,0,0,1,0,yearly
@@ -10474,258 +10474,258 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.5",seedance-2-5,Lumeta,std,,720p,,30.0,pro-6000,29.00,6.3800,0.21267,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,Lumeta,std,,720p,,30.0,max-30000,149.00,6.5560,0.21853,0,1,1,0,monthly
 "Seedance 2.5",seedance-2-5,Lumeta,std,,720p,,30.0,pro-6000,39.00,8.5800,0.28600,1,0,1,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,pro-starter-1500000y,82.50,0.5280,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium+-600000y,33.75,0.5400,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium-240000y,14.50,0.5800,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,pro-starter-1500000y,110.00,0.7040,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium+-600000y,45.00,0.7200,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium-240000y,20.00,0.8000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,pro-starter-1500000y,82.50,0.6600,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium+-600000y,33.75,0.6750,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium-240000y,14.50,0.7250,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,pro-starter-1500000y,110.00,0.8800,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium+-600000y,45.00,0.9000,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium-240000y,20.00,1.0000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,pro-starter-1500000y,82.50,0.7920,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium+-600000y,33.75,0.8100,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium-240000y,14.50,0.8700,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,pro-starter-1500000y,110.00,1.0560,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium+-600000y,45.00,1.0800,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium-240000y,20.00,1.2000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,pro-starter-1500000y,82.50,0.9240,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium+-600000y,33.75,0.9450,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium-240000y,14.50,1.0150,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,pro-starter-1500000y,110.00,1.2320,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium+-600000y,45.00,1.2600,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium-240000y,20.00,1.4000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,pro-starter-1500000y,82.50,1.0560,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium+-600000y,33.75,1.0800,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium-240000y,14.50,1.1600,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,pro-starter-1500000y,110.00,1.4080,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium+-600000y,45.00,1.4400,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium-240000y,20.00,1.6000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,pro-starter-1500000y,82.50,1.1880,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium+-600000y,33.75,1.2150,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium-240000y,14.50,1.3050,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,pro-starter-1500000y,110.00,1.5840,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium+-600000y,45.00,1.6200,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium-240000y,20.00,1.8000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,pro-starter-1500000y,82.50,1.3200,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium+-600000y,33.75,1.3500,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium-240000y,14.50,1.4500,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,pro-starter-1500000y,110.00,1.7600,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium+-600000y,45.00,1.8000,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium-240000y,20.00,2.0000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,pro-starter-1500000y,82.50,1.4520,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium+-600000y,33.75,1.4850,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium-240000y,14.50,1.5950,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,pro-starter-1500000y,110.00,1.9360,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium+-600000y,45.00,1.9800,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium-240000y,20.00,2.2000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,pro-starter-1500000y,82.50,1.5840,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium+-600000y,33.75,1.6200,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium-240000y,14.50,1.7400,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,pro-starter-1500000y,110.00,2.1120,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium+-600000y,45.00,2.1600,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium-240000y,20.00,2.4000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,pro-starter-1500000y,82.50,1.7160,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium+-600000y,33.75,1.7550,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium-240000y,14.50,1.8850,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,pro-starter-1500000y,110.00,2.2880,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium+-600000y,45.00,2.3400,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium-240000y,20.00,2.6000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,pro-starter-1500000y,82.50,1.8480,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium+-600000y,33.75,1.8900,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium-240000y,14.50,2.0300,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,pro-starter-1500000y,110.00,2.4640,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium+-600000y,45.00,2.5200,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium-240000y,20.00,2.8000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,pro-starter-1500000y,82.50,1.9800,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium+-600000y,33.75,2.0250,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium-240000y,14.50,2.1750,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,pro-starter-1500000y,110.00,2.6400,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium+-600000y,45.00,2.7000,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium-240000y,20.00,3.0000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,pro-starter-1500000y,82.50,2.6400,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium+-600000y,33.75,2.7000,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium-240000y,14.50,2.9000,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,pro-starter-1500000y,110.00,3.5200,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium+-600000y,45.00,3.6000,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium-240000y,20.00,4.0000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,pro-starter-1500000y,82.50,3.9600,0.13200,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium+-600000y,33.75,4.0500,0.13500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium-240000y,14.50,4.3500,0.14500,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,pro-starter-1500000y,110.00,5.2800,0.17600,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium+-600000y,45.00,5.4000,0.18000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium-240000y,20.00,6.0000,0.20000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,pro-starter-1500000y,82.50,2.9040,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium+-600000y,33.75,2.9700,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium-240000y,14.50,3.1900,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,pro-starter-1500000y,110.00,3.8720,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium+-600000y,45.00,3.9600,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium-240000y,20.00,4.4000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,pro-starter-1500000y,82.50,3.6300,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium+-600000y,33.75,3.7125,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium-240000y,14.50,3.9875,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,pro-starter-1500000y,110.00,4.8400,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium+-600000y,45.00,4.9500,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium-240000y,20.00,5.5000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,pro-starter-1500000y,82.50,4.3560,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium+-600000y,33.75,4.4550,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium-240000y,14.50,4.7850,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,pro-starter-1500000y,110.00,5.8080,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium+-600000y,45.00,5.9400,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium-240000y,20.00,6.6000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,pro-starter-1500000y,82.50,5.0820,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium+-600000y,33.75,5.1975,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium-240000y,14.50,5.5825,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,pro-starter-1500000y,110.00,6.7760,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium+-600000y,45.00,6.9300,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium-240000y,20.00,7.7000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,pro-starter-1500000y,82.50,5.8080,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium+-600000y,33.75,5.9400,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium-240000y,14.50,6.3800,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,pro-starter-1500000y,110.00,7.7440,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium+-600000y,45.00,7.9200,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium-240000y,20.00,8.8000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,pro-starter-1500000y,82.50,6.5340,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium+-600000y,33.75,6.6825,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium-240000y,14.50,7.1775,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,pro-starter-1500000y,110.00,8.7120,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium+-600000y,45.00,8.9100,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium-240000y,20.00,9.9000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,pro-starter-1500000y,82.50,7.2600,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium+-600000y,33.75,7.4250,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium-240000y,14.50,7.9750,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,pro-starter-1500000y,110.00,9.6800,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium+-600000y,45.00,9.9000,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium-240000y,20.00,11.0000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,pro-starter-1500000y,82.50,7.9860,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium+-600000y,33.75,8.1675,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium-240000y,14.50,8.7725,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,pro-starter-1500000y,110.00,10.6480,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium+-600000y,45.00,10.8900,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium-240000y,20.00,12.1000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,pro-starter-1500000y,82.50,8.7120,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium+-600000y,33.75,8.9100,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium-240000y,14.50,9.5700,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,pro-starter-1500000y,110.00,11.6160,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium+-600000y,45.00,11.8800,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium-240000y,20.00,13.2000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,pro-starter-1500000y,82.50,9.4380,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium+-600000y,33.75,9.6525,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium-240000y,14.50,10.3675,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,pro-starter-1500000y,110.00,12.5840,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium+-600000y,45.00,12.8700,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium-240000y,20.00,14.3000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,pro-starter-1500000y,82.50,10.1640,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium+-600000y,33.75,10.3950,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium-240000y,14.50,11.1650,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,pro-starter-1500000y,110.00,13.5520,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium+-600000y,45.00,13.8600,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium-240000y,20.00,15.4000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,pro-starter-1500000y,82.50,10.8900,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium+-600000y,33.75,11.1375,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium-240000y,14.50,11.9625,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,pro-starter-1500000y,110.00,14.5200,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium+-600000y,45.00,14.8500,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium-240000y,20.00,16.5000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,pro-starter-1500000y,82.50,14.5200,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium+-600000y,33.75,14.8500,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium-240000y,14.50,15.9500,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,pro-starter-1500000y,110.00,19.3600,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium+-600000y,45.00,19.8000,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium-240000y,20.00,22.0000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,pro-starter-1500000y,82.50,21.7800,0.72600,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium+-600000y,33.75,22.2750,0.74250,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium-240000y,14.50,23.9250,0.79750,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,pro-starter-1500000y,110.00,29.0400,0.96800,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium+-600000y,45.00,29.7000,0.99000,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium-240000y,20.00,33.0000,1.10000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,pro-starter-1500000y,82.50,1.1616,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium+-600000y,33.75,1.1880,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium-240000y,14.50,1.2760,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,pro-starter-1500000y,110.00,1.5488,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium+-600000y,45.00,1.5840,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium-240000y,20.00,1.7600,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,pro-starter-1500000y,82.50,1.4520,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium+-600000y,33.75,1.4850,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium-240000y,14.50,1.5950,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,pro-starter-1500000y,110.00,1.9360,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium+-600000y,45.00,1.9800,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium-240000y,20.00,2.2000,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,pro-starter-1500000y,82.50,1.7424,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium+-600000y,33.75,1.7820,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium-240000y,14.50,1.9140,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,pro-starter-1500000y,110.00,2.3232,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium+-600000y,45.00,2.3760,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium-240000y,20.00,2.6400,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,pro-starter-1500000y,82.50,2.0328,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium+-600000y,33.75,2.0790,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium-240000y,14.50,2.2330,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,pro-starter-1500000y,110.00,2.7104,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium+-600000y,45.00,2.7720,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium-240000y,20.00,3.0800,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,pro-starter-1500000y,82.50,2.3232,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium+-600000y,33.75,2.3760,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium-240000y,14.50,2.5520,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,pro-starter-1500000y,110.00,3.0976,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium+-600000y,45.00,3.1680,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium-240000y,20.00,3.5200,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,pro-starter-1500000y,82.50,2.6136,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium+-600000y,33.75,2.6730,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium-240000y,14.50,2.8710,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,pro-starter-1500000y,110.00,3.4848,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium+-600000y,45.00,3.5640,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium-240000y,20.00,3.9600,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,pro-starter-1500000y,82.50,2.9040,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium+-600000y,33.75,2.9700,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium-240000y,14.50,3.1900,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,pro-starter-1500000y,110.00,3.8720,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium+-600000y,45.00,3.9600,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium-240000y,20.00,4.4000,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,pro-starter-1500000y,82.50,3.1944,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium+-600000y,33.75,3.2670,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium-240000y,14.50,3.5090,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,pro-starter-1500000y,110.00,4.2592,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium+-600000y,45.00,4.3560,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium-240000y,20.00,4.8400,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,pro-starter-1500000y,82.50,3.4848,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium+-600000y,33.75,3.5640,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium-240000y,14.50,3.8280,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,pro-starter-1500000y,110.00,4.6464,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium+-600000y,45.00,4.7520,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium-240000y,20.00,5.2800,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,pro-starter-1500000y,82.50,3.7752,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium+-600000y,33.75,3.8610,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium-240000y,14.50,4.1470,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,pro-starter-1500000y,110.00,5.0336,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium+-600000y,45.00,5.1480,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium-240000y,20.00,5.7200,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,pro-starter-1500000y,82.50,4.0656,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium+-600000y,33.75,4.1580,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium-240000y,14.50,4.4660,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,pro-starter-1500000y,110.00,5.4208,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium+-600000y,45.00,5.5440,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium-240000y,20.00,6.1600,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,pro-starter-1500000y,82.50,4.3560,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium+-600000y,33.75,4.4550,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium-240000y,14.50,4.7850,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,pro-starter-1500000y,110.00,5.8080,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium+-600000y,45.00,5.9400,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium-240000y,20.00,6.6000,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,pro-starter-1500000y,82.50,5.8080,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium+-600000y,33.75,5.9400,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium-240000y,14.50,6.3800,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,pro-starter-1500000y,110.00,7.7440,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium+-600000y,45.00,7.9200,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium-240000y,20.00,8.8000,0.44000,1,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,pro-starter-1500000y,82.50,8.7120,0.29040,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium+-600000y,33.75,8.9100,0.29700,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium-240000y,14.50,9.5700,0.31900,0,0,0,0,yearly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,pro-starter-1500000y,110.00,11.6160,0.38720,0,1,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium+-600000y,45.00,11.8800,0.39600,0,0,0,0,monthly
-"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium-240000y,20.00,13.2000,0.44000,1,0,0,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,pro-starter-1500000y,82.50,0.5280,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium+-600000y,33.75,0.5400,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium-240000y,14.50,0.5800,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,pro-starter-1500000y,110.00,0.7040,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium+-600000y,45.00,0.7200,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,4.0,premium-240000y,20.00,0.8000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,pro-starter-1500000y,82.50,0.6600,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium+-600000y,33.75,0.6750,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium-240000y,14.50,0.7250,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,pro-starter-1500000y,110.00,0.8800,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium+-600000y,45.00,0.9000,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,5.0,premium-240000y,20.00,1.0000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,pro-starter-1500000y,82.50,0.7920,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium+-600000y,33.75,0.8100,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium-240000y,14.50,0.8700,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,pro-starter-1500000y,110.00,1.0560,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium+-600000y,45.00,1.0800,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,6.0,premium-240000y,20.00,1.2000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,pro-starter-1500000y,82.50,0.9240,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium+-600000y,33.75,0.9450,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium-240000y,14.50,1.0150,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,pro-starter-1500000y,110.00,1.2320,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium+-600000y,45.00,1.2600,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,7.0,premium-240000y,20.00,1.4000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,pro-starter-1500000y,82.50,1.0560,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium+-600000y,33.75,1.0800,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium-240000y,14.50,1.1600,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,pro-starter-1500000y,110.00,1.4080,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium+-600000y,45.00,1.4400,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,8.0,premium-240000y,20.00,1.6000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,pro-starter-1500000y,82.50,1.1880,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium+-600000y,33.75,1.2150,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium-240000y,14.50,1.3050,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,pro-starter-1500000y,110.00,1.5840,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium+-600000y,45.00,1.6200,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,9.0,premium-240000y,20.00,1.8000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,pro-starter-1500000y,82.50,1.3200,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium+-600000y,33.75,1.3500,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium-240000y,14.50,1.4500,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,pro-starter-1500000y,110.00,1.7600,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium+-600000y,45.00,1.8000,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,10.0,premium-240000y,20.00,2.0000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,pro-starter-1500000y,82.50,1.4520,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium+-600000y,33.75,1.4850,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium-240000y,14.50,1.5950,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,pro-starter-1500000y,110.00,1.9360,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium+-600000y,45.00,1.9800,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,11.0,premium-240000y,20.00,2.2000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,pro-starter-1500000y,82.50,1.5840,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium+-600000y,33.75,1.6200,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium-240000y,14.50,1.7400,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,pro-starter-1500000y,110.00,2.1120,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium+-600000y,45.00,2.1600,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,12.0,premium-240000y,20.00,2.4000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,pro-starter-1500000y,82.50,1.7160,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium+-600000y,33.75,1.7550,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium-240000y,14.50,1.8850,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,pro-starter-1500000y,110.00,2.2880,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium+-600000y,45.00,2.3400,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,13.0,premium-240000y,20.00,2.6000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,pro-starter-1500000y,82.50,1.8480,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium+-600000y,33.75,1.8900,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium-240000y,14.50,2.0300,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,pro-starter-1500000y,110.00,2.4640,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium+-600000y,45.00,2.5200,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,14.0,premium-240000y,20.00,2.8000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,pro-starter-1500000y,82.50,1.9800,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium+-600000y,33.75,2.0250,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium-240000y,14.50,2.1750,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,pro-starter-1500000y,110.00,2.6400,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium+-600000y,45.00,2.7000,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,15.0,premium-240000y,20.00,3.0000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,pro-starter-1500000y,82.50,2.6400,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium+-600000y,33.75,2.7000,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium-240000y,14.50,2.9000,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,pro-starter-1500000y,110.00,3.5200,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium+-600000y,45.00,3.6000,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,20.0,premium-240000y,20.00,4.0000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,pro-starter-1500000y,82.50,3.9600,0.13200,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium+-600000y,33.75,4.0500,0.13500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium-240000y,14.50,4.3500,0.14500,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,pro-starter-1500000y,110.00,5.2800,0.17600,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium+-600000y,45.00,5.4000,0.18000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,draft,,480p,,30.0,premium-240000y,20.00,6.0000,0.20000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,pro-starter-1500000y,82.50,2.9040,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium+-600000y,33.75,2.9700,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium-240000y,14.50,3.1900,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,pro-starter-1500000y,110.00,3.8720,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium+-600000y,45.00,3.9600,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,4.0,premium-240000y,20.00,4.4000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,pro-starter-1500000y,82.50,3.6300,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium+-600000y,33.75,3.7125,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium-240000y,14.50,3.9875,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,pro-starter-1500000y,110.00,4.8400,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium+-600000y,45.00,4.9500,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,5.0,premium-240000y,20.00,5.5000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,pro-starter-1500000y,82.50,4.3560,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium+-600000y,33.75,4.4550,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium-240000y,14.50,4.7850,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,pro-starter-1500000y,110.00,5.8080,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium+-600000y,45.00,5.9400,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,6.0,premium-240000y,20.00,6.6000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,pro-starter-1500000y,82.50,5.0820,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium+-600000y,33.75,5.1975,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium-240000y,14.50,5.5825,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,pro-starter-1500000y,110.00,6.7760,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium+-600000y,45.00,6.9300,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,7.0,premium-240000y,20.00,7.7000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,pro-starter-1500000y,82.50,5.8080,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium+-600000y,33.75,5.9400,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium-240000y,14.50,6.3800,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,pro-starter-1500000y,110.00,7.7440,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium+-600000y,45.00,7.9200,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,8.0,premium-240000y,20.00,8.8000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,pro-starter-1500000y,82.50,6.5340,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium+-600000y,33.75,6.6825,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium-240000y,14.50,7.1775,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,pro-starter-1500000y,110.00,8.7120,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium+-600000y,45.00,8.9100,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,9.0,premium-240000y,20.00,9.9000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,pro-starter-1500000y,82.50,7.2600,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium+-600000y,33.75,7.4250,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium-240000y,14.50,7.9750,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,pro-starter-1500000y,110.00,9.6800,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium+-600000y,45.00,9.9000,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,10.0,premium-240000y,20.00,11.0000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,pro-starter-1500000y,82.50,7.9860,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium+-600000y,33.75,8.1675,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium-240000y,14.50,8.7725,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,pro-starter-1500000y,110.00,10.6480,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium+-600000y,45.00,10.8900,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,11.0,premium-240000y,20.00,12.1000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,pro-starter-1500000y,82.50,8.7120,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium+-600000y,33.75,8.9100,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium-240000y,14.50,9.5700,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,pro-starter-1500000y,110.00,11.6160,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium+-600000y,45.00,11.8800,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,12.0,premium-240000y,20.00,13.2000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,pro-starter-1500000y,82.50,9.4380,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium+-600000y,33.75,9.6525,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium-240000y,14.50,10.3675,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,pro-starter-1500000y,110.00,12.5840,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium+-600000y,45.00,12.8700,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,13.0,premium-240000y,20.00,14.3000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,pro-starter-1500000y,82.50,10.1640,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium+-600000y,33.75,10.3950,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium-240000y,14.50,11.1650,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,pro-starter-1500000y,110.00,13.5520,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium+-600000y,45.00,13.8600,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,14.0,premium-240000y,20.00,15.4000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,pro-starter-1500000y,82.50,10.8900,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium+-600000y,33.75,11.1375,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium-240000y,14.50,11.9625,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,pro-starter-1500000y,110.00,14.5200,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium+-600000y,45.00,14.8500,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,15.0,premium-240000y,20.00,16.5000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,pro-starter-1500000y,82.50,14.5200,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium+-600000y,33.75,14.8500,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium-240000y,14.50,15.9500,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,pro-starter-1500000y,110.00,19.3600,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium+-600000y,45.00,19.8000,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,20.0,premium-240000y,20.00,22.0000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,pro-starter-1500000y,82.50,21.7800,0.72600,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium+-600000y,33.75,22.2750,0.74250,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium-240000y,14.50,23.9250,0.79750,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,pro-starter-1500000y,110.00,29.0400,0.96800,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium+-600000y,45.00,29.7000,0.99000,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,1080p,,30.0,premium-240000y,20.00,33.0000,1.10000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,pro-starter-1500000y,82.50,1.1616,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium+-600000y,33.75,1.1880,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium-240000y,14.50,1.2760,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,pro-starter-1500000y,110.00,1.5488,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium+-600000y,45.00,1.5840,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,4.0,premium-240000y,20.00,1.7600,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,pro-starter-1500000y,82.50,1.4520,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium+-600000y,33.75,1.4850,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium-240000y,14.50,1.5950,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,pro-starter-1500000y,110.00,1.9360,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium+-600000y,45.00,1.9800,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,5.0,premium-240000y,20.00,2.2000,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,pro-starter-1500000y,82.50,1.7424,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium+-600000y,33.75,1.7820,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium-240000y,14.50,1.9140,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,pro-starter-1500000y,110.00,2.3232,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium+-600000y,45.00,2.3760,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,6.0,premium-240000y,20.00,2.6400,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,pro-starter-1500000y,82.50,2.0328,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium+-600000y,33.75,2.0790,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium-240000y,14.50,2.2330,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,pro-starter-1500000y,110.00,2.7104,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium+-600000y,45.00,2.7720,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,7.0,premium-240000y,20.00,3.0800,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,pro-starter-1500000y,82.50,2.3232,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium+-600000y,33.75,2.3760,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium-240000y,14.50,2.5520,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,pro-starter-1500000y,110.00,3.0976,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium+-600000y,45.00,3.1680,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,8.0,premium-240000y,20.00,3.5200,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,pro-starter-1500000y,82.50,2.6136,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium+-600000y,33.75,2.6730,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium-240000y,14.50,2.8710,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,pro-starter-1500000y,110.00,3.4848,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium+-600000y,45.00,3.5640,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,9.0,premium-240000y,20.00,3.9600,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,pro-starter-1500000y,82.50,2.9040,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium+-600000y,33.75,2.9700,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium-240000y,14.50,3.1900,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,pro-starter-1500000y,110.00,3.8720,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium+-600000y,45.00,3.9600,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,10.0,premium-240000y,20.00,4.4000,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,pro-starter-1500000y,82.50,3.1944,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium+-600000y,33.75,3.2670,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium-240000y,14.50,3.5090,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,pro-starter-1500000y,110.00,4.2592,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium+-600000y,45.00,4.3560,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,11.0,premium-240000y,20.00,4.8400,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,pro-starter-1500000y,82.50,3.4848,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium+-600000y,33.75,3.5640,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium-240000y,14.50,3.8280,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,pro-starter-1500000y,110.00,4.6464,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium+-600000y,45.00,4.7520,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,12.0,premium-240000y,20.00,5.2800,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,pro-starter-1500000y,82.50,3.7752,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium+-600000y,33.75,3.8610,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium-240000y,14.50,4.1470,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,pro-starter-1500000y,110.00,5.0336,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium+-600000y,45.00,5.1480,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,13.0,premium-240000y,20.00,5.7200,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,pro-starter-1500000y,82.50,4.0656,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium+-600000y,33.75,4.1580,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium-240000y,14.50,4.4660,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,pro-starter-1500000y,110.00,5.4208,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium+-600000y,45.00,5.5440,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,14.0,premium-240000y,20.00,6.1600,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,pro-starter-1500000y,82.50,4.3560,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium+-600000y,33.75,4.4550,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium-240000y,14.50,4.7850,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,pro-starter-1500000y,110.00,5.8080,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium+-600000y,45.00,5.9400,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,15.0,premium-240000y,20.00,6.6000,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,pro-starter-1500000y,82.50,5.8080,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium+-600000y,33.75,5.9400,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium-240000y,14.50,6.3800,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,pro-starter-1500000y,110.00,7.7440,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium+-600000y,45.00,7.9200,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,20.0,premium-240000y,20.00,8.8000,0.44000,1,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,pro-starter-1500000y,82.50,8.7120,0.29040,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium+-600000y,33.75,8.9100,0.29700,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium-240000y,14.50,9.5700,0.31900,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,pro-starter-1500000y,110.00,11.6160,0.38720,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium+-600000y,45.00,11.8800,0.39600,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Magnific,std,,720p,,30.0,premium-240000y,20.00,13.2000,0.44000,1,0,1,0,monthly
 "Seedance 2.5",seedance-2-5,OpenArt,std,,720p,,5.0,wonder-106000,175.00,1.0731,0.21462,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,OpenArt,std,,720p,,5.0,pro-24000,44.00,1.1917,0.23833,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,OpenArt,std,,720p,,5.0,plus-12000,27.00,1.4625,0.29250,0,0,1,0,yearly
@@ -11460,24 +11460,24 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Google Veo 3.1",veo-3-1,Lumeta,std,,720p,1,8.0,pro-6000,29.00,3.0933,0.38667,0,0,1,0,yearly
 "Google Veo 3.1",veo-3-1,Lumeta,std,,720p,1,8.0,max-30000,149.00,3.1787,0.39733,0,1,1,0,monthly
 "Google Veo 3.1",veo-3-1,Lumeta,std,,720p,1,8.0,pro-6000,39.00,4.1600,0.52000,1,0,1,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,pro-starter-1500000y,82.50,1.3728,0.34320,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium+-600000y,33.75,1.4040,0.35100,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium-240000y,14.50,1.5080,0.37700,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,pro-starter-1500000y,110.00,1.8304,0.45760,0,1,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium+-600000y,45.00,1.8720,0.46800,0,0,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium-240000y,20.00,2.0800,0.52000,1,0,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,pro-starter-1500000y,82.50,2.0592,0.34320,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium+-600000y,33.75,2.1060,0.35100,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium-240000y,14.50,2.2620,0.37700,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,pro-starter-1500000y,110.00,2.7456,0.45760,0,1,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium+-600000y,45.00,2.8080,0.46800,0,0,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium-240000y,20.00,3.1200,0.52000,1,0,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,pro-starter-1500000y,82.50,2.7456,0.34320,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium+-600000y,33.75,2.8080,0.35100,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium-240000y,14.50,3.0160,0.37700,0,0,0,0,yearly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,pro-starter-1500000y,110.00,3.6608,0.45760,0,1,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium+-600000y,45.00,3.7440,0.46800,0,0,0,0,monthly
-"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium-240000y,20.00,4.1600,0.52000,1,0,0,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,pro-starter-1500000y,82.50,1.3728,0.34320,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium+-600000y,33.75,1.4040,0.35100,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium-240000y,14.50,1.5080,0.37700,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,pro-starter-1500000y,110.00,1.8304,0.45760,0,1,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium+-600000y,45.00,1.8720,0.46800,0,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,4.0,premium-240000y,20.00,2.0800,0.52000,1,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,pro-starter-1500000y,82.50,2.0592,0.34320,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium+-600000y,33.75,2.1060,0.35100,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium-240000y,14.50,2.2620,0.37700,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,pro-starter-1500000y,110.00,2.7456,0.45760,0,1,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium+-600000y,45.00,2.8080,0.46800,0,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium-240000y,20.00,3.1200,0.52000,1,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,pro-starter-1500000y,82.50,2.7456,0.34320,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium+-600000y,33.75,2.8080,0.35100,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium-240000y,14.50,3.0160,0.37700,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,pro-starter-1500000y,110.00,3.6608,0.45760,0,1,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium+-600000y,45.00,3.7440,0.46800,0,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium-240000y,20.00,4.1600,0.52000,1,0,1,0,monthly
 "Google Veo 3.1",veo-3-1,Replicate,fast,,,0,4.0,,,0.4000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,Replicate,fast,,,0,6.0,,,0.6000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,Replicate,fast,,,0,8.0,,,0.8000,0.10000,1,1,1,0,
