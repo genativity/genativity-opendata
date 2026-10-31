@@ -9,7 +9,7 @@ a{color:#c2185b}table{border-collapse:collapse;width:100%;font-size:15px}th,td{t
 </head><body>
 <h1>Genativity open data</h1>
 <p>The dataset behind <a href="https://genativity.com">Genativity</a>, an independent benchmark and price tracker for AI video generation.
-Every model runs the same 40 prompts, every clip is scored, and prices are read twice a day across 17 platforms and APIs.</p>
+Every model runs the same 40 prompts, every clip is scored, and prices are read twice a day across 29 platforms and APIs.</p>
 <h2>Current leaderboard</h2>
 <table><thead><tr><th>#</th><th>Model</th><th>Maker</th><th class="n">Overall</th><th class="n">95% CI</th></tr></thead><tbody>
 <tr><td>1</td><td><a href="https://genativity.com/model/kling-3-0-turbo">Kling 3.0 Turbo</a></td><td>Kuaishou</td><td class="n">4.84</td><td class="n">±0.11</td></tr>
@@ -31,7 +31,7 @@ Every model runs the same 40 prompts, every clip is scored, and prices are read 
 </tbody></table>
 <p>Live version with every clip: <a href="https://genativity.com/leaderboard">genativity.com/leaderboard</a>. Where each model is cheapest: <a href="https://genativity.com/radar">the price radar</a>.</p>
 <h2>Download</h2>
-<ul><li><a href="https://github.com/sloptv/sloptv-opendata/blob/main/data/leaderboard.csv">leaderboard.csv</a> (16 rows): One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category.</li><li><a href="https://github.com/sloptv/sloptv-opendata/blob/main/data/scores.csv">scores.csv</a> (698 rows): One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip.</li><li><a href="https://github.com/sloptv/sloptv-opendata/blob/main/data/prices.csv">prices.csv</a> (12,933 rows): Current published prices on every platform and API we track, normalised to USD per clip and per second.</li></ul>
+<ul><li><a href="https://github.com/sloptv/sloptv-opendata/blob/main/data/leaderboard.csv">leaderboard.csv</a> (16 rows): One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category.</li><li><a href="https://github.com/sloptv/sloptv-opendata/blob/main/data/scores.csv">scores.csv</a> (698 rows): One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip.</li><li><a href="https://github.com/sloptv/sloptv-opendata/blob/main/data/prices.csv">prices.csv</a> (16,643 rows): Current published prices on every platform and API we track, normalised to USD per clip and per second.</li></ul>
 <p>Column definitions are in the <a href="https://github.com/sloptv/sloptv-opendata#columns">repository README</a>. Methodology: <a href="https://genativity.com/methodology">genativity.com/methodology</a>.</p>
 <h2>License</h2>
 <p>CC BY 4.0. Free to use, including commercially, with attribution and a link: <code>Source: &lt;a href="https://genativity.com"&gt;Genativity&lt;/a&gt;</code></p>

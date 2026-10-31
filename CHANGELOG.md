@@ -2,9 +2,77 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-30.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-10-26).
+**Last checked: 2026-10-31.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-10](changelog/2026-10.md)
+
+## 2026-10-31
+
+### Prices
+
+- **Luma Dream Machine is now the cheapest place to run FLUX 3** at 720p and 1080p, ahead of Black Forest Labs API. [Compare](https://genativity.com/radar/flux-3)
+- **Google Flow (Google AI plans) is now the cheapest place to run Google Gemini Omni** at 360p and 720p, ahead of Kie.ai. [Compare](https://genativity.com/radar/gemini-omni)
+- **Kie.ai is now the cheapest place to run Google Gemini Omni** at 4k ($0.105/s), after Higgsfield raised its price. [Compare](https://genativity.com/radar/gemini-omni)
+- **Hailuo AI (app) is now the cheapest place to run MiniMax H3** at max 480p ($0.032/s), ahead of fal.ai ($0.0325/s). [Compare](https://genativity.com/radar/hailuo-h3)
+- **Kling AI (app) is now the cheapest place to run Kling 3.0** at pro 1080p ($0.0765/s), ahead of Magnific ($0.0792/s). [Compare](https://genativity.com/radar/kling-3-0)
+- **Kling AI (app) is now the cheapest place to run Kling 3.0** at 720p ($0.0574/s), ahead of Kie.ai ($0.07/s). [Compare](https://genativity.com/radar/kling-3-0)
+- **Luma Dream Machine is now the cheapest place to run Kling 3.0 Turbo** at pro 1080p ($0.098/s), ahead of Kie.ai ($0.113/s). [Compare](https://genativity.com/radar/kling-3-0-turbo)
+- **Luma Dream Machine is now the cheapest place to run Luma Dream Machine** at ray-3.2 540p, ray-3.2 720p and ray-3.2 1080p, ahead of fal.ai. [Compare](https://genativity.com/radar/luma-dream-machine)
+- **Kie.ai is now the cheapest place to run Seedance 2.0** at mini 480p and mini 720p, after Higgsfield raised its price. [Compare](https://genativity.com/radar/seedance-2-0)
+- **Luma Dream Machine is now the cheapest place to run Seedance 2.0** at 720p and 1080p, ahead of Lumeta. [Compare](https://genativity.com/radar/seedance-2-0)
+- **Luma Dream Machine is now the cheapest place to run Seedance 2.0** at 480p ($0.048/s), ahead of BytePlus ModelArk ($0.0673/s). [Compare](https://genativity.com/radar/seedance-2-0)
+- **Luma Dream Machine is now the cheapest place to run Seedance 2.0** at 4k ($0.522/s), ahead of Higgsfield ($0.758/s). [Compare](https://genativity.com/radar/seedance-2-0)
+- **Luma Dream Machine is now the cheapest place to run Seedance 2.5** at draft 480p ($0.072/s), ahead of BytePlus ModelArk ($0.103/s). [Compare](https://genativity.com/radar/seedance-2-5)
+- **Luma Dream Machine is now the cheapest place to run Seedance 2.5** at 480p, 720p and 1080p, ahead of Lumeta. [Compare](https://genativity.com/radar/seedance-2-5)
+- **Hailuo AI (app) is now the cheapest place to run Google Veo 3.1** at 720p and 1080p, ahead of Kie.ai. [Compare](https://genativity.com/radar/veo-3-1)
+
+39 price changes (0 down, 39 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Higgsfield | 7 variants (4k, 480p and 720p) | $0.0172/s | $0.0208/s | +21.0% |
+| [Google Gemini Omni](https://genativity.com/radar/gemini-omni) | Higgsfield | 3 variants (4k, 720p and 1080p) | $0.103/s | $0.125/s | +21.0% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Higgsfield | 3 variants (4k and 1080p) | $0.241/s | $0.292/s | +21.0% |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Higgsfield | 4 variants (4k, 480p, 720p and 1080p) | $0.103/s | $0.125/s | +21.0% |
+| [Google Veo 3.1](https://genativity.com/radar/veo-3-1) | Higgsfield | 4 variants (720p and 1080p) | $0.138/s | $0.167/s | +21.0% |
+| [Grok Video](https://genativity.com/radar/grok-video) | Higgsfield | 4 variants (standard, 480p, 720p and 1080p) | $0.0482/s | $0.0583/s | +21.0% |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Higgsfield | 6 variants (audio, no audio, pro, audio, pro, no audio and 4k) | $0.0517/s | $0.0625/s | +21.0% |
+| [MiniMax Hailuo 02](https://genativity.com/radar/hailuo-02) | Higgsfield | 3 variants (512p, 768p and 1080p) | $0.0172/s | $0.0208/s | +21.0% |
+| [Kling 3.0 Turbo](https://genativity.com/radar/kling-3-0-turbo) | Higgsfield | 2 variants (720p and 1080p) | $0.0517/s | $0.0625/s | +21.0% |
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield | 3 variants (480p, 720p and 1080p) | $0.0344/s | $0.0417/s | +21.0% |
+
+**New offers:**
+- FLUX 3 on Krea: 1 variant, from $0.21/s ([radar](https://genativity.com/radar/flux-3))
+- FLUX 3 on Luma Dream Machine: 2 variants, from $0.12/s ([radar](https://genativity.com/radar/flux-3))
+- Google Gemini Omni on Google Flow (Google AI plans): 2 variants, from $0.0056/s ([radar](https://genativity.com/radar/gemini-omni))
+- Google Gemini Omni on Krea: 1 variant, from $0.159/s ([radar](https://genativity.com/radar/gemini-omni))
+- Grok Video on Krea: 2 variants, from $0.0611/s ([radar](https://genativity.com/radar/grok-video))
+- MiniMax Hailuo 02 on Hailuo AI (app): 2 variants, from $0.0352/s ([radar](https://genativity.com/radar/hailuo-02))
+- MiniMax Hailuo 02 on Krea: 1 variant, from $0.0204/s ([radar](https://genativity.com/radar/hailuo-02))
+- MiniMax H3 on Hailuo AI (app): 4 variants, from $0.032/s ([radar](https://genativity.com/radar/hailuo-h3))
+- MiniMax H3 on Krea: 3 variants, from $0.0306/s ([radar](https://genativity.com/radar/hailuo-h3))
+- MiniMax H3 on Luma Dream Machine: 5 variants, from $0.036/s ([radar](https://genativity.com/radar/hailuo-h3))
+- Kling 3.0 on Kling AI (app): 4 variants, from $0.0574/s ([radar](https://genativity.com/radar/kling-3-0))
+- Kling 3.0 on Krea: 1 variant, from $0.103/s ([radar](https://genativity.com/radar/kling-3-0))
+- Kling 3.0 on Luma Dream Machine: 6 variants, from $0.06/s ([radar](https://genativity.com/radar/kling-3-0))
+- Kling 3.0 on Pika: 1 variant, from $0.0756/s ([radar](https://genativity.com/radar/kling-3-0))
+- Kling 3.0 Turbo on Krea: 1 variant, from $0.138/s ([radar](https://genativity.com/radar/kling-3-0-turbo))
+- Kling 3.0 Turbo on Luma Dream Machine: 2 variants, from $0.08/s ([radar](https://genativity.com/radar/kling-3-0-turbo))
+- Luma Dream Machine on Krea: 1 variant, from $0.0978/s ([radar](https://genativity.com/radar/luma-dream-machine))
+- Luma Dream Machine on Luma Dream Machine: 4 variants, from $0.008/s ([radar](https://genativity.com/radar/luma-dream-machine))
+- Seedance 2.0 on Dreamina: 1 variant, from $0.0441/s ([radar](https://genativity.com/radar/seedance-2-0))
+- Seedance 2.0 on Luma Dream Machine: 6 variants, from $0.024/s ([radar](https://genativity.com/radar/seedance-2-0))
+- Seedance 2.5 on Krea: 1 variant, from $0.287/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Luma Dream Machine: 4 variants, from $0.072/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Pika: 1 variant, from $0.271/s ([radar](https://genativity.com/radar/seedance-2-5))
+- OpenAI Sora 2 on Hailuo AI (app): 1 variant, from $0.08/s ([radar](https://genativity.com/radar/sora-2))
+- Google Veo 3.1 on Google Flow (Google AI plans): 3 variants, from $0.005/s ([radar](https://genativity.com/radar/veo-3-1))
+- Google Veo 3.1 on Hailuo AI (app): 4 variants, from $0.06/s ([radar](https://genativity.com/radar/veo-3-1))
+- Google Veo 3.1 on Krea: 3 variants, from $0.0367/s ([radar](https://genativity.com/radar/veo-3-1))
+- Google Veo 3.1 on Luma Dream Machine: 2 variants, from $0.28/s ([radar](https://genativity.com/radar/veo-3-1))
+- Google Veo 3.1 on Pika: 1 variant, from $0.111/s ([radar](https://genativity.com/radar/veo-3-1))
+- Wan 3.0 on Krea: 1 variant, from $0.0917/s ([radar](https://genativity.com/radar/wan-3-0))
+- Wan 3.0 on Pika: 1 variant, from $0.0733/s ([radar](https://genativity.com/radar/wan-3-0))
 
 ## 2026-10-26
 
