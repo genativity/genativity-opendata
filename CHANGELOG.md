@@ -2,9 +2,19 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-10-31.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-01.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
-By month: [2026-10](changelog/2026-10.md)
+By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-01
+
+### Prices
+
+9 price changes (0 down, 9 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield API | 9 variants (480p, 720p and 1080p) | $0.02/s | $0.025/s | +25.0% |
 
 ## 2026-10-31
 

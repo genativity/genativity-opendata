@@ -5,29 +5,19 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 29 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **16,643 prices** for 15 models, last read 2026-10-31
+- **16,643 prices** for 15 models, last read 2026-11-01
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-10-31)
+## Latest changes (2026-11-01)
 
 #### Prices
 
-- **Luma Dream Machine is now the cheapest place to run FLUX 3** at 720p and 1080p, ahead of Black Forest Labs API. [Compare](https://genativity.com/radar/flux-3)
-- **Google Flow (Google AI plans) is now the cheapest place to run Google Gemini Omni** at 360p and 720p, ahead of Kie.ai. [Compare](https://genativity.com/radar/gemini-omni)
-- **Kie.ai is now the cheapest place to run Google Gemini Omni** at 4k ($0.105/s), after Higgsfield raised its price. [Compare](https://genativity.com/radar/gemini-omni)
-- **Hailuo AI (app) is now the cheapest place to run MiniMax H3** at max 480p ($0.032/s), ahead of fal.ai ($0.0325/s). [Compare](https://genativity.com/radar/hailuo-h3)
-- **Kling AI (app) is now the cheapest place to run Kling 3.0** at pro 1080p ($0.0765/s), ahead of Magnific ($0.0792/s). [Compare](https://genativity.com/radar/kling-3-0)
-- **Kling AI (app) is now the cheapest place to run Kling 3.0** at 720p ($0.0574/s), ahead of Kie.ai ($0.07/s). [Compare](https://genativity.com/radar/kling-3-0)
-- **Luma Dream Machine is now the cheapest place to run Kling 3.0 Turbo** at pro 1080p ($0.098/s), ahead of Kie.ai ($0.113/s). [Compare](https://genativity.com/radar/kling-3-0-turbo)
-- **Luma Dream Machine is now the cheapest place to run Luma Dream Machine** at ray-3.2 540p, ray-3.2 720p and ray-3.2 1080p, ahead of fal.ai. [Compare](https://genativity.com/radar/luma-dream-machine)
-- **Kie.ai is now the cheapest place to run Seedance 2.0** at mini 480p and mini 720p, after Higgsfield raised its price. [Compare](https://genativity.com/radar/seedance-2-0)
-- **Luma Dream Machine is now the cheapest place to run Seedance 2.0** at 720p and 1080p, ahead of Lumeta. [Compare](https://genativity.com/radar/seedance-2-0)
-- **Luma Dream Machine is now the cheapest place to run Seedance 2.0** at 480p ($0.048/s), ahead of BytePlus ModelArk ($0.0673/s). [Compare](https://genativity.com/radar/seedance-2-0)
-- **Luma Dream Machine is now the cheapest place to run Seedance 2.0** at 4k ($0.522/s), ahead of Higgsfield ($0.758/s). [Compare](https://genativity.com/radar/seedance-2-0)
-- **Luma Dream Machine is now the cheapest place to run Seedance 2.5** at draft 480p ($0.072/s), ahead of BytePlus ModelArk ($0.103/s). [Compare](https://genativity.com/radar/seedance-2-5)
+9 price changes (0 down, 9 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
 
-[Full list of changes](CHANGELOG.md)
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield API | 9 variants (480p, 720p and 1080p) | $0.02/s | $0.025/s | +25.0% |
 
 [All changes, day by day](CHANGELOG.md)
 
