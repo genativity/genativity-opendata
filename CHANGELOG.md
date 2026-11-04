@@ -2,9 +2,25 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-03.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-11-01).
+**Last checked: 2026-11-04.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-04
+
+### Prices
+
+3 price changes (0 down, 3 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Replicate | 3 variants (480p, 720p and 1080p) | $0.025/s | $0.035/s | +40.0% |
+
+**New offers:**
+- Grok Video on Replicate: 3 variants, from $0.05/s ([radar](https://genativity.com/radar/grok-video))
+
+**No longer listed:**
+- Grok Video on Replicate: 1 variant
 
 ## 2026-11-01
 
