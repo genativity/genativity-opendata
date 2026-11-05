@@ -2,9 +2,28 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-04.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-05.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-05
+
+### Prices
+
+10 price changes (0 down, 10 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Kie.ai | 720p, audio | $0.10/s | $0.114/s | +13.5% |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Kie.ai | 2 variants (4k) | $0.335/s | $0.378/s | +12.7% |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Kie.ai | pro, 1080p, no audio | $0.09/s | $0.101/s | +12.2% |
+| [Kling 3.0 Turbo](https://genativity.com/radar/kling-3-0-turbo) | Kie.ai | 2 variants (720p) | $0.09/s | $0.101/s | +12.2% |
+| [Kling 3.0 Turbo](https://genativity.com/radar/kling-3-0-turbo) | Kie.ai | 2 variants (1080p) | $0.113/s | $0.126/s | +12.0% |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Kie.ai | pro, 1080p, audio | $0.135/s | $0.151/s | +11.9% |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Kie.ai | 720p, no audio | $0.07/s | $0.0755/s | +7.9% |
+
+**No longer listed:**
+- Seedance 2.0 on Dreamina: 1 variant
 
 ## 2026-11-04
 
