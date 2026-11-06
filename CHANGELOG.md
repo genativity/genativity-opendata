@@ -2,9 +2,29 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-05.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-06.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-06
+
+### Prices
+
+- **Kie.ai is now the cheapest place to run Google Gemini Omni** at 360p and 720p, after Google Flow (Google AI plans) stopped listing it. [Compare](https://genativity.com/radar/gemini-omni)
+
+9 price changes (0 down, 9 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Magnific | 3 variants (480p, 720p and 1080p) | $0.176/s | $0.20/s | +13.6% |
+| [Google Veo 3.1](https://genativity.com/radar/veo-3-1) | Magnific | 4k, audio | $0.458/s | $0.52/s | +13.6% |
+| [Google Gemini Omni](https://genativity.com/radar/gemini-omni) | Magnific | standard | $0.211/s | $0.24/s | +13.6% |
+| [MiniMax H3](https://genativity.com/radar/hailuo-h3) | Magnific | max turbo, 768p | $0.0352/s | $0.04/s | +13.6% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Magnific | 2 variants (720p) | $0.207/s | $0.235/s | +13.6% |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Magnific | pro, 1080p | $0.0792/s | $0.09/s | +13.6% |
+
+**No longer listed:**
+- Google Gemini Omni on Google Flow (Google AI plans): 2 variants
 
 ## 2026-11-05
 
