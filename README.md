@@ -5,29 +5,23 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 29 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **16,225 prices** for 15 models, last read 2026-11-06
+- **16,219 prices** for 15 models, last read 2026-11-07
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-11-06)
+## Latest changes (2026-11-07)
 
 #### Prices
 
-- **Kie.ai is now the cheapest place to run Google Gemini Omni** at 360p and 720p, after Google Flow (Google AI plans) stopped listing it. [Compare](https://genativity.com/radar/gemini-omni)
-
-9 price changes (0 down, 9 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+2 price changes (2 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
 
 | Model | Platform | Variant | Before | Now | Change |
 |---|---|---|---:|---:|---:|
-| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Magnific | 3 variants (480p, 720p and 1080p) | $0.176/s | $0.20/s | +13.6% |
-| [Google Veo 3.1](https://genativity.com/radar/veo-3-1) | Magnific | 4k, audio | $0.458/s | $0.52/s | +13.6% |
-| [Google Gemini Omni](https://genativity.com/radar/gemini-omni) | Magnific | standard | $0.211/s | $0.24/s | +13.6% |
-| [MiniMax H3](https://genativity.com/radar/hailuo-h3) | Magnific | max turbo, 768p | $0.0352/s | $0.04/s | +13.6% |
-| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Magnific | 2 variants (720p) | $0.207/s | $0.235/s | +13.6% |
-| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Magnific | pro, 1080p | $0.0792/s | $0.09/s | +13.6% |
+| [FLUX 3](https://genativity.com/radar/flux-3) | Luma Dream Machine | 1080p, audio | $0.204/s | $0.16/s | -21.6% |
+| [FLUX 3](https://genativity.com/radar/flux-3) | Luma Dream Machine | 720p, audio | $0.12/s | $0.10/s | -16.7% |
 
 **No longer listed:**
-- Google Gemini Omni on Google Flow (Google AI plans): 2 variants
+- OpenAI Sora 2 on Replicate: 2 variants
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -62,7 +56,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 16 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 698 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 16,225 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 16,219 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 

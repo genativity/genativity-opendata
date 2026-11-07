@@ -2,9 +2,23 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-06.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-07.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-07
+
+### Prices
+
+2 price changes (2 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [FLUX 3](https://genativity.com/radar/flux-3) | Luma Dream Machine | 1080p, audio | $0.204/s | $0.16/s | -21.6% |
+| [FLUX 3](https://genativity.com/radar/flux-3) | Luma Dream Machine | 720p, audio | $0.12/s | $0.10/s | -16.7% |
+
+**No longer listed:**
+- OpenAI Sora 2 on Replicate: 2 variants
 
 ## 2026-11-06
 

@@ -187,150 +187,150 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "FLUX 3",flux-3,Krea,std,,720p,,5.0,business-20000,50.00,1.5873,0.31746,0,0,0,0,monthly
 "FLUX 3",flux-3,Krea,std,,720p,,5.0,business-40000,100.00,1.5873,0.31746,0,0,0,0,monthly
 "FLUX 3",flux-3,Krea,std,,720p,,5.0,business-80000,200.00,1.5873,0.31746,0,0,0,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,ultra-150000,250.00,0.8500,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,pro-40000,75.00,0.9562,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,ultra-150000,300.00,1.0200,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,pro-40000,90.00,1.1475,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,plus-10000,25.00,1.2750,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,plus-10000,30.00,1.5300,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,ultra-150000,250.00,1.0200,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,pro-40000,75.00,1.1475,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,ultra-150000,300.00,1.2240,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,pro-40000,90.00,1.3770,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,plus-10000,25.00,1.5300,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,plus-10000,30.00,1.8360,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,ultra-150000,250.00,1.1900,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,pro-40000,75.00,1.3387,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,ultra-150000,300.00,1.4280,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,pro-40000,90.00,1.6065,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,plus-10000,25.00,1.7850,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,plus-10000,30.00,2.1420,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,ultra-150000,250.00,1.3600,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,pro-40000,75.00,1.5300,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,ultra-150000,300.00,1.6320,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,pro-40000,90.00,1.8360,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,plus-10000,25.00,2.0400,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,plus-10000,30.00,2.4480,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,ultra-150000,250.00,1.5300,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,pro-40000,75.00,1.7213,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,ultra-150000,300.00,1.8360,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,pro-40000,90.00,2.0655,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,plus-10000,25.00,2.2950,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,plus-10000,30.00,2.7540,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,ultra-150000,250.00,1.7000,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,pro-40000,75.00,1.9125,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,ultra-150000,300.00,2.0400,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,pro-40000,90.00,2.2950,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,plus-10000,25.00,2.5500,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,plus-10000,30.00,3.0600,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,ultra-150000,250.00,1.8700,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,pro-40000,75.00,2.1038,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,ultra-150000,300.00,2.2440,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,pro-40000,90.00,2.5245,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,plus-10000,25.00,2.8050,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,plus-10000,30.00,3.3660,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,ultra-150000,250.00,2.0400,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,pro-40000,75.00,2.2950,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,ultra-150000,300.00,2.4480,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,pro-40000,90.00,2.7540,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,plus-10000,25.00,3.0600,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,plus-10000,30.00,3.6720,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,ultra-150000,250.00,2.2100,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,pro-40000,75.00,2.4863,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,ultra-150000,300.00,2.6520,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,pro-40000,90.00,2.9835,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,plus-10000,25.00,3.3150,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,plus-10000,30.00,3.9780,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,ultra-150000,250.00,2.3800,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,pro-40000,75.00,2.6775,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,ultra-150000,300.00,2.8560,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,pro-40000,90.00,3.2130,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,plus-10000,25.00,3.5700,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,plus-10000,30.00,4.2840,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,ultra-150000,250.00,2.5500,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,pro-40000,75.00,2.8688,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,ultra-150000,300.00,3.0600,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,pro-40000,90.00,3.4425,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,plus-10000,25.00,3.8250,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,plus-10000,30.00,4.5900,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,ultra-150000,250.00,3.4000,0.17000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,pro-40000,75.00,3.8250,0.19125,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,ultra-150000,300.00,4.0800,0.20400,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,pro-40000,90.00,4.5900,0.22950,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,plus-10000,25.00,5.1000,0.25500,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,plus-10000,30.00,6.1200,0.30600,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,ultra-150000,250.00,0.5000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,pro-40000,75.00,0.5625,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,ultra-150000,300.00,0.6000,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,pro-40000,90.00,0.6750,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,plus-10000,25.00,0.7500,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,plus-10000,30.00,0.9000,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,ultra-150000,250.00,0.6000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,pro-40000,75.00,0.6750,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,ultra-150000,300.00,0.7200,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,pro-40000,90.00,0.8100,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,plus-10000,25.00,0.9000,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,plus-10000,30.00,1.0800,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,ultra-150000,250.00,0.7000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,pro-40000,75.00,0.7875,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,ultra-150000,300.00,0.8400,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,pro-40000,90.00,0.9450,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,plus-10000,25.00,1.0500,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,plus-10000,30.00,1.2600,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,ultra-150000,250.00,0.8000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,pro-40000,75.00,0.9000,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,ultra-150000,300.00,0.9600,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,pro-40000,90.00,1.0800,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,plus-10000,25.00,1.2000,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,plus-10000,30.00,1.4400,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,ultra-150000,250.00,0.9000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,pro-40000,75.00,1.0125,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,ultra-150000,300.00,1.0800,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,pro-40000,90.00,1.2150,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,plus-10000,25.00,1.3500,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,plus-10000,30.00,1.6200,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,ultra-150000,250.00,1.0000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,pro-40000,75.00,1.1250,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,ultra-150000,300.00,1.2000,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,pro-40000,90.00,1.3500,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,plus-10000,25.00,1.5000,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,plus-10000,30.00,1.8000,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,ultra-150000,250.00,1.1000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,pro-40000,75.00,1.2375,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,ultra-150000,300.00,1.3200,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,pro-40000,90.00,1.4850,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,plus-10000,25.00,1.6500,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,plus-10000,30.00,1.9800,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,ultra-150000,250.00,1.2000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,pro-40000,75.00,1.3500,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,ultra-150000,300.00,1.4400,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,pro-40000,90.00,1.6200,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,plus-10000,25.00,1.8000,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,plus-10000,30.00,2.1600,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,ultra-150000,250.00,1.3000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,pro-40000,75.00,1.4625,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,ultra-150000,300.00,1.5600,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,pro-40000,90.00,1.7550,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,plus-10000,25.00,1.9500,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,plus-10000,30.00,2.3400,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,ultra-150000,250.00,1.4000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,pro-40000,75.00,1.5750,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,ultra-150000,300.00,1.6800,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,pro-40000,90.00,1.8900,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,plus-10000,25.00,2.1000,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,plus-10000,30.00,2.5200,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,ultra-150000,250.00,1.5000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,pro-40000,75.00,1.6875,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,ultra-150000,300.00,1.8000,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,pro-40000,90.00,2.0250,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,plus-10000,25.00,2.2500,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,plus-10000,30.00,2.7000,0.18000,1,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,ultra-150000,250.00,2.0000,0.10000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,pro-40000,75.00,2.2500,0.11250,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,ultra-150000,300.00,2.4000,0.12000,0,1,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,pro-40000,90.00,2.7000,0.13500,0,0,1,0,monthly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,plus-10000,25.00,3.0000,0.15000,0,0,1,0,yearly
-"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,plus-10000,30.00,3.6000,0.18000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,ultra-150000,250.00,0.6667,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,pro-40000,75.00,0.7500,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,ultra-150000,300.00,0.8000,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,pro-40000,90.00,0.9000,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,plus-10000,25.00,1.0000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,5.0,plus-10000,30.00,1.2000,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,ultra-150000,250.00,0.8000,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,pro-40000,75.00,0.9000,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,ultra-150000,300.00,0.9600,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,pro-40000,90.00,1.0800,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,plus-10000,25.00,1.2000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,6.0,plus-10000,30.00,1.4400,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,ultra-150000,250.00,0.9333,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,pro-40000,75.00,1.0500,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,ultra-150000,300.00,1.1200,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,pro-40000,90.00,1.2600,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,plus-10000,25.00,1.4000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,7.0,plus-10000,30.00,1.6800,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,ultra-150000,250.00,1.0667,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,pro-40000,75.00,1.2000,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,ultra-150000,300.00,1.2800,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,pro-40000,90.00,1.4400,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,plus-10000,25.00,1.6000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,8.0,plus-10000,30.00,1.9200,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,ultra-150000,250.00,1.2000,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,pro-40000,75.00,1.3500,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,ultra-150000,300.00,1.4400,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,pro-40000,90.00,1.6200,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,plus-10000,25.00,1.8000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,9.0,plus-10000,30.00,2.1600,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,ultra-150000,250.00,1.3333,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,pro-40000,75.00,1.5000,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,ultra-150000,300.00,1.6000,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,pro-40000,90.00,1.8000,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,plus-10000,25.00,2.0000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,10.0,plus-10000,30.00,2.4000,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,ultra-150000,250.00,1.4667,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,pro-40000,75.00,1.6500,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,ultra-150000,300.00,1.7600,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,pro-40000,90.00,1.9800,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,plus-10000,25.00,2.2000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,11.0,plus-10000,30.00,2.6400,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,ultra-150000,250.00,1.6000,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,pro-40000,75.00,1.8000,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,ultra-150000,300.00,1.9200,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,pro-40000,90.00,2.1600,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,plus-10000,25.00,2.4000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,12.0,plus-10000,30.00,2.8800,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,ultra-150000,250.00,1.7333,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,pro-40000,75.00,1.9500,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,ultra-150000,300.00,2.0800,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,pro-40000,90.00,2.3400,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,plus-10000,25.00,2.6000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,13.0,plus-10000,30.00,3.1200,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,ultra-150000,250.00,1.8667,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,pro-40000,75.00,2.1000,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,ultra-150000,300.00,2.2400,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,pro-40000,90.00,2.5200,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,plus-10000,25.00,2.8000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,14.0,plus-10000,30.00,3.3600,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,ultra-150000,250.00,2.0000,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,pro-40000,75.00,2.2500,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,ultra-150000,300.00,2.4000,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,pro-40000,90.00,2.7000,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,plus-10000,25.00,3.0000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,15.0,plus-10000,30.00,3.6000,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,ultra-150000,250.00,2.6667,0.13333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,pro-40000,75.00,3.0000,0.15000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,ultra-150000,300.00,3.2000,0.16000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,pro-40000,90.00,3.6000,0.18000,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,plus-10000,25.00,4.0000,0.20000,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,1080p,1,20.0,plus-10000,30.00,4.8000,0.24000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,ultra-150000,250.00,0.4167,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,pro-40000,75.00,0.4688,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,ultra-150000,300.00,0.5000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,pro-40000,90.00,0.5625,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,plus-10000,25.00,0.6250,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,5.0,plus-10000,30.00,0.7500,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,ultra-150000,250.00,0.5000,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,pro-40000,75.00,0.5625,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,ultra-150000,300.00,0.6000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,pro-40000,90.00,0.6750,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,plus-10000,25.00,0.7500,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,6.0,plus-10000,30.00,0.9000,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,ultra-150000,250.00,0.5833,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,pro-40000,75.00,0.6563,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,ultra-150000,300.00,0.7000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,pro-40000,90.00,0.7875,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,plus-10000,25.00,0.8750,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,7.0,plus-10000,30.00,1.0500,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,ultra-150000,250.00,0.6667,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,pro-40000,75.00,0.7500,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,ultra-150000,300.00,0.8000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,pro-40000,90.00,0.9000,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,plus-10000,25.00,1.0000,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,8.0,plus-10000,30.00,1.2000,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,ultra-150000,250.00,0.7500,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,pro-40000,75.00,0.8438,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,ultra-150000,300.00,0.9000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,pro-40000,90.00,1.0125,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,plus-10000,25.00,1.1250,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,9.0,plus-10000,30.00,1.3500,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,ultra-150000,250.00,0.8333,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,pro-40000,75.00,0.9375,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,ultra-150000,300.00,1.0000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,pro-40000,90.00,1.1250,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,plus-10000,25.00,1.2500,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,10.0,plus-10000,30.00,1.5000,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,ultra-150000,250.00,0.9167,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,pro-40000,75.00,1.0313,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,ultra-150000,300.00,1.1000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,pro-40000,90.00,1.2375,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,plus-10000,25.00,1.3750,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,11.0,plus-10000,30.00,1.6500,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,ultra-150000,250.00,1.0000,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,pro-40000,75.00,1.1250,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,ultra-150000,300.00,1.2000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,pro-40000,90.00,1.3500,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,plus-10000,25.00,1.5000,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,12.0,plus-10000,30.00,1.8000,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,ultra-150000,250.00,1.0833,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,pro-40000,75.00,1.2188,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,ultra-150000,300.00,1.3000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,pro-40000,90.00,1.4625,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,plus-10000,25.00,1.6250,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,13.0,plus-10000,30.00,1.9500,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,ultra-150000,250.00,1.1667,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,pro-40000,75.00,1.3125,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,ultra-150000,300.00,1.4000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,pro-40000,90.00,1.5750,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,plus-10000,25.00,1.7500,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,14.0,plus-10000,30.00,2.1000,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,ultra-150000,250.00,1.2500,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,pro-40000,75.00,1.4063,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,ultra-150000,300.00,1.5000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,pro-40000,90.00,1.6875,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,plus-10000,25.00,1.8750,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,15.0,plus-10000,30.00,2.2500,0.15000,1,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,ultra-150000,250.00,1.6667,0.08333,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,pro-40000,75.00,1.8750,0.09375,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,ultra-150000,300.00,2.0000,0.10000,0,1,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,pro-40000,90.00,2.2500,0.11250,0,0,1,0,monthly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,plus-10000,25.00,2.5000,0.12500,0,0,1,0,yearly
+"FLUX 3",flux-3,"Luma Dream Machine",std,,720p,1,20.0,plus-10000,30.00,3.0000,0.15000,1,0,1,0,monthly
 "Google Gemini Omni",gemini-omni,"Google Gemini API",std,,720p,,3.0,,,0.3041,0.10136,1,1,1,0,
 "Google Gemini Omni",gemini-omni,"Google Gemini API",std,,720p,,4.0,,,0.4054,0.10136,1,1,1,0,
 "Google Gemini Omni",gemini-omni,"Google Gemini API",std,,720p,,5.0,,,0.5068,0.10136,1,1,1,0,
@@ -7035,14 +7035,14 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Kling 3.0",kling-3-0,Magnific,pro,,1080p,,14.0,premium-240000y,20.00,1.2600,0.09000,1,1,1,0,monthly
 "Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium-240000y,14.50,0.9787,0.06525,0,0,1,0,yearly
 "Kling 3.0",kling-3-0,Magnific,pro,,1080p,,15.0,premium-240000y,20.00,1.3500,0.09000,1,1,1,0,monthly
-"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,creator-3150,28.00,0.3022,0.06044,0,0,1,0,yearly
 "Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,fancy-79200,704.00,0.3022,0.06044,0,0,1,0,yearly
 "Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,fancy-8550,76.00,0.3022,0.06044,0,0,1,0,yearly
-"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,starter-900,8.00,0.3022,0.06044,0,0,1,0,yearly
-"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,creator-3150,35.00,0.3778,0.07556,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,creator-2600,28.00,0.3662,0.07323,0,0,1,0,yearly
 "Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,fancy-79200,880.00,0.3778,0.07556,0,0,1,0,monthly
-"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,fancy-8550,95.00,0.3778,0.07556,0,0,1,0,monthly
-"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,starter-900,10.00,0.3778,0.07556,1,1,1,0,monthly
+"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,fancy-8550,95.00,0.3778,0.07556,0,1,1,0,monthly
+"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,starter-600,8.00,0.4533,0.09067,0,0,1,0,yearly
+"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,creator-2600,35.00,0.4577,0.09154,0,0,1,0,monthly
+"Kling 3.0",kling-3-0,Pika,std,,720p,,5.0,starter-600,10.00,0.5667,0.11333,1,0,1,0,monthly
 "Kling 3.0",kling-3-0,Replicate,4k,,4k,0,3.0,,,1.2600,0.42000,1,1,1,0,
 "Kling 3.0",kling-3-0,Replicate,4k,,4k,0,4.0,,,1.6800,0.42000,1,1,1,0,
 "Kling 3.0",kling-3-0,Replicate,4k,,4k,0,5.0,,,2.1000,0.42000,1,1,1,0,
@@ -13788,14 +13788,14 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Seedance 2.5",seedance-2-5,OpenArt,std,,720p,,5.0,plus-12000,34.00,1.8417,0.36833,0,0,1,0,monthly
 "Seedance 2.5",seedance-2-5,OpenArt,std,,720p,,5.0,starter-4000,13.00,2.1125,0.42250,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,OpenArt,std,,720p,,5.0,starter-4000,14.00,2.2750,0.45500,1,0,1,0,monthly
-"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,creator-3150,28.00,1.0844,0.21689,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,fancy-79200,704.00,1.0844,0.21689,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,fancy-8550,76.00,1.0844,0.21689,0,0,1,0,yearly
-"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,starter-900,8.00,1.0844,0.21689,0,0,1,0,yearly
-"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,creator-3150,35.00,1.3556,0.27111,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,creator-2600,28.00,1.3138,0.26277,0,0,1,0,yearly
 "Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,fancy-79200,880.00,1.3556,0.27111,0,0,1,0,monthly
-"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,fancy-8550,95.00,1.3556,0.27111,0,0,1,0,monthly
-"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,starter-900,10.00,1.3556,0.27111,1,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,fancy-8550,95.00,1.3556,0.27111,0,1,1,0,monthly
+"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,starter-600,8.00,1.6267,0.32533,0,0,1,0,yearly
+"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,creator-2600,35.00,1.6423,0.32846,0,0,1,0,monthly
+"Seedance 2.5",seedance-2-5,Pika,std,,720p,,5.0,starter-600,10.00,2.0333,0.40667,1,0,1,0,monthly
 "Seedance 2.5",seedance-2-5,Replicate,std,,480p,,4.0,,,0.4112,0.10280,1,1,1,0,
 "Seedance 2.5",seedance-2-5,Replicate,std,,480p,,5.0,,,0.5140,0.10280,1,1,1,0,
 "Seedance 2.5",seedance-2-5,Replicate,std,,480p,,6.0,,,0.6168,0.10280,1,1,1,0,
@@ -14154,12 +14154,6 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "OpenAI Sora 2",sora-2,"Hailuo AI (app)",std,,720p,1,12.0,max-27000,216.00,0.9600,0.08000,0,1,1,0,monthly
 "OpenAI Sora 2",sora-2,"Hailuo AI (app)",std,,720p,1,12.0,pro-4500,38.00,1.0133,0.08444,1,0,1,0,monthly
 "OpenAI Sora 2",sora-2,"Hailuo AI (app)",std,,720p,1,12.0,master-10500,89.00,1.0171,0.08476,0,0,1,0,monthly
-"OpenAI Sora 2",sora-2,Replicate,pro,,,,4.0,,,1.2000,0.30000,1,1,1,0,
-"OpenAI Sora 2",sora-2,Replicate,pro,,,,8.0,,,2.4000,0.30000,1,1,1,0,
-"OpenAI Sora 2",sora-2,Replicate,pro,,,,12.0,,,3.6000,0.30000,1,1,1,0,
-"OpenAI Sora 2",sora-2,Replicate,std,,,,4.0,,,0.4000,0.10000,1,1,1,0,
-"OpenAI Sora 2",sora-2,Replicate,std,,,,8.0,,,0.8000,0.10000,1,1,1,0,
-"OpenAI Sora 2",sora-2,Replicate,std,,,,12.0,,,1.2000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,fal.ai,fast,t2v,1080p,0,4.0,,,0.4000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,fal.ai,fast,t2v,1080p,0,6.0,,,0.6000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,fal.ai,fast,t2v,1080p,0,8.0,,,0.8000,0.10000,1,1,1,0,
@@ -14736,14 +14730,14 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,6.0,premium-240000y,20.00,3.1200,0.52000,1,1,1,0,monthly
 "Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium-240000y,14.50,3.0160,0.37700,0,0,1,0,yearly
 "Google Veo 3.1",veo-3-1,Magnific,std,,4k,1,8.0,premium-240000y,20.00,4.1600,0.52000,1,1,1,0,monthly
-"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,creator-3150,28.00,0.7111,0.08889,0,0,1,0,yearly
 "Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,fancy-79200,704.00,0.7111,0.08889,0,0,1,0,yearly
 "Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,fancy-8550,76.00,0.7111,0.08889,0,0,1,0,yearly
-"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,starter-900,8.00,0.7111,0.08889,0,0,1,0,yearly
-"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,creator-3150,35.00,0.8889,0.11111,0,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,creator-2600,28.00,0.8615,0.10769,0,0,1,0,yearly
 "Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,fancy-79200,880.00,0.8889,0.11111,0,0,1,0,monthly
-"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,fancy-8550,95.00,0.8889,0.11111,0,0,1,0,monthly
-"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,starter-900,10.00,0.8889,0.11111,1,1,1,0,monthly
+"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,fancy-8550,95.00,0.8889,0.11111,0,1,1,0,monthly
+"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,starter-600,8.00,1.0667,0.13333,0,0,1,0,yearly
+"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,creator-2600,35.00,1.0769,0.13462,0,0,1,0,monthly
+"Google Veo 3.1",veo-3-1,Pika,fast,,720p,,8.0,starter-600,10.00,1.3333,0.16667,1,0,1,0,monthly
 "Google Veo 3.1",veo-3-1,Replicate,fast,,,0,4.0,,,0.4000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,Replicate,fast,,,0,6.0,,,0.6000,0.10000,1,1,1,0,
 "Google Veo 3.1",veo-3-1,Replicate,fast,,,0,8.0,,,0.8000,0.10000,1,1,1,0,
@@ -15832,14 +15826,14 @@ model,model_slug,platform,mode,task,resolution,audio,duration_s,plan,plan_usd_mo
 "Wan 3.0",wan-3-0,Krea,std,,480p,,2.0,business-20000,50.00,0.2778,0.13889,0,0,0,0,monthly
 "Wan 3.0",wan-3-0,Krea,std,,480p,,2.0,business-40000,100.00,0.2778,0.13889,0,0,0,0,monthly
 "Wan 3.0",wan-3-0,Krea,std,,480p,,2.0,business-80000,200.00,0.2778,0.13889,0,0,0,0,monthly
-"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,creator-3150,28.00,0.2933,0.05867,0,0,1,0,yearly
 "Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,fancy-79200,704.00,0.2933,0.05867,0,0,1,0,yearly
 "Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,fancy-8550,76.00,0.2933,0.05867,0,0,1,0,yearly
-"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,starter-900,8.00,0.2933,0.05867,0,0,1,0,yearly
-"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,creator-3150,35.00,0.3667,0.07333,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,creator-2600,28.00,0.3554,0.07108,0,0,1,0,yearly
 "Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,fancy-79200,880.00,0.3667,0.07333,0,0,1,0,monthly
-"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,fancy-8550,95.00,0.3667,0.07333,0,0,1,0,monthly
-"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,starter-900,10.00,0.3667,0.07333,1,1,1,0,monthly
+"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,fancy-8550,95.00,0.3667,0.07333,0,1,1,0,monthly
+"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,starter-600,8.00,0.4400,0.08800,0,0,1,0,yearly
+"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,creator-2600,35.00,0.4442,0.08885,0,0,1,0,monthly
+"Wan 3.0",wan-3-0,Pika,std,,720p,,5.0,starter-600,10.00,0.5500,0.11000,1,0,1,0,monthly
 "Wan 3.0",wan-3-0,Replicate,std,,1080p,,2.0,,,0.2800,0.14000,1,1,1,0,
 "Wan 3.0",wan-3-0,Replicate,std,,1080p,,3.0,,,0.4200,0.14000,1,1,1,0,
 "Wan 3.0",wan-3-0,Replicate,std,,1080p,,4.0,,,0.5600,0.14000,1,1,1,0,
