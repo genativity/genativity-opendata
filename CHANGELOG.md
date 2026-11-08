@@ -2,9 +2,18 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-07.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-08.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-08
+
+### Prices
+
+- **Kie.ai is now the cheapest place to run Grok Video** at v1.5 1080p ($0.04/s), ahead of fal.ai ($0.25/s). [Compare](https://genativity.com/radar/grok-video)
+
+**New offers:**
+- Grok Video on Kie.ai: 1 variant, from $0.04/s ([radar](https://genativity.com/radar/grok-video))
 
 ## 2026-11-07
 

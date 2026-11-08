@@ -5,23 +5,18 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 29 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **16,219 prices** for 15 models, last read 2026-11-07
+- **16,234 prices** for 15 models, last read 2026-11-08
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-11-07)
+## Latest changes (2026-11-08)
 
 #### Prices
 
-2 price changes (2 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+- **Kie.ai is now the cheapest place to run Grok Video** at v1.5 1080p ($0.04/s), ahead of fal.ai ($0.25/s). [Compare](https://genativity.com/radar/grok-video)
 
-| Model | Platform | Variant | Before | Now | Change |
-|---|---|---|---:|---:|---:|
-| [FLUX 3](https://genativity.com/radar/flux-3) | Luma Dream Machine | 1080p, audio | $0.204/s | $0.16/s | -21.6% |
-| [FLUX 3](https://genativity.com/radar/flux-3) | Luma Dream Machine | 720p, audio | $0.12/s | $0.10/s | -16.7% |
-
-**No longer listed:**
-- OpenAI Sora 2 on Replicate: 2 variants
+**New offers:**
+- Grok Video on Kie.ai: 1 variant, from $0.04/s ([radar](https://genativity.com/radar/grok-video))
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -56,7 +51,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 16 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 698 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 16,219 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 16,234 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
