@@ -2,9 +2,44 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-10.** Prices are re-read twice a day; a day with no entry below is a day with no changes (nothing has moved since 2026-11-08).
+**Last checked: 2026-11-11.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-11
+
+### Prices
+
+- **Kie.ai is now the cheapest place to run MiniMax H3** at 2k ($0.065/s), after Higgsfield API raised its price. [Compare](https://genativity.com/radar/hailuo-h3)
+- **Replicate is now the cheapest place to run Wan 3.0** at 480p, 720p and 1080p, after Higgsfield API raised its price. [Compare](https://genativity.com/radar/wan-3-0)
+
+34 price changes (12 down, 22 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [MiniMax H3](https://genativity.com/radar/hailuo-h3) | Higgsfield API | 3 variants (2k) | $0.065/s | $0.13/s | +100.0% (promo ended) |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Higgsfield API | 2 variants (pro, i2v and pro, t2v) | $0.056/s | $0.0962/s | +71.8% (promo ended) |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Higgsfield API | 2 variants (i2v and t2v) | $0.042/s | $0.0714/s | +70.0% (promo ended) |
+| [Kling 3.0](https://genativity.com/radar/kling-3-0) | Higgsfield API | 2 variants (4k, i2v and 4k, t2v) | $0.21/s | $0.315/s | +50.0% (promo ended) |
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield API | 8 variants (480p, 720p and 1080p) | $0.025/s | $0.0375/s | +50.0% (promo ended) |
+| [Kling 3.0 Turbo](https://genativity.com/radar/kling-3-0-turbo) | Higgsfield API | 2 variants (1080p) | $0.07/s | $0.105/s | +49.9% (promo ended) |
+| [Kling 3.0 Turbo](https://genativity.com/radar/kling-3-0-turbo) | Higgsfield API | 2 variants (720p) | $0.056/s | $0.0839/s | +49.8% (promo ended) |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Higgsfield API | ref2v, 480p | $0.173/s | $0.139/s | -19.7% (promo ended) |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Higgsfield API | 2 variants (480p) | $0.0985/s | $0.0804/s | -18.4% (promo ended) |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Higgsfield API | ref2v, 4k | $1.306/s | $1.067/s | -18.3% (promo ended) |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Higgsfield API | 2 variants (480p) | $0.144/s | $0.118/s | -18.3% (promo ended) |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Higgsfield API | 2 variants (4k) | $1.089/s | $0.891/s | -18.2% (promo ended) |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Higgsfield API | 2 variants (1080p) | $0.796/s | $0.652/s | -18.1% (promo ended) |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Higgsfield API | ref2v, 1080p | $0.955/s | $0.786/s | -17.7% (promo ended) |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | Higgsfield API | ref2v, 480p | $0.118/s | $0.0991/s | -16.2% (promo ended) |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Higgsfield | 4k | $1.083/s | $1.167/s | +7.7% |
+
+**New offers:**
+- Seedance 2.0 on Higgsfield API: 4 variants, from $0.174/s ([radar](https://genativity.com/radar/seedance-2-0))
+- Seedance 2.5 on Higgsfield API: 2 variants, from $0.265/s ([radar](https://genativity.com/radar/seedance-2-5))
+
+**No longer listed:**
+- Wan 3.0 on Higgsfield API: 1 variant
 
 ## 2026-11-08
 
