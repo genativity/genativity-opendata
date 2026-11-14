@@ -5,24 +5,18 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 29 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **16,350 prices** for 15 models, last read 2026-11-13
+- **16,434 prices** for 15 models, last read 2026-11-14
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-11-13)
+## Latest changes (2026-11-14)
 
 #### Prices
 
-- **Runway API is now the cheapest place to run Seedance 2.5** at 4k ($1.10/s), ahead of Higgsfield ($1.167/s). [Compare](https://genativity.com/radar/seedance-2-5)
-
-1 price change (1 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
-
-| Model | Platform | Variant | Before | Now | Change |
-|---|---|---|---:|---:|---:|
-| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | Magnific | 1080p | $1.10/s | $0.79/s | -28.2% |
+- **Runway is now the cheapest place to run Seedance 2.5** at 4k ($1.10/s), after Runway API raised its price. [Compare](https://genativity.com/radar/seedance-2-5)
 
 **New offers:**
-- Seedance 2.5 on Runway API: 1 variant, from $1.10/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Runway: 1 variant, from $1.10/s ([radar](https://genativity.com/radar/seedance-2-5))
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -57,7 +51,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 16 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 698 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 16,350 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 16,434 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 

@@ -2,9 +2,18 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-13.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-14.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-14
+
+### Prices
+
+- **Runway is now the cheapest place to run Seedance 2.5** at 4k ($1.10/s), after Runway API raised its price. [Compare](https://genativity.com/radar/seedance-2-5)
+
+**New offers:**
+- Seedance 2.5 on Runway: 1 variant, from $1.10/s ([radar](https://genativity.com/radar/seedance-2-5))
 
 ## 2026-11-13
 
