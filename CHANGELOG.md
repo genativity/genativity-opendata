@@ -2,9 +2,18 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-15.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-16.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-16
+
+### Prices
+
+- **BytePlus ModelArk is now the cheapest place to run Seedance 2.5** at 4k ($0.914/s), ahead of Runway ($1.10/s). [Compare](https://genativity.com/radar/seedance-2-5)
+
+**New offers:**
+- Seedance 2.5 on BytePlus ModelArk: 1 variant, from $0.914/s ([radar](https://genativity.com/radar/seedance-2-5))
 
 ## 2026-11-15
 
