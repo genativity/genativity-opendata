@@ -2,9 +2,21 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-18.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-19.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-19
+
+### Prices
+
+**New offers:**
+- Seedance 2.5 on fal.ai: 6 variants, from $1.84/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Kie.ai: 1 variant, from $1.255/s ([radar](https://genativity.com/radar/seedance-2-5))
+- Seedance 2.5 on Lumeta: 1 variant, from $0.745/s ([radar](https://genativity.com/radar/seedance-2-5))
+
+**No longer listed:**
+- MiniMax H3 on Higgsfield API: 3 variants
 
 ## 2026-11-18
 
@@ -586,11 +598,3 @@ By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
 
 **New offers:**
 - FLUX 3 on Black Forest Labs API, the model's official API, and on fal.ai ([radar](https://sloptv.co/radar/flux-3))
-
-## 2026-10-03
-
-### Prices
-
-**New sources:** the radar now also reads the model makers' own APIs, so resellers can be compared with the official price.
-- Google Gemini API, Kling API, MiniMax API, Luma API, xAI API and BytePlus ModelArk (ByteDance)
-- Magnific and OpenArt
