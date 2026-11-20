@@ -2,9 +2,27 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-19.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-20.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-20
+
+### Prices
+
+12 price changes (10 down, 2 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | 2 variants (480p) | $0.173/s | $0.141/s | -18.8% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | 2 variants (720p) | $0.37/s | $0.302/s | -18.3% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | us-hosted, i2v, 1080p | $0.682/s | $0.748/s | +9.7% |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (480p) | $0.144/s | $0.135/s | -6.7% |
+| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | us-hosted, i2v, 480p | $0.135/s | $0.141/s | +4.5% |
+| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (720p) | $0.309/s | $0.302/s | -2.3% |
+
+**New offers:**
+- Seedance 2.0 on fal.ai: 4 variants, from $0.748/s ([radar](https://genativity.com/radar/seedance-2-0))
 
 ## 2026-11-19
 
@@ -587,14 +605,3 @@ By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
 ### Dataset
 
 - First public release of this dataset on GitHub: 13 models, 518 scored clips and 10,111 prices from 15 platforms and APIs.
-
-## 2026-10-04
-
-### Leaderboard
-
-- **New model: FLUX 3** enters at #3 with 4.83/5, level with Seedance 2.0, after 40 scored clips. It has perfect scores on on-screen text, lip-sync and multi-shot tests. [Clips and scores](https://sloptv.co/model/flux-3)
-
-### Prices
-
-**New offers:**
-- FLUX 3 on Black Forest Labs API, the model's official API, and on fal.ai ([radar](https://sloptv.co/radar/flux-3))
