@@ -2,9 +2,36 @@
 
 What changed in the data, day by day: price moves, new offers, new cheapest platforms, leaderboard changes and new benchmark clips. Prices are per second of video on each platform's best plan; the full detail of every change is in the commit diff.
 
-**Last checked: 2026-11-20.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
+**Last checked: 2026-11-21.** Prices are re-read twice a day; a day with no entry below is a day with no changes.
 
 By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
+
+## 2026-11-21
+
+### Prices
+
+- **Higgsfield is now the cheapest place to run Wan 3.0** at 480p, 720p and 1080p, ahead of Replicate. [Compare](https://genativity.com/radar/wan-3-0)
+
+3 price changes (3 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+
+| Model | Platform | Variant | Before | Now | Change |
+|---|---|---|---:|---:|---:|
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield | 480p | $0.0417/s | $0.0313/s | -25.0% |
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield | 2 variants (720p and 1080p) | $0.0729/s | $0.0625/s | -14.3% |
+
+**No longer listed:**
+- Grok Video on Runway: 3 variants
+- Grok Video on Runway API: 3 variants
+- MiniMax H3 on Runway: 4 variants
+- MiniMax H3 on Runway API: 4 variants
+- Runway Gen-4.5 on Runway: 1 variant
+- Runway Gen-4.5 on Runway API: 1 variant
+- Seedance 2.0 on Runway: 8 variants
+- Seedance 2.0 on Runway API: 8 variants
+- Seedance 2.5 on Runway: 4 variants
+- Seedance 2.5 on Runway API: 5 variants
+- Wan 3.0 on Runway: 3 variants
+- Wan 3.0 on Runway API: 3 variants
 
 ## 2026-11-20
 
@@ -599,9 +626,3 @@ By month: [2026-11](changelog/2026-11.md) · [2026-10](changelog/2026-10.md)
 - Seedance 2.0 on Kie.ai: 8 variants, from $0.019/s ([radar](https://sloptv.co/radar/seedance-2-0))
 - Seedance 2.5 on Kie.ai: 3 variants, from $0.14/s ([radar](https://sloptv.co/radar/seedance-2-5))
 - Google Veo 3.1 on Kie.ai: 24 variants, from $0.0188/s ([radar](https://sloptv.co/radar/veo-3-1))
-
-## 2026-10-06
-
-### Dataset
-
-- First public release of this dataset on GitHub: 13 models, 518 scored clips and 10,111 prices from 15 platforms and APIs.

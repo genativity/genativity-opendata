@@ -5,27 +5,32 @@ Every model runs the same 40 fixed prompts across 10 categories (hands, faces, l
 camera moves and more), every clip is scored, and published prices are tracked twice a day across 29 platforms and APIs.
 
 - **16 models** benchmarked, **698 scored clips**
-- **16,645 prices** for 15 models, last read 2026-11-20
+- **14,594 prices** for 15 models, last read 2026-11-21
 - Updated automatically every day. The git history of `data/prices.csv` is a day-by-day record of AI video prices:
   each commit's diff shows exactly which prices moved. All prices in a commit were read on the date in its message.
 
-## Latest changes (2026-11-20)
+## Latest changes (2026-11-21)
 
 #### Prices
 
-12 price changes (10 down, 2 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
+- **Higgsfield is now the cheapest place to run Wan 3.0** at 480p, 720p and 1080p, ahead of Replicate. [Compare](https://genativity.com/radar/wan-3-0)
+
+3 price changes (3 down, 0 up). Best plan, per second of video; when a change covers several variants, the cheapest one is shown:
 
 | Model | Platform | Variant | Before | Now | Change |
 |---|---|---|---:|---:|---:|
-| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | 2 variants (480p) | $0.173/s | $0.141/s | -18.8% |
-| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | 2 variants (720p) | $0.37/s | $0.302/s | -18.3% |
-| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | us-hosted, i2v, 1080p | $0.682/s | $0.748/s | +9.7% |
-| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (480p) | $0.144/s | $0.135/s | -6.7% |
-| [Seedance 2.0](https://genativity.com/radar/seedance-2-0) | fal.ai | us-hosted, i2v, 480p | $0.135/s | $0.141/s | +4.5% |
-| [Seedance 2.5](https://genativity.com/radar/seedance-2-5) | fal.ai | 3 variants (720p) | $0.309/s | $0.302/s | -2.3% |
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield | 480p | $0.0417/s | $0.0313/s | -25.0% |
+| [Wan 3.0](https://genativity.com/radar/wan-3-0) | Higgsfield | 2 variants (720p and 1080p) | $0.0729/s | $0.0625/s | -14.3% |
 
-**New offers:**
-- Seedance 2.0 on fal.ai: 4 variants, from $0.748/s ([radar](https://genativity.com/radar/seedance-2-0))
+**No longer listed:**
+- Grok Video on Runway: 3 variants
+- Grok Video on Runway API: 3 variants
+- MiniMax H3 on Runway: 4 variants
+- MiniMax H3 on Runway API: 4 variants
+- Runway Gen-4.5 on Runway: 1 variant
+- Runway Gen-4.5 on Runway API: 1 variant
+
+[Full list of changes](CHANGELOG.md)
 
 [All changes, day by day](CHANGELOG.md)
 
@@ -60,7 +65,7 @@ Full table with sub-scores and per-category scores: [`data/leaderboard.csv`](dat
 |---|---:|---|
 | [`data/leaderboard.csv`](data/leaderboard.csv) | 16 | One row per model: overall score, 95% confidence interval, sub-scores and the score in each test category. |
 | [`data/scores.csv`](data/scores.csv) | 698 | One row per scored clip: model, prompt, category, round and every judge score, with a link to the clip. |
-| [`data/prices.csv`](data/prices.csv) | 16,645 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
+| [`data/prices.csv`](data/prices.csv) | 14,594 | Current published prices on every platform and API we track, normalised to USD per clip and per second. |
 
 All files are UTF-8 CSV with a header row. [`datapackage.json`](datapackage.json) describes them in the [Frictionless Data](https://frictionlessdata.io/) format.
 
